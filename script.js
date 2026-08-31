@@ -130,10 +130,23 @@
         const row = document.createElement("div");
         row.className = "movie-row";
 
+        if (movie.poster_url) {
+          const img = document.createElement("img");
+          img.className = "poster-thumb";
+          img.src = movie.poster_url;
+          img.alt = "";
+          img.loading = "lazy";
+          img.addEventListener("error", () => img.remove());
+          row.appendChild(img);
+        }
+
+        const text = document.createElement("div");
+        text.className = "movie-text";
+
         const title = document.createElement("p");
         title.className = "movie-title";
         title.textContent = movie.year ? `${movie.title} (${movie.year})` : movie.title;
-        row.appendChild(title);
+        text.appendChild(title);
 
         if (movie.genre || movie.rating) {
           const meta = document.createElement("p");
@@ -142,7 +155,7 @@
           if (movie.genre) parts.push(movie.genre);
           if (movie.rating) parts.push(`${movie.rating}/10`);
           meta.textContent = parts.join(" · ");
-          row.appendChild(meta);
+          text.appendChild(meta);
         }
 
         if (movie.showtimes && movie.showtimes.length) {
@@ -154,9 +167,10 @@
             span.textContent = t;
             times.appendChild(span);
           }
-          row.appendChild(times);
+          text.appendChild(times);
         }
 
+        row.appendChild(text);
         card.appendChild(row);
       }
 
@@ -187,16 +201,30 @@
       const card = document.createElement("article");
       card.className = "upcoming-card";
 
+      if (film.poster_url) {
+        const img = document.createElement("img");
+        img.className = "poster-thumb poster-thumb-large";
+        img.src = film.poster_url;
+        img.alt = "";
+        img.loading = "lazy";
+        img.addEventListener("error", () => img.remove());
+        card.appendChild(img);
+      }
+
+      const text = document.createElement("div");
+      text.className = "movie-text";
+
       const title = document.createElement("p");
       title.className = "movie-title";
       title.textContent = film.year ? `${film.title} (${film.year})` : film.title;
-      card.appendChild(title);
+      text.appendChild(title);
 
       const date = document.createElement("span");
       date.className = "release-date";
       date.textContent = fmtDate(film.release_date) || "datum onbekend";
-      card.appendChild(date);
+      text.appendChild(date);
 
+      card.appendChild(text);
       el.upcomingView.appendChild(card);
     }
   }
