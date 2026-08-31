@@ -2,6 +2,7 @@ name: Update bioscoopdata
 
 on:
   schedule:
+    # 06:00 UTC = 08:00 zomertijd / 07:00 wintertijd in Amsterdam
     - cron: "0 6 * * *"
   workflow_dispatch: {}
 
@@ -24,6 +25,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python scripts/scrape.py --debug
 
       - name: Commit data indien gewijzigd
