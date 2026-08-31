@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Amsterdamse bioscoopagenda</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Amsterdamse bioscoopagenda</h1>
+    <p class="subtitle">Films die nu draaien en binnenkort uitkomen, in de bioscopen en filmhuizen van Amsterdam.</p>
+    <p class="updated-at" id="updated-at"></p>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="now" role="tab" aria-selected="true">Nu draait</button>
+    <button class="tab" data-tab="upcoming" role="tab" aria-selected="false">Binnenkort</button>
+  </nav>
+
+  <section class="controls" id="now-controls">
+    <input type="search" id="search-input" placeholder="Zoek op titel..." aria-label="Zoek op filmtitel" />
+    <select id="cinema-filter" aria-label="Filter op bioscoop">
+      <option value="">Alle bioscopen</option>
+    </select>
+  </section>
+
+  <main id="content">
+    <p id="status-message" class="status-message"></p>
+    <section id="now-view"></section>
+    <section id="upcoming-view" hidden></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Data van <a href="https://www.filmvandaag.nl/filmladder/stad/13-amsterdam" target="_blank" rel="noopener">filmvandaag.nl</a>,
+      automatisch ververst. Geen officiele bron voor tickets — controleer speeltijden altijd bij de bioscoop zelf.
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
