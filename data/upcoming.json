@@ -1,1296 +1,1554 @@
 {
-  "generated_at": "2026-08-31T21:01:38.070899+00:00",
+  "generated_at": "2026-08-31T21:28:19.913306+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
       "title": "Films binnenkort in de bioscoop",
       "year": null,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": null
     },
     {
       "title": "Peau d'âne",
       "year": 1970,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mYlWFbBEc3A09hRp38vGdoRpmrl.jpg"
     },
     {
       "title": "Terminator 2: Judgment Day",
       "year": 1991,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
     },
     {
       "title": "Les demoiselles de Rochefort",
       "year": 1967,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/slOyuNsPyXnh4VoXJNT8F7qEXCE.jpg"
     },
     {
       "title": "La baie des anges",
       "year": 1963,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vCmQwVJ3TdS6p8qH0Y5ivBqWJej.jpg"
     },
     {
       "title": "Lola",
       "year": 1961,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/eSM8yCUGhE5YUBIfQSK72YIFCkC.jpg"
     },
     {
       "title": "De Manager",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ng8HpSyhIcbxEfpdyJwTU6jfs7j.jpg"
     },
     {
       "title": "Leviticus",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aO2A8Yka5iTDUt0TRonItKK1NTz.jpg"
     },
     {
       "title": "Dagboek van een Zwakke Yogi",
       "year": 1993,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1GJwQ4MDLndsbgGoP5kwNT5ETpb.jpg"
     },
     {
       "title": "By Any Means",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hZHGPzE64S3K0Qk0SUWAdn6NMvq.jpg"
     },
     {
       "title": "The Death of Robin Hood",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
     },
     {
       "title": "Home",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3HRQp3HyLs7xiETvpMDB8Ckullt.jpg"
     },
     {
       "title": "F*ck de Familie",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ioN0E15yIsHdiyREGKW0dKu6vbf.jpg"
     },
     {
       "title": "Histoires parallèles",
       "year": 2026,
-      "release_date": "2026-09-03"
+      "release_date": "2026-09-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ugkNybkuW2wBdZQtT7rFutUSj2x.jpg"
     },
     {
       "title": "Bumba: Het Circusorkest",
       "year": 2026,
-      "release_date": "2026-09-06"
+      "release_date": "2026-09-06",
+      "poster_url": null
     },
     {
       "title": "Akira",
       "year": 1988,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
     },
     {
       "title": "Pressure",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/lRaGqArL1PKqS4jvFH1LTOho1Rp.jpg"
     },
     {
       "title": "Rosebush Pruning",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/a54YwgUQpdSH1jR2pmDULuujaQU.jpg"
     },
     {
       "title": "Practical Magic 2",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2eN0UkWEJzo8WV0lo0TCcMB817L.jpg"
     },
     {
       "title": "Love-22-Love",
       "year": 2025,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5Hu9ORLLqD0BkCNqoeDiMRvCR8R.jpg"
     },
     {
       "title": "Pour le plaisir",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/khaJlB6LGjTtGjbxthU4MJzjrx5.jpg"
     },
     {
       "title": "Runner",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sH2lujm4DPXfJG51PiB4UZcc4ig.jpg"
     },
     {
       "title": "The Incomer",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
     },
     {
       "title": "Oasis: Don't Look Back in Anger",
       "year": 2026,
-      "release_date": "2026-09-10"
+      "release_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
     },
     {
       "title": "Arrietty",
       "year": 2010,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/t0xGWduoo2G6VkplVgJH905zUXB.jpg"
     },
     {
       "title": "Whisper of the Heart",
       "year": 1995,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dbErbJ5htOa4UR49PG6cF4hA3ju.jpg"
     },
     {
       "title": "Sugar",
       "year": null,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2FBvobFZGibenqKerk786qg9AHD.jpg"
     },
     {
       "title": "Paradijs",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i4UOoobEN4SisA1A2lVN1TVwBie.jpg"
     },
     {
       "title": "Silent Flood",
       "year": 2025,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/o7zGYy6qvEiTh8iUmZjj499Y60I.jpg"
     },
     {
       "title": "The Plague",
       "year": 2025,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/s3ZgA6aoSnYwTEv9ygQ3ZBr7EUD.jpg"
     },
     {
       "title": "How to Survive Hollywood",
       "year": 2025,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wGZQ7c0484GikYhuBfTXxX9Ms3C.jpg"
     },
     {
       "title": "Fall 2: Deadpoint",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4LvDuTRUqpCdGpuDlxf1YCaIXia.jpg"
     },
     {
       "title": "Breve Storia d'amore",
       "year": 2025,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5UjnPrlxTUeqjASAHzV1s9qlbox.jpg"
     },
     {
       "title": "The Kidnapping of a President",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3VviEZngwe1lzyt0HAmfzCEfM2W.jpg"
     },
     {
       "title": "Gail Daughtry and the Celebrity Sex Pass",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AiMy6QMlcrnTXQMJz5th20TwxUJ.jpg"
     },
     {
       "title": "No Good Men",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yDRWcHCwvpadstNrxN2F0OVBDoR.jpg"
     },
     {
       "title": "Resident Evil",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rvglJoocvvbXlKCaFnsT7zibw7W.jpg"
     },
     {
       "title": "De Gaulle: Liberté",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5h5FUkdupSlUMtosWHKiqTVCXxd.jpg"
     },
     {
       "title": "The Match",
       "year": 2026,
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8tZKdM4wu1fwzxqX80R82pOsRFP.jpg"
     },
     {
       "title": "Avengers: Endgame",
       "year": 2019,
-      "release_date": "2026-09-23"
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w342/stguLTUPp0d0dCsP7Q4qhV7uONV.jpg"
     },
     {
       "title": "HalloWiebe: Overdrive",
       "year": 2026,
-      "release_date": "2026-09-23"
+      "release_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rT0te2330z0NyqqpMEotn20M9mg.jpg"
     },
     {
       "title": "Juste une illusion",
       "year": 2026,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/eWPq3wSvJEMakESTXzaBECUNBYr.jpg"
     },
     {
       "title": "Human Nature",
       "year": 2022,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jZjmrabVskpxtscaGGOQzTjCx2E.jpg"
     },
     {
       "title": "Charlie Harper",
       "year": 2025,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jvAhbwqkbqexBacuu66NSixvAj7.jpg"
     },
     {
       "title": "Mother",
       "year": 2025,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/xIQtJZukjgGxEWatkv10Ml2QsG0.jpg"
     },
     {
       "title": "Palestine 36",
       "year": 2025,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg"
     },
     {
       "title": "Heart of the Beast",
       "year": 2026,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
     },
     {
       "title": "Sovereign Son",
       "year": 2026,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": null
     },
     {
       "title": "500 Miles",
       "year": 2026,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/FhRosui9MSdxdyD3h0skOFhqED.jpg"
     },
     {
       "title": "F.L.Y.",
       "year": 2023,
-      "release_date": "2026-09-24"
+      "release_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fcTSpFZZXtWAfeYxopsxq4Ak7I1.jpg"
     },
     {
       "title": "Mémoire de fille",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg"
     },
     {
       "title": "The Cycle of Love",
       "year": 2025,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5yK0eXbsYIxXJQ9uNoG7RtAsM8W.jpg"
     },
     {
       "title": "Verity",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg"
     },
     {
       "title": "Digger",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
     },
     {
       "title": "Downtown",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2uH92TG35iwm8TeailmUJArtZ9a.jpg"
     },
     {
       "title": "Forgotten Island",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg"
     },
     {
       "title": "De Club van Sinterklaas film: Paniek in het Pietendorp",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": null
     },
     {
       "title": "Cap Farewell",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/pBz98qJAA2PuIRzgHiLJWyG4xvi.jpg"
     },
     {
       "title": "Toutes Directions",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": null
     },
     {
       "title": "Crawlers",
       "year": 2026,
-      "release_date": "2026-10-01"
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg"
     },
     {
       "title": "Monster Mia",
       "year": 2026,
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wgYZL3ltYDn5Bhi7XFjTOpfQIln.jpg"
     },
     {
       "title": "Moppervis",
       "year": 2026,
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-07",
+      "poster_url": null
     },
     {
       "title": "Verhalen uit de Magische tuin",
       "year": 2025,
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-07",
+      "poster_url": null
     },
     {
       "title": "Shaun het Schaap: Het Beest van de Boerderij",
       "year": 2026,
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-07",
+      "poster_url": null
     },
     {
       "title": "Yugly",
       "year": 2026,
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/v0k03CaQh6uFc5Ot8Jjhvr5BMYu.jpg"
     },
     {
       "title": "Shall We Dance?",
       "year": 1996,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nbJmWcLjFkczj6TCGkogOROus6o.jpg"
     },
     {
       "title": "The Uprising",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
     },
     {
       "title": "Fuze",
       "year": 2025,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
     },
     {
       "title": "The Fix",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg"
     },
     {
       "title": "Franz",
       "year": 2025,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3RZGhKT6aDskjkOzF4vBmLzqxhM.jpg"
     },
     {
       "title": "The Social Reckoning",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg"
     },
     {
       "title": "Yellow Letters",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg"
     },
     {
       "title": "Wen er maar aan",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9Dhs1JzWbYtkBwkNugzfxw1ana9.jpg"
     },
     {
       "title": "De Tatta's: Daan",
       "year": null,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": null
     },
     {
       "title": "NT Live 2026 – The Misanthrope",
       "year": 2026,
-      "release_date": "2026-10-08"
+      "release_date": "2026-10-08",
+      "poster_url": null
     },
     {
       "title": "Whalefall",
       "year": 2026,
-      "release_date": "2026-10-14"
+      "release_date": "2026-10-14",
+      "poster_url": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
     },
     {
       "title": "Beware Boiúna",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tENVMxKvOkslv8kagVNdIEQ13RT.jpg"
     },
     {
       "title": "Sacrifice",
       "year": 2025,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/o4iceiahzncK2yMnG6lnb4JSheq.jpg"
     },
     {
       "title": "Imago",
       "year": 2025,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/k13aSaroIOERMewETAFh5SD2JWE.jpg"
     },
     {
       "title": "Street Fighter",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg"
     },
     {
       "title": "Sense and Sensibility",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg"
     },
     {
       "title": "Under the Flags, the Sun",
       "year": 2025,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/f9PbH0SH8UehyNQbMNwXwYRJMWN.jpg"
     },
     {
       "title": "Youri",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ryJUafgUttvBWv4cmvH6uOiQiyu.jpg"
     },
     {
       "title": "The Beloved",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg"
     },
     {
       "title": "L'Inconnue",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/y2T0tVfF0AHGYo2Bw3C5CkhlS5Y.jpg"
     },
     {
       "title": "Tegenwoordig heet iedereen Sorry",
       "year": 2026,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2zJxiEvfIEHlVz16W65MSSQV8qw.jpg"
     },
     {
       "title": "Brand New Landscape",
       "year": 2025,
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/n4OtiOk7uReqIjCEYfKGyqu4oA6.jpg"
     },
     {
       "title": "Wildwood",
       "year": 2026,
-      "release_date": "2026-10-21"
+      "release_date": "2026-10-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg"
     },
     {
       "title": "The Discovery of Heaven",
       "year": 2001,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wCYFTJpRkGhn47e9iXr4dQlTgSF.jpg"
     },
     {
       "title": "The Weight",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
     },
     {
       "title": "Clayface",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg"
     },
     {
       "title": "Erupcja",
       "year": 2025,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg"
     },
     {
       "title": "Wicker",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg"
     },
     {
       "title": "La vie d'une femme",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hakvR1eAbMI4xGFfElR6LZQyq8P.jpg"
     },
     {
       "title": "Coward",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AjgJ4yHrkQjKtl48E8X2VwxB78D.jpg"
     },
     {
       "title": "Ali G: Who Iz I?",
       "year": 2026,
-      "release_date": "2026-10-22"
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg"
     },
     {
       "title": "Coyote v. Acme",
       "year": 2026,
-      "release_date": "2026-10-28"
+      "release_date": "2026-10-28",
+      "poster_url": null
     },
     {
       "title": "Klara and the Sun",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2jKlYZsjT7RfXUC6UPtmuENEhsr.jpg"
     },
     {
       "title": "Maspalomas",
       "year": 2025,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2g5UBmSaxqwavsDrUGlf4OX2Aj3.jpg"
     },
     {
       "title": "3 Days in September",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mA8RwOB6u2jU2Zi4FNrmXzewO9O.jpg"
     },
     {
       "title": "Andiamo a bere l'ultima",
       "year": 2025,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": null
     },
     {
       "title": "Other Mommy",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kNxRgcTeqeU5jauBackTERoO2De.jpg"
     },
     {
       "title": "All of a Sudden",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/b9crZAqRKtxY9N3iHRJ4wpCHcXt.jpg"
     },
     {
       "title": "Primetime",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
     },
     {
       "title": "9 lunas",
       "year": 2026,
-      "release_date": "2026-10-29"
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aQ9uc9CtgN05qedbD8aSFp6NQn5.jpg"
     },
     {
       "title": "Les misérables",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7EF8N66rVFknYjwx8e5f5g0fsvz.jpg"
     },
     {
       "title": "Ghost Soldier",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg"
     },
     {
       "title": "Godzilla Minus Zero",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"
     },
     {
       "title": "Wild Horse Nine",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
     },
     {
       "title": "Amarga Navidad",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg"
     },
     {
       "title": "Club Kid",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg"
     },
     {
       "title": "Vier minus drei",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fHNoUt8bTg5bRr56MUjXYdBpltc.jpg"
     },
     {
       "title": "George Michael: The Faith Tour",
       "year": 2026,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": null
     },
     {
       "title": "Blue Lights",
       "year": 2024,
-      "release_date": "2026-11-05"
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/lTWipBA5S6Lp4tlQMfd38GfR68Z.jpg"
     },
     {
       "title": "CARNAVAL",
       "year": 2026,
-      "release_date": "2026-11-11"
+      "release_date": "2026-11-11",
+      "poster_url": null
     },
     {
       "title": "How to Rob a Bank",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8sMzu56Nok5WlEXCRdflEgshYQO.jpg"
     },
     {
       "title": "Ebenezer: A Christmas Carol",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wmuMZrelOQBAN2KlA30yOIeIUJl.jpg"
     },
     {
       "title": "Stand Up",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": null
     },
     {
       "title": "The Only Living Pickpocket in New York",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/otJsgLxFhsa43dTknU9NqxdkdP4.jpg"
     },
     {
       "title": "Queen at Sea",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iGfTwhMYMLd1z81AO3d1MHVTCbP.jpg"
     },
     {
       "title": "Hen",
       "year": 2025,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nUAvlVZvZaziCVIaU2QpB5XXgkI.jpg"
     },
     {
       "title": "Laatbloeier",
       "year": null,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": null
     },
     {
       "title": "Colony",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/o4hrXJseY8bsdsmpSb0lskDuKDg.jpg"
     },
     {
       "title": "Hope",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg"
     },
     {
       "title": "Salvation",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg"
     },
     {
       "title": "La Carn",
       "year": 2025,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7OrOyDGt5WlzvTiRX4U2Lx9eCYg.jpg"
     },
     {
       "title": "Forêt ivre",
       "year": 2026,
-      "release_date": "2026-11-12"
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wqvFC6WWp34YhxZxcTSYdg413Ps.jpg"
     },
     {
       "title": "Donnie Darko",
       "year": 2001,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/j5t4GWyBunfW24WMrLACj98THGW.jpg"
     },
     {
       "title": "Fausse note",
       "year": 2026,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/2xYwKUCmnO6Z7EJ6cS2oxTQzJfi.jpg"
     },
     {
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg"
     },
     {
       "title": "Fatherland",
       "year": 2026,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7VjwmvDG5mksJBXMcmK6PudqH88.jpg"
     },
     {
       "title": "I Play Rocky",
       "year": 2026,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg"
     },
     {
       "title": "Spinoza",
       "year": null,
-      "release_date": "2026-11-19"
+      "release_date": "2026-11-19",
+      "poster_url": null
     },
     {
       "title": "Disney's Hexed",
       "year": 2026,
-      "release_date": "2026-11-25"
+      "release_date": "2026-11-25",
+      "poster_url": null
     },
     {
       "title": "Killer of Sheep",
       "year": 1978,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg"
     },
     {
       "title": "The Cycle",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/h1UkhUC2wqenN8dxDcbD5wsH373.jpg"
     },
     {
       "title": "Paper Tiger",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/v023L1AFtd3rpy61B5JiEOR1sMF.jpg"
     },
     {
       "title": "Meet the Parents: Focker-In-Law",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg"
     },
     {
       "title": "Heysel 85",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dAE2iNptmserikKU0tldYz2d5IQ.jpg"
     },
     {
       "title": "Becomin",
       "year": 2025,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cAxteOtjaeQN045qNNbSEwu78c4.jpg"
     },
     {
       "title": "Minotaur",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg"
     },
     {
       "title": "Nagi Notes",
       "year": 2026,
-      "release_date": "2026-11-26"
+      "release_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i5BgsFxypyz3ml3oiMUxODI5Agc.jpg"
     },
     {
       "title": "The Cat in the Hat",
       "year": 2026,
-      "release_date": "2026-12-02"
+      "release_date": "2026-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg"
     },
     {
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "year": 2001,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
     },
     {
       "title": "Le fabuleux destin d'Amélie Poulain",
       "year": 2001,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/tdXtLG6L1QMwrv0MNdW6B9IwC8B.jpg"
     },
     {
       "title": "A Little Gray Wolf Will Come",
       "year": 2025,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/t4ealPt7t0WUTFVFZ5Kw7CUOpNC.jpg"
     },
     {
       "title": "Behemoth!",
       "year": 2026,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg"
     },
     {
       "title": "Fjord",
       "year": 2026,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/od5PWXCT4KhZ9ekVbnmq8kEWBjO.jpg"
     },
     {
       "title": "Violent Night 2",
       "year": 2026,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7HPvgItDw9NgW3iy4tFRRuGNbuN.jpg"
     },
     {
       "title": "Above the Below",
       "year": 2026,
-      "release_date": "2026-12-03"
+      "release_date": "2026-12-03",
+      "poster_url": null
     },
     {
       "title": "On the Sea",
       "year": 2025,
-      "release_date": "2026-12-04"
+      "release_date": "2026-12-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg"
     },
     {
       "title": "Asterix: Het Koninkrijk van Nubië",
       "year": 2026,
-      "release_date": "2026-12-09"
+      "release_date": "2026-12-09",
+      "poster_url": null
     },
     {
       "title": "Mouse Hunt",
       "year": 2025,
-      "release_date": "2026-12-09"
+      "release_date": "2026-12-09",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6YyG8iqdc7FZfdZcpy0cDsKJiNw.jpg"
     },
     {
       "title": "Golden State Killer",
       "year": null,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": null
     },
     {
       "title": "Victorian Psycho",
       "year": 2026,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg"
     },
     {
       "title": "Persona",
       "year": 1966,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mAE4uwrXLlzo5AAxEorFvErdumq.jpg"
     },
     {
       "title": "Violette",
       "year": 2026,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jo9AfceTbWND9uPjbZCFvzWyJgT.jpg"
     },
     {
       "title": "Skeer",
       "year": null,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": null
     },
     {
       "title": "NT Live: Fleabag",
       "year": 2019,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": null
     },
     {
       "title": "The Debut",
       "year": 2026,
-      "release_date": "2026-12-10"
+      "release_date": "2026-12-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg"
     },
     {
       "title": "The Devils",
       "year": 1971,
-      "release_date": "2026-12-11"
+      "release_date": "2026-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w342/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg"
     },
     {
       "title": "Avengers: Doomsday",
       "year": 2026,
-      "release_date": "2026-12-16"
+      "release_date": "2026-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
     },
     {
       "title": "Dune: Part Three",
       "year": 2026,
-      "release_date": "2026-12-16"
+      "release_date": "2026-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w342/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg"
     },
     {
       "title": "Fanny & Alexander",
       "year": 1982,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sTFnRP5GdDjR8P35CZ9UUDaiUSz.jpg"
     },
     {
       "title": "Incendies",
       "year": 2010,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i5GsLIII66LubmOai65cWiB4kZq.jpg"
     },
     {
       "title": "In Alaska",
       "year": 2026,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": null
     },
     {
       "title": "To Hold a Mountain",
       "year": 2026,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aQZIVIjqmxUe4nYP0BVEjlcfNXt.jpg"
     },
     {
       "title": "Aquí",
       "year": 2026,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rQp1QOZJaHq6sV0eF5Z475Vc6nl.jpg"
     },
     {
       "title": "Racing Johnny",
       "year": 2026,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": null
     },
     {
       "title": "Flesh and Fuel",
       "year": 2026,
-      "release_date": "2026-12-17"
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/AqrKWeE8Gio5IdStANJQY8Bm15g.jpg"
     },
     {
       "title": "Camembert (Family Quiz)",
       "year": 2026,
-      "release_date": "2026-12-24"
+      "release_date": "2026-12-24",
+      "poster_url": null
     },
     {
       "title": "A Talent For Murder",
       "year": 2026,
-      "release_date": "2026-12-24"
+      "release_date": "2026-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg"
     },
     {
       "title": "The Angry Birds Movie 3",
       "year": 2026,
-      "release_date": "2026-12-24"
+      "release_date": "2026-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg"
     },
     {
       "title": "Jumanji: Open World",
       "year": 2026,
-      "release_date": "2026-12-24"
+      "release_date": "2026-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qv0X60rC2SUWVvOkbgixpRoOSoq.jpg"
     },
     {
       "title": "Everybody to Kenmure Street",
       "year": 2026,
-      "release_date": "2026-12-24"
+      "release_date": "2026-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg"
     },
     {
       "title": "The Seventh Seal",
       "year": 1957,
-      "release_date": "2026-12-31"
+      "release_date": "2026-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cGaEX4XfOWo6JvQjOG01iOHT9UP.jpg"
     },
     {
       "title": "Wild Strawberries",
       "year": 1957,
-      "release_date": "2026-12-31"
+      "release_date": "2026-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7gEfbAh4IAdzFZyjNHwGIF4irjf.jpg"
     },
     {
       "title": "Summer with Monika",
       "year": 1953,
-      "release_date": "2026-12-31"
+      "release_date": "2026-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fSZqjEPMMhIcIoaFZY48SFfR4De.jpg"
     },
     {
       "title": "Scenes from a Marriage",
       "year": 1974,
-      "release_date": "2026-12-31"
+      "release_date": "2026-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qPVzFugyxCo92RwNJsk7by9WdUD.jpg"
     },
     {
       "title": "Pan's Labyrinth",
       "year": 2006,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx0ROTFkMSbnR6g0zGDRE4cGuWY.jpg"
     },
     {
       "title": "Time and Water",
       "year": 2026,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1hksIYHtsHCG70nZKbnrYBPk600.jpg"
     },
     {
       "title": "Werwulf",
       "year": 2026,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg"
     },
     {
       "title": "Paradis",
       "year": 2026,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/l6V0wgEVeSBlDnB0OHX05ZRtnPR.jpg"
     },
     {
       "title": "La bola negra",
       "year": 2026,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8M46fNFLURpRcbc2Vp0AGjrt5fG.jpg"
     },
     {
       "title": "Sheep in the Box",
       "year": 2026,
-      "release_date": "2027-01-07"
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg"
     },
     {
       "title": "Mouse",
       "year": 2026,
-      "release_date": "2027-01-14"
+      "release_date": "2027-01-14",
+      "poster_url": "https://image.tmdb.org/t/p/w342/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg"
     },
     {
       "title": "The Riders",
       "year": null,
-      "release_date": "2027-01-14"
+      "release_date": "2027-01-14",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg"
     },
     {
       "title": "Les amants du Pont-Neuf",
       "year": 1991,
-      "release_date": "2027-01-21"
+      "release_date": "2027-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nNoJtGFQeoaD9fO543G3F1adfiM.jpg"
     },
     {
       "title": "Karma",
       "year": 2026,
-      "release_date": "2027-01-21"
+      "release_date": "2027-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg"
     },
     {
       "title": "Children of Blood and Bone",
       "year": 2027,
-      "release_date": "2027-01-21"
+      "release_date": "2027-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg"
     },
     {
       "title": "The Meltdown",
       "year": 2026,
-      "release_date": "2027-01-21"
+      "release_date": "2027-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/agaPM6fOIwG1kmBXAprimPxT4mQ.jpg"
     },
     {
       "title": "Rehearsals for A Revolution",
       "year": 2026,
-      "release_date": "2027-01-28"
+      "release_date": "2027-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gwXHaUMsAa3qUakJxETGEDY3TRY.jpg"
     },
     {
       "title": "Ice Age: Boiling Point",
       "year": 2027,
-      "release_date": "2027-02-03"
+      "release_date": "2027-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg"
     },
     {
       "title": "Learning to Breathe Under Water",
       "year": 2026,
-      "release_date": "2027-02-04"
+      "release_date": "2027-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aiCjCS3v6RnHGQI7TPKBXFEzh63.jpg"
     },
     {
       "title": "Remain",
       "year": 2027,
-      "release_date": "2027-02-04"
+      "release_date": "2027-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg"
     },
     {
       "title": "The Last Whale Singer",
       "year": 2025,
-      "release_date": "2027-02-10"
+      "release_date": "2027-02-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yIDPrKCgiG49cULhITKxeZywISe.jpg"
     },
     {
       "title": "Let Love In",
       "year": 2026,
-      "release_date": "2027-02-11"
+      "release_date": "2027-02-11",
+      "poster_url": null
     },
     {
       "title": "De bovenburen",
       "year": null,
-      "release_date": "2027-02-11"
+      "release_date": "2027-02-11",
+      "poster_url": null
     },
     {
       "title": "Wife and Dog",
       "year": 2026,
-      "release_date": "2027-02-18"
+      "release_date": "2027-02-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg"
     },
     {
       "title": "The Man I Love",
       "year": 2026,
-      "release_date": "2027-02-18"
+      "release_date": "2027-02-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qIZ8pQ5nQjRKDtmsl0DYGO1nCQ.jpg"
     },
     {
       "title": "De Afterparty",
       "year": null,
-      "release_date": "2027-02-18"
+      "release_date": "2027-02-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8wm23LtLhMzjtmmSDHrjEkN9wX2.jpg"
     },
     {
       "title": "CoComelon: The Movie",
       "year": 2027,
-      "release_date": "2027-02-18"
+      "release_date": "2027-02-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/dDYSKF9VWmcgOy2sruIJkHs5DDG.jpg"
     },
     {
       "title": "De Bevers: Alles Voor De Fans!",
       "year": 2027,
-      "release_date": "2027-02-25"
+      "release_date": "2027-02-25",
+      "poster_url": null
     },
     {
       "title": "Gatto",
       "year": 2027,
-      "release_date": "2027-03-03"
+      "release_date": "2027-03-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg"
     },
     {
       "title": "The Thomas Crown Affair",
       "year": 2027,
-      "release_date": "2027-03-04"
+      "release_date": "2027-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg"
     },
     {
       "title": "Honolulu King",
       "year": null,
-      "release_date": "2027-03-04"
+      "release_date": "2027-03-04",
+      "poster_url": null
     },
     {
       "title": "The Nightingale",
       "year": 2027,
-      "release_date": "2027-03-18"
+      "release_date": "2027-03-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ghcC57Zl7qmOZWFqvc6aPBUC2fA.jpg"
     },
     {
       "title": "Koude kant",
       "year": 2026,
-      "release_date": "2027-03-18"
+      "release_date": "2027-03-18",
+      "poster_url": null
     },
     {
       "title": "From Inside Out: The Architecture of Peter Zumthor",
       "year": 2026,
-      "release_date": "2027-03-18"
+      "release_date": "2027-03-18",
+      "poster_url": "https://image.tmdb.org/t/p/w342/6Fl3Ie5qevVdDBJaHJZ2hZe98kD.jpg"
     },
     {
       "title": "Heimsuchung",
       "year": 2026,
-      "release_date": "2027-03-25"
+      "release_date": "2027-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1ENAoVhIdfacsHuoqDM8MwR6D4Z.jpg"
     },
     {
       "title": "Mumbo Jumbo",
       "year": 2026,
-      "release_date": "2027-03-25"
+      "release_date": "2027-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w342/ivnoXwbT3dzf28dkfXGgTceucds.jpg"
     },
     {
       "title": "A Prayer for the Dying",
       "year": 2026,
-      "release_date": "2027-04-08"
+      "release_date": "2027-04-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/kYIhGPwr5ztkvnRcD4GzZGfuNhv.jpg"
     },
     {
       "title": "Rewind Barcelona",
       "year": 2026,
-      "release_date": "2027-04-08"
+      "release_date": "2027-04-08",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rGGfwuAo2qBQINXbTfpNUmqQg74.jpg"
     },
     {
       "title": "Not Alone",
       "year": 2027,
-      "release_date": "2027-04-15"
+      "release_date": "2027-04-15",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg"
     },
     {
       "title": "Hanna van Hendrik",
       "year": null,
-      "release_date": "2027-04-15"
+      "release_date": "2027-04-15",
+      "poster_url": null
     },
     {
       "title": "Pirate Mo & the Legend of the Red Ruby",
       "year": null,
-      "release_date": "2027-04-21"
+      "release_date": "2027-04-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/hN5IemZFNUM8AdufoRS7CMxaj5U.jpg"
     },
     {
       "title": "A Place in Hell",
       "year": 2027,
-      "release_date": "2027-04-22"
+      "release_date": "2027-04-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4gSgzVw59vhegejEh1yMMfStXsU.jpg"
     },
     {
       "title": "Moulin",
       "year": 2026,
-      "release_date": "2027-04-29"
+      "release_date": "2027-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg"
     },
     {
       "title": "Una giornata particolare",
       "year": 1977,
-      "release_date": "2027-05-06"
+      "release_date": "2027-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w342/xaiFqvBA0IYGFDu2sEAszAFl3nF.jpg"
     },
     {
       "title": "Beach Read",
       "year": 2027,
-      "release_date": "2027-05-06"
+      "release_date": "2027-05-06",
+      "poster_url": null
     },
     {
       "title": "The Resurrection of the Christ Part One",
       "year": 2027,
-      "release_date": "2027-05-06"
+      "release_date": "2027-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w342/qx3QVH1eVqtrdvL1dndXPhCktLq.jpg"
     },
     {
       "title": "Demain je tombe amoureux",
       "year": 2026,
-      "release_date": "2027-05-06"
+      "release_date": "2027-05-06",
+      "poster_url": "https://image.tmdb.org/t/p/w342/q0CefWHHoYHR5dBTY9n6Jm9LIAN.jpg"
     },
     {
       "title": "Strawberries",
       "year": 2026,
-      "release_date": "2027-06-03"
+      "release_date": "2027-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mJrJSzrLP8MiCtBjPVKE29QCQ5Q.jpg"
     },
     {
       "title": "Spider-Man: Beyond the Spider-Verse",
       "year": 2027,
-      "release_date": "2027-06-24"
+      "release_date": "2027-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg"
     },
     {
       "title": "Shrek 5",
       "year": 2027,
-      "release_date": "2027-07-01"
+      "release_date": "2027-07-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zVGvsXptUWd1PgptipLNoIQYytW.jpg"
     },
     {
       "title": "The Batman Part II",
       "year": 2028,
-      "release_date": "2027-09-30"
+      "release_date": "2027-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w342/caeBJHLNld1h14uvcLvzyHf3Rlk.jpg"
     },
     {
       "title": "Confettiregen",
       "year": null,
-      "release_date": "2027-10-07"
+      "release_date": "2027-10-07",
+      "poster_url": null
     },
     {
       "title": "Margie Claus",
       "year": 2027,
-      "release_date": "2027-11-10"
+      "release_date": "2027-11-10",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mpWEBwFLlaSBuEshYnWd0Zm6USo.jpg"
     },
     {
       "title": "The Lord of the Rings: The Hunt for Gollum",
       "year": 2027,
-      "release_date": "2027-12-16"
+      "release_date": "2027-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg"
     },
     {
       "title": "The Housemaid's Secret",
       "year": 2027,
-      "release_date": "2027-12-16"
+      "release_date": "2027-12-16",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wN9UPRZ5jbL9n3wIkZSrVov1dC2.jpg"
     },
     {
       "title": "Black Panther 3",
       "year": 2028,
-      "release_date": "2028-12-14"
+      "release_date": "2028-12-14",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zJc9fYZxgq4yzI0Oru2e1Cf3a3V.jpg"
     },
     {
       "title": "Coco 2",
       "year": 2029,
-      "release_date": "2029-11-22"
+      "release_date": "2029-11-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/7YiB8tOQcY8ApdKkCnjQL5jGkIP.jpg"
     },
     {
       "title": "🔥 Meest gelezen",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Netflix deelt eerste trailer van waargebeurde misdaadfilm met Russell Crowe",
+      "title": "Huiveringwekkende true crime-docu bezorgt Netflix-kijkers kippenvel: 'Enorm goed'",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Netflix-kijkers raden elkaar intense miniserie aan: 'Geweldig'",
+      "title": "Heftige Netflix-serie maakt diepe indruk op kijkers: 'Zou iedereen moeten zien'",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Netflix onthult eerste blik op nieuwe waargebeurde oorlogsfilm 'The Mosquito Bowl'",
+      "title": "Volledig in de ban van 'Blodsoffer'? Op Netflix kijk je nu ook deze Scandinavische krimi's",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Historische oorlogsfilm met Florence Pugh valt in de smaak op Netflix: 'Ondergewaardeerd'",
+      "title": "Meeslepend kostuumdrama al jaren favoriet bij Netflix-kijkers: 'Fantastische serie'",
       "year": null,
-      "release_date": null
-    },
-    {
-      "title": "Miljoenen abonnees kijken naar aangrijpende top 10 Netflix-documentaire: 'Deze moet je absoluut gezien hebben'",
-      "year": null,
-      "release_date": null
-    },
-    {
-      "title": "Nieuwe Netflix-film met Robert De Niro maakt de tongen los: 'Echt een heerlijke thriller'",
-      "year": null,
-      "release_date": null
-    },
-    {
-      "title": "Gloednieuwe Deense thriller vanaf vandaag te streamen op Netflix",
-      "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Abonnees fan van spannende spionagethriller op Netflix: 'Echt een kijktip!'",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Schokkende documentaire verovert binnen één dag de nummer 1-positie op Netflix",
+      "title": "Recensie 'The Whisper Man' • 3.5",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
-      "title": "Duistere Netflix-thriller valt in de smaak bij abonnees: 'Een van de mooiste films ooit'",
+      "title": "Netflix-kijkers raden elkaar intense miniserie aan: 'Geweldig'",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Dit zijn de 5 beste nieuwe series op Netflix (week 35, 2026)",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "'Manifest' maakt onverwachte comeback met nieuwe Netflix-serie",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Miljoenen abonnees kijken naar aangrijpende top 10 Netflix-documentaire: 'Deze moet je absoluut gezien hebben'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Video on demand",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/w3ockPKH8z3Ap47Q0ky07SWVRjc.jpg"
     },
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-02"
+      "release_date": "2026-09-02",
+      "poster_url": null
     },
     {
       "title": "Algemeen",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Nieuws",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ap5SW1DwsmUEXbKIAasfgSiWy9v.jpg"
     },
     {
       "title": "Laatste nieuws",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Bioscoop",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/4MfwRIz8yHzXWge3Z0hZ8wuuBmO.jpg"
     },
     {
       "title": "Dvd & blu-ray",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/mUfvv6XZah5zcXtec2bnLRio4YN.jpg"
     },
     {
       "title": "Overzichten",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Netflix",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/jTZ5yiFpJPc19lA6uoT9zafHr0f.jpg"
     },
     {
       "title": "Pathé Thuis",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Disney+",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg"
     },
     {
       "title": "Prime Video",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/sGw10u9e60ROVSlH6lsFcvACyo9.jpg"
     },
     {
       "title": "Meer video on demand",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": null
     },
     {
       "title": "Partners",
       "year": null,
-      "release_date": null
+      "release_date": null,
+      "poster_url": "https://image.tmdb.org/t/p/w342/ew3K5yVAVi9kcVMhBS4X9Qixy5n.jpg"
     }
   ]
 }
