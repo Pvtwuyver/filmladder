@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:58:16.975891+00:00",
+  "generated_at": "2026-09-01T10:40:37.888897+00:00",
   "source": "https://www.filmvandaag.nl/filmladder/stad/13-amsterdam",
   "cinemas": [
     {
@@ -405,6 +405,21 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
         },
         {
+          "title": "The Death of Robin Hood",
+          "year": 2026,
+          "genre": "drama / actie / avontuur van Michael Sarnoski",
+          "rating": 6.0,
+          "showtimes": [
+            "21:30",
+            "12:10",
+            "16:40",
+            "19:40",
+            "22:15",
+            "18:40"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
+        },
+        {
           "title": "The Dog Stars",
           "year": 2026,
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
@@ -690,6 +705,17 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/8dkJn5VQjrlFesrZas6rvmdzo1C.jpg"
         },
         {
+          "title": "I'm Game",
+          "year": 2026,
+          "genre": "actie / thriller / drama van Nahas Hidayath",
+          "rating": null,
+          "showtimes": [
+            "20:30",
+            "20:45"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
+        },
+        {
           "title": "Ice Cream Man",
           "year": 2026,
           "genre": "horror / thriller van Eli Roth",
@@ -789,6 +815,20 @@
             "12:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gx71Cd7ViFClYNMkruj6h1n4j9Q.jpg"
+        },
+        {
+          "title": "Mirzapur: The Movie",
+          "year": 2026,
+          "genre": "misdaad / thriller van Gurmmeet Singh",
+          "rating": null,
+          "showtimes": [
+            "20:15",
+            "20:30",
+            "17:05",
+            "19:50",
+            "19:30"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg"
         },
         {
           "title": "Mutiny",
@@ -1009,6 +1049,26 @@
             "18:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
+        },
+        {
+          "title": "The Death of Robin Hood",
+          "year": 2026,
+          "genre": "drama / actie / avontuur van Michael Sarnoski",
+          "rating": 6.0,
+          "showtimes": [
+            "12:15",
+            "15:00",
+            "19:00",
+            "11:20",
+            "13:00",
+            "17:00",
+            "19:30",
+            "10:30",
+            "18:00",
+            "16:00",
+            "21:10"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
         },
         {
           "title": "The Dog Stars",
@@ -1416,6 +1476,27 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
         },
         {
+          "title": "The Death of Robin Hood",
+          "year": 2026,
+          "genre": "drama / actie / avontuur van Michael Sarnoski",
+          "rating": 6.0,
+          "showtimes": [
+            "11:15",
+            "21:00",
+            "11:10",
+            "16:40",
+            "18:30",
+            "10:50",
+            "13:40",
+            "15:45",
+            "18:45",
+            "11:20",
+            "13:20",
+            "18:50"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
+        },
+        {
           "title": "The Dog Stars",
           "year": 2026,
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
@@ -1460,6 +1541,16 @@
             "11:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/zShaBZCBknqIFEzZp5BfETKV5ho.jpg"
+        },
+        {
+          "title": "The Incomer",
+          "year": 2026,
+          "genre": "komedie / drama / fantasy van Louis Paxton",
+          "rating": 7.3,
+          "showtimes": [
+            "19:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
         },
         {
           "title": "The Invite",
@@ -2121,6 +2212,27 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/gWul6R3of23ygdwHkJIv5ZChMqj.jpg"
         },
         {
+          "title": "Histoires parallèles",
+          "year": 2026,
+          "genre": "drama / mystery / thriller van Asghar Farhadi",
+          "rating": 6.0,
+          "showtimes": [
+            "11:00",
+            "14:40",
+            "20:50",
+            "10:00",
+            "13:45",
+            "20:20",
+            "15:40",
+            "20:40",
+            "15:00",
+            "20:10",
+            "12:15",
+            "18:15"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/ugkNybkuW2wBdZQtT7rFutUSj2x.jpg"
+        },
+        {
           "title": "Michael",
           "year": 2026,
           "genre": "drama / historisch / biografie van Antoine Fuqua",
@@ -2240,6 +2352,26 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/rTowpijD2qXoXjh3G3PnOBpBy9i.jpg"
         },
         {
+          "title": "The Death of Robin Hood",
+          "year": 2026,
+          "genre": "drama / actie / avontuur van Michael Sarnoski",
+          "rating": 6.0,
+          "showtimes": [
+            "17:50",
+            "20:40",
+            "09:50",
+            "15:50",
+            "21:00",
+            "10:00",
+            "21:30",
+            "15:45",
+            "20:45",
+            "12:45",
+            "21:20"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
+        },
+        {
           "title": "The Dog Stars",
           "year": 2026,
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
@@ -2262,6 +2394,16 @@
             "18:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/SBLh85jhD1HmnxPqUIInwcO52H.jpg"
+        },
+        {
+          "title": "The Incomer",
+          "year": 2026,
+          "genre": "komedie / drama / fantasy van Louis Paxton",
+          "rating": 7.3,
+          "showtimes": [
+            "19:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
         },
         {
           "title": "The Invite",
@@ -2977,6 +3119,16 @@
       "name": "Cinema The Pulse",
       "movies": [
         {
+          "title": "De Gaulle: Liberté",
+          "year": 2026,
+          "genre": "drama / historisch / biografie van Antonin Baudry",
+          "rating": 8.0,
+          "showtimes": [
+            "13:45"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/5h5FUkdupSlUMtosWHKiqTVCXxd.jpg"
+        },
+        {
           "title": "De Gaulle: Résistance",
           "year": 2026,
           "genre": "drama / historisch / biografie van Antonin Baudry",
@@ -3242,6 +3394,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/zShaBZCBknqIFEzZp5BfETKV5ho.jpg"
         },
         {
+          "title": "The Incomer",
+          "year": 2026,
+          "genre": "komedie / drama / fantasy van Louis Paxton",
+          "rating": 7.3,
+          "showtimes": [
+            "21:45"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
+        },
+        {
           "title": "The Magic Faraway Tree",
           "year": 2026,
           "genre": "familie / avontuur / fantasy van Ben Gregor",
@@ -3324,6 +3486,16 @@
             "18:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hN0Cpt1U1gSFhtVBZ0KnjyUsmRO.jpg"
+        },
+        {
+          "title": "Boyz n the Hood",
+          "year": 1991,
+          "genre": "misdaad / drama van John Singleton",
+          "rating": 7.7,
+          "showtimes": [
+            "21:15"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg"
         },
         {
           "title": "C'était mieux demain",
@@ -3895,6 +4067,18 @@
             "12:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg"
+        },
+        {
+          "title": "Amsterdam Wildlife by Night",
+          "year": 2026,
+          "genre": null,
+          "rating": null,
+          "showtimes": [
+            "10:45",
+            "10:30",
+            "18:15"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/sn2CciFJlN2Xzckmpf6D8ym9WRR.jpg"
         },
         {
           "title": "Below the Clouds",
@@ -4532,6 +4716,16 @@
       "name": "Filmhuis Cavia",
       "movies": [
         {
+          "title": "Do You Love Me",
+          "year": 2025,
+          "genre": "biografie / documentaire van Lana Daher",
+          "rating": 7.7,
+          "showtimes": [
+            "21:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/5z8gemMLV6KkST1Frj1T7fzPCqw.jpg"
+        },
+        {
           "title": "A Tale of A Different City",
           "year": null,
           "genre": null,
@@ -4923,6 +5117,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/6IGXQUf3SaYKxv466CsCYmIFrdn.jpg"
         },
         {
+          "title": "El espíritu de la colmena",
+          "year": 1973,
+          "genre": "drama / fantasy van Víctor Erice",
+          "rating": 7.7,
+          "showtimes": [
+            "19:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/ueefcFKn9qoAQqjSWY6H9xjjLU2.jpg"
+        },
+        {
           "title": "Home",
           "year": 2026,
           "genre": "drama van Marijana Jankovic",
@@ -4978,6 +5182,16 @@
             "16:35"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/vuSGeFN8exbFbJqS1stmYaYaLgO.jpg"
+        },
+        {
+          "title": "Lazzaro felice",
+          "year": 2018,
+          "genre": "drama / fantasy / mystery van Alice Rohrwacher",
+          "rating": 7.5,
+          "showtimes": [
+            "21:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/7i9Y24GDSQ7dkKBKdYP3gsgTI3L.jpg"
         },
         {
           "title": "Les demoiselles de Rochefort",
@@ -5231,6 +5445,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg"
         },
         {
+          "title": "Fahrenheit 9/11",
+          "year": 2004,
+          "genre": "Fahrenheit 9/11",
+          "rating": 7.5,
+          "showtimes": [
+            "16:40"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/cZ7M343iuiMDc36fSeSm699XQFv.jpg"
+        },
+        {
           "title": "Four Lions",
           "year": 2010,
           "genre": "komedie / drama / misdaad van Christopher Morris",
@@ -5479,6 +5703,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/p9miBtbnwLCsPNeACHhAZgqEknq.jpg"
         },
         {
+          "title": "Starship Troopers",
+          "year": 1997,
+          "genre": "actie / sciencefiction / avontuur van Paul Verhoeven",
+          "rating": 7.3,
+          "showtimes": [
+            "16:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg"
+        },
+        {
           "title": "Team America: World Police",
           "year": 2004,
           "genre": "actie / komedie van Trey Parker",
@@ -5561,6 +5795,17 @@
             "16:25"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg"
+        },
+        {
+          "title": "The Fog of War: Eleven Lessons from the Life of Robert S. McNamara",
+          "year": 2003,
+          "genre": "documentaire / biografie / historisch / oorlog van Errol Morris",
+          "rating": 8.0,
+          "showtimes": [
+            "14:25",
+            "18:30"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg"
         },
         {
           "title": "The Great Dictator",
@@ -6547,6 +6792,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/gA1t81TgNwo4rHeZaJRfKXdazRZ.jpg"
         },
         {
+          "title": "Lola",
+          "year": 2022,
+          "genre": "oorlog / sciencefiction van Andrew Legge",
+          "rating": 6.4,
+          "showtimes": [
+            "18:30"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mHj7lXhBSVX1Kyls98mQkPsOVcx.jpg"
+        },
+        {
           "title": "Network",
           "year": 1976,
           "genre": "drama van Sidney Lumet",
@@ -7306,15 +7561,7 @@
           "poster_url": null
         },
         {
-          "title": "Bejubelde misdaadserie 'Furious' nu al verlengd met een tweede seizoen",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Nieuw seizoen geliefd Netflix-drama komt na afronding opnames steeds dichterbij",
+          "title": "Nieuwe Netflix-film met Robert De Niro maakt de tongen los: 'Echt een heerlijke thriller'",
           "year": null,
           "genre": null,
           "rating": null,
@@ -7330,31 +7577,7 @@
           "poster_url": null
         },
         {
-          "title": "Historische oorlogsfilm met Florence Pugh valt in de smaak op Netflix: 'Ondergewaardeerd'",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "De 10 beste nieuwe films op Netflix (week 35, 2026)",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Gloednieuwe Deense thriller vanaf vandaag te streamen op Netflix",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Nieuwe Netflix-film met Robert De Niro maakt de tongen los: 'Echt een heerlijke thriller'",
+          "title": "Nieuw seizoen geliefd Netflix-drama komt na afronding opnames steeds dichterbij",
           "year": null,
           "genre": null,
           "rating": null,
@@ -7370,7 +7593,23 @@
           "poster_url": null
         },
         {
-          "title": "Heftige Netflix-serie maakt diepe indruk op kijkers: 'Zou iedereen moeten zien'",
+          "title": "De 10 beste nieuwe films op Netflix (week 35, 2026)",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Dit zijn de 5 beste nieuwe series op Netflix (week 35, 2026)",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Deze week nieuw op Netflix (31 augustus t/m 6 september, 2026)",
           "year": null,
           "genre": null,
           "rating": null,
@@ -7379,6 +7618,22 @@
         },
         {
           "title": "Netflix-kijkers raden elkaar intense miniserie aan: 'Geweldig'",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Netflix wakkert geruchten over rol Meghan Markle in 'The Gentlemen' opnieuw aan",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Niet te stoppen Netflix-thriller houdt zich al tien weken staande in de internationale top 10",
           "year": null,
           "genre": null,
           "rating": null,
@@ -7425,7 +7680,7 @@
         {
           "title": "Laatste nieuws",
           "year": null,
-          "genre": "Spannende actiethriller met Idris Elba geliefd bij Netflix-kijkers 'Enorm goede film'",
+          "genre": "Netflix verlengt komedieserie 'Tires' met een vierde seizoen",
           "rating": null,
           "showtimes": [],
           "poster_url": null
