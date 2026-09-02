@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-09-01T10:40:37.888897+00:00",
+  "generated_at": "2026-09-02T10:06:12.630668+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
       "title": "Films binnenkort in de bioscoop",
       "year": null,
-      "release_date": "2026-09-03",
+      "release_date": "2026-09-06",
       "poster_url": null
     },
     {
       "title": "Peau d'âne",
       "year": 1970,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mYlWFbBEc3A09hRp38vGdoRpmrl.jpg"
     },
     {
       "title": "Terminator 2: Judgment Day",
       "year": 1991,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
     },
     {
       "title": "Les demoiselles de Rochefort",
       "year": 1967,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/slOyuNsPyXnh4VoXJNT8F7qEXCE.jpg"
     },
     {
       "title": "La baie des anges",
       "year": 1963,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/vCmQwVJ3TdS6p8qH0Y5ivBqWJej.jpg"
     },
     {
       "title": "Lola",
       "year": 1961,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/eSM8yCUGhE5YUBIfQSK72YIFCkC.jpg"
     },
     {
       "title": "De Manager",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ng8HpSyhIcbxEfpdyJwTU6jfs7j.jpg"
     },
     {
       "title": "Leviticus",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/aO2A8Yka5iTDUt0TRonItKK1NTz.jpg"
     },
     {
       "title": "Dagboek van een Zwakke Yogi",
       "year": 1993,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/1GJwQ4MDLndsbgGoP5kwNT5ETpb.jpg"
     },
     {
       "title": "By Any Means",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/hZHGPzE64S3K0Qk0SUWAdn6NMvq.jpg"
     },
     {
       "title": "The Death of Robin Hood",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
     },
     {
       "title": "Home",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/3HRQp3HyLs7xiETvpMDB8Ckullt.jpg"
     },
     {
       "title": "F*ck de Familie",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ioN0E15yIsHdiyREGKW0dKu6vbf.jpg"
     },
     {
       "title": "Histoires parallèles",
       "year": 2026,
-      "release_date": "2026-09-03",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/ugkNybkuW2wBdZQtT7rFutUSj2x.jpg"
     },
     {
@@ -426,13 +426,13 @@
       "title": "The Social Reckoning",
       "year": 2026,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg"
     },
     {
       "title": "Yellow Letters",
       "year": 2026,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg"
     },
     {
       "title": "Wen er maar aan",
@@ -525,12 +525,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/n4OtiOk7uReqIjCEYfKGyqu4oA6.jpg"
     },
     {
-      "title": "Wildwood",
-      "year": 2026,
-      "release_date": "2026-10-21",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg"
-    },
-    {
       "title": "The Discovery of Heaven",
       "year": 2001,
       "release_date": "2026-10-22",
@@ -541,6 +535,12 @@
       "year": 2026,
       "release_date": "2026-10-22",
       "poster_url": "https://image.tmdb.org/t/p/w342/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg"
+    },
+    {
+      "title": "Wildwood",
+      "year": 2026,
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg"
     },
     {
       "title": "Clayface",
@@ -624,7 +624,7 @@
       "title": "Primetime",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg"
     },
     {
       "title": "9 lunas",
@@ -714,7 +714,7 @@
       "title": "The Only Living Pickpocket in New York",
       "year": 2026,
       "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w342/otJsgLxFhsa43dTknU9NqxdkdP4.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg"
     },
     {
       "title": "Queen at Sea",
@@ -924,7 +924,7 @@
       "title": "Golden State Killer",
       "year": null,
       "release_date": "2026-12-10",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/ixS9rT1I3wvWewPnsL2LZToAsk1.jpg"
     },
     {
       "title": "Victorian Psycho",
@@ -1104,13 +1104,19 @@
       "title": "La bola negra",
       "year": 2026,
       "release_date": "2027-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8M46fNFLURpRcbc2Vp0AGjrt5fG.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/qCUSOso8PSkVvZjSZ9awZpS1DQj.jpg"
     },
     {
       "title": "Sheep in the Box",
       "year": 2026,
       "release_date": "2027-01-07",
       "poster_url": "https://image.tmdb.org/t/p/w342/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg"
+    },
+    {
+      "title": "Ink",
+      "year": 2026,
+      "release_date": "2027-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w342/g9iVG0ugwE0ErdFH4kqjAksj8ps.jpg"
     },
     {
       "title": "Mouse",
@@ -1173,16 +1179,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg"
     },
     {
+      "title": "Elsinore",
+      "year": 2026,
+      "release_date": "2027-02-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/oX1wG1oO5kHnI8T5oxybjpR3prS.jpg"
+    },
+    {
       "title": "The Last Whale Singer",
       "year": 2025,
       "release_date": "2027-02-10",
       "poster_url": "https://image.tmdb.org/t/p/w342/yIDPrKCgiG49cULhITKxeZywISe.jpg"
-    },
-    {
-      "title": "Let Love In",
-      "year": 2026,
-      "release_date": "2027-02-11",
-      "poster_url": null
     },
     {
       "title": "De bovenburen",
@@ -1221,6 +1227,12 @@
       "poster_url": null
     },
     {
+      "title": "Let Love In",
+      "year": 2026,
+      "release_date": "2027-03-03",
+      "poster_url": null
+    },
+    {
       "title": "Gatto",
       "year": 2027,
       "release_date": "2027-03-03",
@@ -1255,6 +1267,12 @@
       "year": 2026,
       "release_date": "2027-03-18",
       "poster_url": "https://image.tmdb.org/t/p/w342/6Fl3Ie5qevVdDBJaHJZ2hZe98kD.jpg"
+    },
+    {
+      "title": "The Passion of the Christ",
+      "year": 2004,
+      "release_date": "2027-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w342/rBM5o2HpmCfDejuIPybI09tkY3V.jpg"
     },
     {
       "title": "Heimsuchung",
@@ -1335,6 +1353,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/q0CefWHHoYHR5dBTY9n6Jm9LIAN.jpg"
     },
     {
+      "title": "John Rambo",
+      "year": 2027,
+      "release_date": "2027-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/nNgeEw5b9cc1UFTEyLhlAQT3UG9.jpg"
+    },
+    {
       "title": "Strawberries",
       "year": 2026,
       "release_date": "2027-06-03",
@@ -1401,37 +1425,7 @@
       "poster_url": null
     },
     {
-      "title": "Nieuwe Netflix-film met Robert De Niro maakt de tongen los: 'Echt een heerlijke thriller'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Abonnees fan van spannende spionagethriller op Netflix: 'Echt een kijktip!'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Nieuw seizoen geliefd Netflix-drama komt na afronding opnames steeds dichterbij",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers 'geschokt' door heftige true crime-documentaire: 'Hartverscheurend'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "De 10 beste nieuwe films op Netflix (week 35, 2026)",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Dit zijn de 5 beste nieuwe series op Netflix (week 35, 2026)",
+      "title": "Spannende actiethriller met Idris Elba geliefd bij Netflix-kijkers 'Enorm goede film'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1443,19 +1437,49 @@
       "poster_url": null
     },
     {
-      "title": "Netflix-kijkers raden elkaar intense miniserie aan: 'Geweldig'",
+      "title": "Duistere Netflix-thriller valt in de smaak bij abonnees: 'Een van de mooiste films ooit'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Netflix wakkert geruchten over rol Meghan Markle in 'The Gentlemen' opnieuw aan",
+      "title": "Creepy horrorfilm van Mike Flanagan maakt veel los bij Netflix-abonnees: 'Heel intens en eng'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Niet te stoppen Netflix-thriller houdt zich al tien weken staande in de internationale top 10",
+      "title": "Meeslepend kostuumdrama al jaren favoriet bij Netflix-kijkers: 'Fantastische serie'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Heftige Netflix-serie maakt diepe indruk op kijkers: 'Zou iedereen moeten zien'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "'Manifest' maakt onverwachte comeback met nieuwe Netflix-serie",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Populaire dramaserie is opnieuw een kijkcijferhit op Netflix",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Nieuw seizoen geliefd Netflix-drama komt na afronding opnames steeds dichterbij",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Voormalige gevangene vindt onverwachte liefde in nieuwe Netflix-film van Tyler Perry",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1469,7 +1493,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-03",
+      "release_date": "2026-09-04",
       "poster_url": null
     },
     {
