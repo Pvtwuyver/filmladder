@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:19:47.011211+00:00",
+  "generated_at": "2026-09-03T10:16:55.456145+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -7,84 +7,6 @@
       "year": null,
       "release_date": "2026-09-06",
       "poster_url": null
-    },
-    {
-      "title": "Peau d'âne",
-      "year": 1970,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mYlWFbBEc3A09hRp38vGdoRpmrl.jpg"
-    },
-    {
-      "title": "Terminator 2: Judgment Day",
-      "year": 1991,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
-    },
-    {
-      "title": "Les demoiselles de Rochefort",
-      "year": 1967,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/slOyuNsPyXnh4VoXJNT8F7qEXCE.jpg"
-    },
-    {
-      "title": "La baie des anges",
-      "year": 1963,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/vCmQwVJ3TdS6p8qH0Y5ivBqWJej.jpg"
-    },
-    {
-      "title": "Lola",
-      "year": 1961,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/eSM8yCUGhE5YUBIfQSK72YIFCkC.jpg"
-    },
-    {
-      "title": "De Manager",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ng8HpSyhIcbxEfpdyJwTU6jfs7j.jpg"
-    },
-    {
-      "title": "Leviticus",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/aO2A8Yka5iTDUt0TRonItKK1NTz.jpg"
-    },
-    {
-      "title": "Dagboek van een Zwakke Yogi",
-      "year": 1993,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/1GJwQ4MDLndsbgGoP5kwNT5ETpb.jpg"
-    },
-    {
-      "title": "By Any Means",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/hZHGPzE64S3K0Qk0SUWAdn6NMvq.jpg"
-    },
-    {
-      "title": "The Death of Robin Hood",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
-    },
-    {
-      "title": "Home",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/3HRQp3HyLs7xiETvpMDB8Ckullt.jpg"
-    },
-    {
-      "title": "F*ck de Familie",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ioN0E15yIsHdiyREGKW0dKu6vbf.jpg"
-    },
-    {
-      "title": "Histoires parallèles",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/ugkNybkuW2wBdZQtT7rFutUSj2x.jpg"
     },
     {
       "title": "Bumba: Het Circusorkest",
@@ -132,7 +54,7 @@
       "title": "Runner",
       "year": 2026,
       "release_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w342/sH2lujm4DPXfJG51PiB4UZcc4ig.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
     },
     {
       "title": "The Incomer",
@@ -160,7 +82,7 @@
     },
     {
       "title": "Sugar",
-      "year": null,
+      "year": 2026,
       "release_date": "2026-09-17",
       "poster_url": "https://image.tmdb.org/t/p/w342/2FBvobFZGibenqKerk786qg9AHD.jpg"
     },
@@ -480,7 +402,7 @@
       "title": "Street Fighter",
       "year": 2026,
       "release_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
     },
     {
       "title": "Sense and Sensibility",
@@ -696,7 +618,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w342/8sMzu56Nok5WlEXCRdflEgshYQO.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/oUt2f6qHRZDnprG16ELimRhDGDV.jpg"
     },
     {
       "title": "Ebenezer: A Christmas Carol",
@@ -924,7 +846,7 @@
       "title": "Golden State Killer",
       "year": null,
       "release_date": "2026-12-10",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ixS9rT1I3wvWewPnsL2LZToAsk1.jpg"
+      "poster_url": null
     },
     {
       "title": "Victorian Psycho",
@@ -1116,7 +1038,7 @@
       "title": "Ink",
       "year": 2026,
       "release_date": "2027-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/g9iVG0ugwE0ErdFH4kqjAksj8ps.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/aZECpoGsveEXtxogaz0GMiyVB6n.jpg"
     },
     {
       "title": "Mouse",
@@ -1152,7 +1074,7 @@
       "title": "The Meltdown",
       "year": 2026,
       "release_date": "2027-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w342/agaPM6fOIwG1kmBXAprimPxT4mQ.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/qia4SpH0shPlNboorBgbFnfIhKf.jpg"
     },
     {
       "title": "Rehearsals for A Revolution",
@@ -1425,13 +1347,13 @@
       "poster_url": null
     },
     {
-      "title": "Dit zijn de 5 beste nieuwe series op Netflix (week 35, 2026)",
+      "title": "Meeslepend kostuumdrama al jaren favoriet bij Netflix-kijkers: 'Fantastische serie'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Meeslepend kostuumdrama al jaren favoriet bij Netflix-kijkers: 'Fantastische serie'",
+      "title": "Miljoenen abonnees kijken naar aangrijpende top 10 Netflix-documentaire: 'Deze moet je absoluut gezien hebben'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1443,7 +1365,13 @@
       "poster_url": null
     },
     {
-      "title": "Heftige Netflix-serie maakt diepe indruk op kijkers: 'Zou iedereen moeten zien'",
+      "title": "Netflix-abonnees vol lof over mysterieuze Deense thriller: '10/10'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix-kijkers in shock om duistere true crime: 'Meest droevige docu ooit gemaakt'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1455,31 +1383,25 @@
       "poster_url": null
     },
     {
-      "title": "Netflix verwijdert binnenkort 'Rocky' en 90+ andere films en series",
+      "title": "Netflix kondigt samenwerking met Talpa aan: bekende SBS6-programma's snel te streamen",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Hoge beoordelingen en positieve reacties voor Britse Netflix-serie: 'Uitstekend'",
+      "title": "Huiveringwekkende true crime-docu bezorgt Netflix-kijkers kippenvel: 'Enorm goed'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Volledig in de ban van 'Blodsoffer'? Op Netflix kijk je nu ook deze Scandinavische krimi's",
+      "title": "Voormalige gevangene vindt onverwachte liefde in nieuwe Netflix-film van Tyler Perry",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Allerlaatste seizoen van Netflix-hit emotioneert kijkers: 'Op het puntje van mijn stoel'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Miljoenen abonnees kijken naar aangrijpende top 10 Netflix-documentaire: 'Deze moet je absoluut gezien hebben'",
+      "title": "Genoten van 'The Whisper Man'? Bekijk ook deze 3 ijzingwekkende thrillers op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1493,7 +1415,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-04",
+      "release_date": "2026-09-05",
       "poster_url": null
     },
     {
