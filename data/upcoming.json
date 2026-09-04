@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:16:55.456145+00:00",
+  "generated_at": "2026-09-04T10:05:24.053585+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -348,7 +348,7 @@
       "title": "The Social Reckoning",
       "year": 2026,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg"
     },
     {
       "title": "Yellow Letters",
@@ -379,12 +379,6 @@
       "year": 2026,
       "release_date": "2026-10-14",
       "poster_url": "https://image.tmdb.org/t/p/w342/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg"
-    },
-    {
-      "title": "Beware Boiúna",
-      "year": 2026,
-      "release_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w342/tENVMxKvOkslv8kagVNdIEQ13RT.jpg"
     },
     {
       "title": "Sacrifice",
@@ -600,7 +594,7 @@
       "title": "George Michael: The Faith Tour",
       "year": 2026,
       "release_date": "2026-11-05",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/ljlmEFINSWawI7KpIFbPyZIWVzM.jpg"
     },
     {
       "title": "Blue Lights",
@@ -681,12 +675,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/7OrOyDGt5WlzvTiRX4U2Lx9eCYg.jpg"
     },
     {
-      "title": "Forêt ivre",
-      "year": 2026,
-      "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wqvFC6WWp34YhxZxcTSYdg413Ps.jpg"
-    },
-    {
       "title": "Donnie Darko",
       "year": 2001,
       "release_date": "2026-11-19",
@@ -723,6 +711,12 @@
       "poster_url": null
     },
     {
+      "title": "Forêt ivre",
+      "year": 2026,
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wqvFC6WWp34YhxZxcTSYdg413Ps.jpg"
+    },
+    {
       "title": "Disney's Hexed",
       "year": 2026,
       "release_date": "2026-11-25",
@@ -756,7 +750,7 @@
       "title": "Heysel 85",
       "year": 2026,
       "release_date": "2026-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dAE2iNptmserikKU0tldYz2d5IQ.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg"
     },
     {
       "title": "Becomin",
@@ -1161,6 +1155,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg"
     },
     {
+      "title": "Abre los Ojos",
+      "year": 1997,
+      "release_date": "2027-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w342/wzfbGuRYlE0bB0WdzrCnxFSWwWo.jpg"
+    },
+    {
       "title": "The Thomas Crown Affair",
       "year": 2027,
       "release_date": "2027-03-04",
@@ -1287,6 +1287,36 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/mJrJSzrLP8MiCtBjPVKE29QCQ5Q.jpg"
     },
     {
+      "title": "Taste of Cherry",
+      "year": 1997,
+      "release_date": "2027-06-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/snZ3yeKfQYalyID0hWCJO4U1TNp.jpg"
+    },
+    {
+      "title": "Certified Copy",
+      "year": 2010,
+      "release_date": "2027-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/i9gBQswODD9sPXZsz8PToRI4J4m.jpg"
+    },
+    {
+      "title": "The Wind Will Carry Us",
+      "year": 1999,
+      "release_date": "2027-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/fBFquwGxQIXtfj8KyC8IXUAVKDd.jpg"
+    },
+    {
+      "title": "Where Is The Friend's House",
+      "year": 1987,
+      "release_date": "2027-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/avSSrkHcLc1Zl0Ne5C1YBTskKBS.jpg"
+    },
+    {
+      "title": "And Life Goes On",
+      "year": 1992,
+      "release_date": "2027-06-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mN0aIJIwEUk0sZvRSu4MMfJA1R9.jpg"
+    },
+    {
       "title": "Spider-Man: Beyond the Spider-Verse",
       "year": 2027,
       "release_date": "2027-06-24",
@@ -1347,37 +1377,19 @@
       "poster_url": null
     },
     {
-      "title": "Meeslepend kostuumdrama al jaren favoriet bij Netflix-kijkers: 'Fantastische serie'",
+      "title": "Netflix verwijdert binnenkort 'Rocky' en 90+ andere films en series",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Miljoenen abonnees kijken naar aangrijpende top 10 Netflix-documentaire: 'Deze moet je absoluut gezien hebben'",
+      "title": "Splinternieuwe documentaire schiet hoog de Netflix Top 10 binnen: 'Heel verdrietig'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Populaire dramaserie is opnieuw een kijkcijferhit op Netflix",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-abonnees vol lof over mysterieuze Deense thriller: '10/10'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers in shock om duistere true crime: 'Meest droevige docu ooit gemaakt'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Niet te stoppen Netflix-thriller houdt zich al tien weken staande in de internationale top 10",
+      "title": "Goedkoper streamen? HBO Max lanceert nieuwe abonnementen samen met Videoland",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1389,19 +1401,37 @@
       "poster_url": null
     },
     {
-      "title": "Huiveringwekkende true crime-docu bezorgt Netflix-kijkers kippenvel: 'Enorm goed'",
+      "title": "De top 10 populairste films & series nu op Netflix (week 36, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Voormalige gevangene vindt onverwachte liefde in nieuwe Netflix-film van Tyler Perry",
+      "title": "Netflix-kijkers ondersteboven van schokkende horrorfilm: 'Een van de meest bizarre films ooit'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Genoten van 'The Whisper Man'? Bekijk ook deze 3 ijzingwekkende thrillers op Netflix",
+      "title": "Netflix onthult eerste beelden van Lupin seizoen 4: bekijk ze hier",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Brute historische Netflix-thriller maakt indruk: 'Een van mijn favoriete films'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix-abonnees vol lof over mysterieuze Deense thriller: '10/10'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Populaire dramaserie is opnieuw een kijkcijferhit op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1415,7 +1445,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-05",
+      "release_date": "2026-09-06",
       "poster_url": null
     },
     {
