@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-04T10:05:24.053585+00:00",
+  "generated_at": "2026-09-05T09:35:22.487106+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
       "title": "Films binnenkort in de bioscoop",
       "year": null,
-      "release_date": "2026-09-06",
+      "release_date": "2026-09-10",
       "poster_url": null
     },
     {
       "title": "Bumba: Het Circusorkest",
       "year": 2026,
-      "release_date": "2026-09-06",
+      "release_date": null,
       "poster_url": null
     },
     {
@@ -240,7 +240,7 @@
       "title": "Verity",
       "year": 2026,
       "release_date": "2026-10-01",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/d4nhnyzauV6j4IcCJvd6rbzN4b4.jpg"
     },
     {
       "title": "Digger",
@@ -499,6 +499,12 @@
       "year": 2026,
       "release_date": "2026-10-28",
       "poster_url": null
+    },
+    {
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "release_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg"
     },
     {
       "title": "Klara and the Sun",
@@ -795,7 +801,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/t4ealPt7t0WUTFVFZ5Kw7CUOpNC.jpg"
     },
     {
-      "title": "Behemoth!",
+      "title": "Behemoth",
       "year": 2026,
       "release_date": "2026-12-03",
       "poster_url": "https://image.tmdb.org/t/p/w342/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg"
@@ -1146,7 +1152,7 @@
       "title": "Let Love In",
       "year": 2026,
       "release_date": "2027-03-03",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/9vvaZNsGyTSqQslrHVl9yg8j5nv.jpg"
     },
     {
       "title": "Gatto",
@@ -1377,37 +1383,7 @@
       "poster_url": null
     },
     {
-      "title": "Netflix verwijdert binnenkort 'Rocky' en 90+ andere films en series",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Splinternieuwe documentaire schiet hoog de Netflix Top 10 binnen: 'Heel verdrietig'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Goedkoper streamen? HBO Max lanceert nieuwe abonnementen samen met Videoland",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix kondigt samenwerking met Talpa aan: bekende SBS6-programma's snel te streamen",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "De top 10 populairste films & series nu op Netflix (week 36, 2026)",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers ondersteboven van schokkende horrorfilm: 'Een van de meest bizarre films ooit'",
+      "title": "Florence Pugh als beruchte antiheldin in trailer 'East of Eden' van Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1419,19 +1395,49 @@
       "poster_url": null
     },
     {
+      "title": "De 10 beste nieuwe films op Netflix (week 36, 2026)",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
       "title": "Brute historische Netflix-thriller maakt indruk: 'Een van mijn favoriete films'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Netflix-abonnees vol lof over mysterieuze Deense thriller: '10/10'",
+      "title": "Goedkoper streamen? HBO Max lanceert nieuwe abonnementen samen met Videoland",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Populaire dramaserie is opnieuw een kijkcijferhit op Netflix",
+      "title": "Splinternieuwe documentaire schiet hoog de Netflix Top 10 binnen: 'Heel verdrietig'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Creepy horrorfilm van Mike Flanagan maakt veel los bij Netflix-abonnees: 'Heel intens en eng'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "'Fauda' seizoen 5 volgende week op Netflix: alles over de nieuwe afleveringen",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix komt met Spaanse miniserie: spannende trailer nu te zien",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Familielid onthult aangrijpende details over laatste dagen Dolly Parton",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1445,7 +1451,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-06",
+      "release_date": "2026-09-07",
       "poster_url": null
     },
     {
