@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:35:22.487106+00:00",
+  "generated_at": "2026-09-06T09:50:00.872952+00:00",
   "source": "https://www.filmvandaag.nl/filmladder/stad/13-amsterdam",
   "cinemas": [
     {
@@ -21,7 +21,8 @@
           "genre": "drama / romantiek / muziek van Bradley Cooper",
           "rating": 7.6,
           "showtimes": [
-            "18:30"
+            "18:30",
+            "15:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
         },
@@ -31,7 +32,6 @@
           "genre": "avontuur / roadmovie / drama van Cameron Crowe",
           "rating": 7.9,
           "showtimes": [
-            "14:30",
             "19:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg"
@@ -51,11 +51,8 @@
           "title": "By Any Means",
           "year": 2026,
           "genre": "misdaad / actie / thriller van Elegance Bratton",
-          "rating": 6.9,
+          "rating": 6.8,
           "showtimes": [
-            "17:20",
-            "20:20",
-            "22:50",
             "10:20",
             "16:10",
             "18:50",
@@ -63,6 +60,7 @@
             "13:10",
             "17:10",
             "21:00",
+            "17:20",
             "21:30",
             "14:15",
             "21:20"
@@ -75,7 +73,6 @@
           "genre": null,
           "rating": 5.4,
           "showtimes": [
-            "10:15",
             "13:40",
             "11:00",
             "13:50"
@@ -98,8 +95,6 @@
           "genre": "animatie / familie / avontuur van Joost Van Den Bosch en Erik Verkerk",
           "rating": 7.2,
           "showtimes": [
-            "10:00",
-            "12:30",
             "10:20",
             "11:10"
           ],
@@ -109,12 +104,8 @@
           "title": "F*ck de Familie",
           "year": 2026,
           "genre": "komedie van David Cocheret",
-          "rating": 4.9,
+          "rating": 4.5,
           "showtimes": [
-            "10:10",
-            "14:00",
-            "16:30",
-            "20:20",
             "10:50",
             "13:50",
             "19:30",
@@ -128,26 +119,11 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/ioN0E15yIsHdiyREGKW0dKu6vbf.jpg"
         },
         {
-          "title": "Ice Cream Man",
-          "year": 2026,
-          "genre": "horror / thriller van Eli Roth",
-          "rating": 3.8,
-          "showtimes": [
-            "23:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/5au97z0qmbMRFPBp9N3kmxUV5kC.jpg"
-        },
-        {
           "title": "Insidious: Out of the Further",
           "year": 2026,
           "genre": "horror / mystery / thriller van Jacob Chase",
           "rating": 6.2,
           "showtimes": [
-            "10:15",
-            "17:00",
-            "19:10",
-            "20:00",
-            "22:30",
             "12:45",
             "19:45",
             "21:40",
@@ -167,9 +143,8 @@
           "title": "Kattenkwaad in Egypte",
           "year": 2026,
           "genre": "animatie / familie / avontuur / komedie van Vasiliy Rovenskiy",
-          "rating": 5.4,
+          "rating": 5.5,
           "showtimes": [
-            "12:45",
             "12:20"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mxMhCuOj1G2Hz6BLZQMMPdshDqa.jpg"
@@ -180,8 +155,6 @@
           "genre": "horror / romantiek / sciencefiction van Adrian Chiarella",
           "rating": 6.4,
           "showtimes": [
-            "10:00",
-            "22:40",
             "21:30",
             "21:20",
             "21:00",
@@ -207,11 +180,6 @@
           "genre": "thriller / actie / misdaad van Jean-François Richet",
           "rating": 5.7,
           "showtimes": [
-            "10:00",
-            "14:10",
-            "18:00",
-            "20:30",
-            "22:30",
             "17:10",
             "21:00",
             "14:00",
@@ -225,12 +193,21 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/nH01jQO5bZX9z5NUKDShIDdT7Nd.jpg"
         },
         {
+          "title": "Oasis: Don't Look Back in Anger",
+          "year": 2026,
+          "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
+          "rating": null,
+          "showtimes": [
+            "12:20"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
+        },
+        {
           "title": "Obsession",
           "year": 2025,
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "21:40",
             "21:10",
             "21:50",
             "21:45"
@@ -243,8 +220,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Will Gluck",
           "rating": 6.3,
           "showtimes": [
-            "10:20",
-            "16:50",
             "15:40",
             "18:30",
             "11:25",
@@ -260,9 +235,6 @@
           "genre": "avontuur / familie / animatie van Cal Brunker",
           "rating": 6.1,
           "showtimes": [
-            "10:00",
-            "12:15",
-            "14:40",
             "10:40",
             "13:30",
             "15:00",
@@ -302,9 +274,6 @@
           "genre": "komedie van Jon Lucas en Scott Moore",
           "rating": 5.4,
           "showtimes": [
-            "12:10",
-            "19:50",
-            "21:30",
             "11:10",
             "20:45",
             "13:40",
@@ -337,7 +306,6 @@
             "17:00",
             "18:30",
             "20:30",
-            "21:45",
             "11:00",
             "14:15",
             "16:30",
@@ -352,9 +320,8 @@
           "title": "Ted & De Magische Lamp",
           "year": 2026,
           "genre": "animatie / familie / avontuur van Enrique Gato",
-          "rating": 6.6,
+          "rating": 6.5,
           "showtimes": [
-            "15:20",
             "10:10",
             "13:00",
             "13:20"
@@ -378,7 +345,6 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "22:15",
             "18:40",
             "21:30",
             "18:10"
@@ -391,13 +357,11 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "11:10",
-            "17:30",
-            "19:45",
             "10:40",
             "15:50",
             "18:00",
             "21:30",
+            "11:10",
             "16:00",
             "18:30",
             "21:00",
@@ -413,13 +377,11 @@
           "rating": 6.6,
           "showtimes": [
             "10:20",
-            "15:00",
-            "17:10",
-            "17:50",
-            "19:30",
-            "22:00",
             "13:10",
+            "17:10",
+            "19:30",
             "21:20",
+            "22:00",
             "11:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/zShaBZCBknqIFEzZp5BfETKV5ho.jpg"
@@ -430,7 +392,6 @@
           "genre": "familie / avontuur / fantasy van Ben Gregor",
           "rating": 6.2,
           "showtimes": [
-            "15:20",
             "15:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/usvQtQEat62R47V8dDcHHTghFu5.jpg"
@@ -444,7 +405,6 @@
             "10:00",
             "13:35",
             "17:05",
-            "20:40",
             "20:30",
             "11:00",
             "12:50",
@@ -461,7 +421,6 @@
           "genre": "misdaad / drama / thriller van Andrew Patterson",
           "rating": 7.3,
           "showtimes": [
-            "16:40",
             "18:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/dmxxKMl4pmsfUGRbSCtVW7KreS6.jpg"
@@ -472,9 +431,8 @@
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "12:50",
-            "14:20",
-            "12:30"
+            "12:30",
+            "14:20"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/tFoE3hYk21Qkru7WP2EMmzvxFmY.jpg"
         },
@@ -484,12 +442,10 @@
           "genre": "familie / avontuur / fantasy / komedie van Thomas Kail",
           "rating": 5.8,
           "showtimes": [
-            "11:40",
-            "12:30",
-            "18:50",
             "11:00",
             "15:20",
-            "16:50"
+            "16:50",
+            "11:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/bPzcbAW9S0drIv023EjzG1lwkvK.jpg"
         },
@@ -514,8 +470,8 @@
           "genre": "drama / romantiek / muziek van Bradley Cooper",
           "rating": 7.6,
           "showtimes": [
-            "16:00",
-            "18:30"
+            "18:30",
+            "15:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
         },
@@ -536,7 +492,6 @@
           "genre": "actie / drama / romantiek van Nitin Kakkar",
           "rating": 6.5,
           "showtimes": [
-            "14:50",
             "10:30",
             "14:20"
           ],
@@ -556,11 +511,8 @@
           "title": "By Any Means",
           "year": 2026,
           "genre": "misdaad / actie / thriller van Elegance Bratton",
-          "rating": 6.9,
+          "rating": 6.8,
           "showtimes": [
-            "12:20",
-            "16:20",
-            "20:20",
             "17:40",
             "21:35",
             "10:30",
@@ -590,7 +542,6 @@
           "genre": "animatie / familie / avontuur van Joost Van Den Bosch en Erik Verkerk",
           "rating": 7.2,
           "showtimes": [
-            "10:00",
             "10:10",
             "10:30"
           ],
@@ -600,10 +551,8 @@
           "title": "F*ck de Familie",
           "year": 2026,
           "genre": "komedie van David Cocheret",
-          "rating": 4.9,
+          "rating": 4.5,
           "showtimes": [
-            "13:25",
-            "19:00",
             "10:00",
             "17:15",
             "20:20",
@@ -621,7 +570,6 @@
           "genre": "actie / misdaad / thriller van Nahas Hidayath",
           "rating": null,
           "showtimes": [
-            "20:45",
             "19:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
@@ -632,11 +580,6 @@
           "genre": "horror / mystery / thriller van Jacob Chase",
           "rating": 6.2,
           "showtimes": [
-            "11:50",
-            "12:50",
-            "17:20",
-            "19:50",
-            "22:20",
             "14:45",
             "17:35",
             "20:30",
@@ -654,23 +597,11 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/lHgP5lHHm2ZgqYAt9PcVgm6YLXS.jpg"
         },
         {
-          "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
-          "year": 2026,
-          "genre": "documentaire / muziek van Paul Dugdale",
-          "rating": 6.8,
-          "showtimes": [
-            "15:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/ulsXx67XgRupN53gZHCuzwBEA7O.jpg"
-        },
-        {
           "title": "Leviticus",
           "year": 2026,
           "genre": "horror / romantiek / sciencefiction van Adrian Chiarella",
           "rating": 6.4,
           "showtimes": [
-            "20:40",
-            "22:40",
             "19:30",
             "21:45",
             "18:20",
@@ -686,7 +617,6 @@
           "rating": 6.3,
           "showtimes": [
             "10:00",
-            "15:00",
             "10:30",
             "12:40",
             "15:20",
@@ -699,14 +629,13 @@
           "title": "Mirzapur: The Movie",
           "year": 2026,
           "genre": "actie / misdaad / drama van Gurmmeet Singh",
-          "rating": null,
+          "rating": 8.1,
           "showtimes": [
-            "20:30",
             "17:05",
             "19:50",
             "19:30"
           ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg"
+          "poster_url": "https://image.tmdb.org/t/p/w342/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg"
         },
         {
           "title": "Mutiny",
@@ -714,11 +643,6 @@
           "genre": "thriller / actie / misdaad van Jean-François Richet",
           "rating": 5.7,
           "showtimes": [
-            "10:20",
-            "14:00",
-            "18:10",
-            "20:20",
-            "22:40",
             "12:00",
             "15:50",
             "18:15",
@@ -739,7 +663,8 @@
           "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
           "rating": null,
           "showtimes": [
-            "18:00"
+            "18:00",
+            "14:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
@@ -749,7 +674,6 @@
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "22:20",
             "21:30",
             "21:20"
           ],
@@ -761,8 +685,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Will Gluck",
           "rating": 6.3,
           "showtimes": [
-            "17:00",
-            "18:20",
             "12:00",
             "19:10",
             "12:30",
@@ -779,8 +701,6 @@
           "genre": "avontuur / familie / animatie van Cal Brunker",
           "rating": 6.1,
           "showtimes": [
-            "10:50",
-            "12:40",
             "10:00",
             "13:30",
             "14:30",
@@ -795,7 +715,6 @@
           "genre": "komedie van Ruud Schuurman",
           "rating": 4.8,
           "showtimes": [
-            "22:45",
             "17:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/8hmAaCMxsjdhpzfhYILmjv5py7a.jpg"
@@ -816,8 +735,6 @@
           "genre": "komedie van Jon Lucas en Scott Moore",
           "rating": 5.4,
           "showtimes": [
-            "15:50",
-            "18:05",
             "12:20",
             "14:50",
             "13:50",
@@ -844,16 +761,6 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "10:40",
-            "12:20",
-            "13:00",
-            "14:45",
-            "15:30",
-            "16:30",
-            "18:00",
-            "18:40",
-            "20:00",
-            "21:30",
             "10:10",
             "12:10",
             "14:10",
@@ -861,6 +768,7 @@
             "15:20",
             "18:30",
             "19:30",
+            "20:00",
             "10:30",
             "13:10",
             "15:00",
@@ -878,10 +786,9 @@
           "title": "Ted & De Magische Lamp",
           "year": 2026,
           "genre": "animatie / familie / avontuur van Enrique Gato",
-          "rating": 6.6,
+          "rating": 6.5,
           "showtimes": [
             "10:00",
-            "15:20",
             "15:50",
             "11:00",
             "15:10",
@@ -895,8 +802,6 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "12:45",
-            "21:50",
             "13:45",
             "18:30",
             "18:15",
@@ -910,9 +815,6 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "10:30",
-            "18:00",
-            "19:30",
             "16:00",
             "21:10",
             "12:15",
@@ -931,10 +833,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "10:45",
-            "16:20",
-            "19:00",
-            "21:20",
             "16:30",
             "20:10",
             "11:00",
@@ -953,10 +851,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "10:20",
-            "10:30",
-            "15:55",
-            "21:40",
             "15:20",
             "18:00",
             "10:40",
@@ -975,7 +869,6 @@
           "rating": 6.2,
           "showtimes": [
             "10:00",
-            "13:30",
             "12:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/usvQtQEat62R47V8dDcHHTghFu5.jpg"
@@ -987,13 +880,11 @@
           "rating": 8.4,
           "showtimes": [
             "10:00",
-            "12:30",
+            "12:40",
             "13:40",
             "17:20",
-            "19:10",
-            "21:00",
-            "12:40",
             "19:40",
+            "21:00",
             "10:30",
             "13:20",
             "14:10",
@@ -1002,7 +893,9 @@
             "17:50",
             "16:50",
             "14:20",
-            "20:45"
+            "20:45",
+            "10:40",
+            "17:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
         },
@@ -1012,8 +905,6 @@
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "10:00",
-            "12:35",
             "11:00",
             "13:30"
           ],
@@ -1025,10 +916,6 @@
           "genre": "familie / avontuur / fantasy / komedie van Thomas Kail",
           "rating": 5.8,
           "showtimes": [
-            "10:10",
-            "12:20",
-            "14:20",
-            "17:40",
             "10:40",
             "13:20",
             "16:45",
@@ -1119,8 +1006,6 @@
           "genre": "horror / mystery / thriller van Jacob Chase",
           "rating": 6.2,
           "showtimes": [
-            "15:50",
-            "21:40",
             "13:10",
             "21:10",
             "13:50",
@@ -1133,12 +1018,21 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/lHgP5lHHm2ZgqYAt9PcVgm6YLXS.jpg"
         },
         {
+          "title": "Oasis: Don't Look Back in Anger",
+          "year": 2026,
+          "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
+          "rating": null,
+          "showtimes": [
+            "16:10"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
+        },
+        {
           "title": "Obsession",
           "year": 2025,
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "21:50",
             "21:40",
             "21:20"
           ],
@@ -1151,14 +1045,13 @@
           "rating": 6.3,
           "showtimes": [
             "10:00",
-            "13:15",
-            "21:00",
             "15:30",
             "19:00",
             "14:20",
             "18:40",
             "14:30",
             "16:10",
+            "21:00",
             "11:10",
             "18:20"
           ],
@@ -1180,9 +1073,7 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "11:20",
             "13:50",
-            "15:30",
             "17:10",
             "20:30",
             "11:10",
@@ -1212,10 +1103,6 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "10:30",
-            "16:30",
-            "18:15",
-            "21:30",
             "10:10",
             "13:40",
             "20:45",
@@ -1245,10 +1132,6 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "10:50",
-            "13:40",
-            "15:45",
-            "18:45",
             "11:20",
             "21:00",
             "13:20",
@@ -1265,8 +1148,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "13:00",
-            "21:00",
             "10:20",
             "16:20",
             "18:30",
@@ -1287,7 +1168,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "19:20",
             "11:00",
             "18:30",
             "11:40",
@@ -1301,7 +1181,6 @@
           "genre": "komedie / drama / fantasy van Louis Paxton",
           "rating": 7.3,
           "showtimes": [
-            "19:00",
             "19:10"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
@@ -1312,8 +1191,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "10:50",
-            "18:30",
             "18:15",
             "17:45",
             "18:40",
@@ -1329,7 +1206,6 @@
           "showtimes": [
             "10:00",
             "12:20",
-            "14:50",
             "16:10",
             "20:00",
             "11:50",
@@ -1346,7 +1222,6 @@
           "genre": "misdaad / drama / thriller van Andrew Patterson",
           "rating": 7.3,
           "showtimes": [
-            "12:30",
             "12:40",
             "17:45",
             "12:00",
@@ -1360,7 +1235,6 @@
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "10:10",
             "10:40",
             "11:30",
             "11:10",
@@ -1400,11 +1274,8 @@
           "title": "By Any Means",
           "year": 2026,
           "genre": "misdaad / actie / thriller van Elegance Bratton",
-          "rating": 6.9,
+          "rating": 6.8,
           "showtimes": [
-            "10:10",
-            "16:20",
-            "21:35",
             "11:10",
             "16:00",
             "20:30",
@@ -1434,11 +1305,8 @@
           "title": "F*ck de Familie",
           "year": 2026,
           "genre": "komedie van David Cocheret",
-          "rating": 4.9,
+          "rating": 4.5,
           "showtimes": [
-            "13:00",
-            "15:20",
-            "19:40",
             "13:20",
             "19:00",
             "14:50",
@@ -1455,11 +1323,6 @@
           "genre": "horror / mystery / thriller van Jacob Chase",
           "rating": 6.2,
           "showtimes": [
-            "14:05",
-            "17:30",
-            "20:00",
-            "21:50",
-            "22:50",
             "10:00",
             "18:20",
             "21:00",
@@ -1468,7 +1331,8 @@
             "18:50",
             "20:40",
             "21:40",
-            "15:15"
+            "15:15",
+            "21:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/lHgP5lHHm2ZgqYAt9PcVgm6YLXS.jpg"
         },
@@ -1478,8 +1342,6 @@
           "genre": "horror / romantiek / sciencefiction van Adrian Chiarella",
           "rating": 6.4,
           "showtimes": [
-            "10:05",
-            "22:35",
             "09:55",
             "15:20",
             "19:30",
@@ -1508,11 +1370,10 @@
           "genre": "animatie / familie / komedie van Pierre Coffin en Patrick Delage",
           "rating": 6.3,
           "showtimes": [
-            "14:00",
-            "16:00",
             "11:45",
             "13:30",
             "16:45",
+            "14:00",
             "16:40",
             "14:20"
           ],
@@ -1524,10 +1385,6 @@
           "genre": "thriller / actie / misdaad van Jean-François Richet",
           "rating": 5.7,
           "showtimes": [
-            "12:40",
-            "16:50",
-            "18:10",
-            "23:00",
             "13:15",
             "15:50",
             "18:50",
@@ -1537,9 +1394,20 @@
             "19:40",
             "22:00",
             "12:00",
+            "18:10",
             "11:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/nH01jQO5bZX9z5NUKDShIDdT7Nd.jpg"
+        },
+        {
+          "title": "Oasis: Don't Look Back in Anger",
+          "year": 2026,
+          "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
+          "rating": null,
+          "showtimes": [
+            "13:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
         {
           "title": "Obsession",
@@ -1547,7 +1415,6 @@
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "11:30",
             "15:10",
             "21:30",
             "11:20",
@@ -1563,10 +1430,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Will Gluck",
           "rating": 6.3,
           "showtimes": [
-            "10:05",
-            "16:35",
-            "19:10",
-            "20:30",
             "12:45",
             "17:45",
             "20:15",
@@ -1585,10 +1448,8 @@
           "genre": "avontuur / familie / animatie van Cal Brunker",
           "rating": 6.1,
           "showtimes": [
-            "10:05",
-            "12:10",
-            "13:30",
             "09:55",
+            "12:10",
             "14:30",
             "11:10",
             "15:00",
@@ -1613,7 +1474,6 @@
           "genre": "komedie van Oleksii Yesakov",
           "rating": 7.0,
           "showtimes": [
-            "13:15",
             "13:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/5Xg9XaF8RNKSsSVItPWffEZ2wFJ.jpg"
@@ -1624,11 +1484,6 @@
           "genre": "komedie van Jon Lucas en Scott Moore",
           "rating": 5.4,
           "showtimes": [
-            "11:15",
-            "17:20",
-            "20:10",
-            "21:10",
-            "22:30",
             "11:00",
             "15:35",
             "18:05",
@@ -1639,7 +1494,8 @@
             "19:35",
             "10:55",
             "13:15",
-            "18:10"
+            "18:10",
+            "20:10"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/cbfU7fNwEeVWLfNEnt3MmvLbTO9.jpg"
         },
@@ -1659,27 +1515,22 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "10:50",
-            "12:50",
-            "14:10",
-            "15:10",
-            "16:10",
-            "17:30",
-            "18:30",
-            "19:30",
-            "20:20",
-            "22:00",
             "11:20",
             "12:40",
             "14:40",
+            "16:10",
             "17:20",
             "18:40",
             "20:50",
+            "15:10",
             "16:50",
             "18:00",
             "20:00",
             "13:00",
-            "11:00"
+            "18:30",
+            "11:00",
+            "14:10",
+            "17:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/aYBkFizFivFLorXIOoQTNis2rZi.jpg"
         },
@@ -1687,10 +1538,8 @@
           "title": "Ted & De Magische Lamp",
           "year": 2026,
           "genre": "animatie / familie / avontuur van Enrique Gato",
-          "rating": 6.6,
+          "rating": 6.5,
           "showtimes": [
-            "10:10",
-            "13:40",
             "10:00",
             "15:00",
             "15:30"
@@ -1703,7 +1552,6 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "15:30",
             "10:10",
             "13:15",
             "18:30"
@@ -1716,10 +1564,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "10:00",
-            "14:50",
-            "18:30",
-            "21:40",
             "10:10",
             "12:20",
             "16:00",
@@ -1727,6 +1571,7 @@
             "21:10",
             "11:30",
             "19:05",
+            "21:40",
             "18:05",
             "19:10",
             "21:50",
@@ -1740,10 +1585,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "10:50",
-            "12:30",
-            "15:45",
-            "19:00",
             "10:35",
             "12:45",
             "16:25",
@@ -1763,8 +1604,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "11:35",
-            "21:20",
             "19:20",
             "13:50",
             "20:30",
@@ -1780,12 +1619,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "10:00",
-            "12:40",
-            "16:30",
-            "18:20",
-            "20:50",
-            "21:30",
             "09:55",
             "12:30",
             "15:40",
@@ -1810,8 +1643,6 @@
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "15:00",
-            "18:50",
             "12:00",
             "14:00",
             "17:05",
@@ -1827,10 +1658,6 @@
           "genre": "familie / avontuur / fantasy / komedie van Thomas Kail",
           "rating": 5.8,
           "showtimes": [
-            "10:25",
-            "12:20",
-            "14:20",
-            "17:30",
             "14:25",
             "17:40",
             "11:25",
@@ -1852,7 +1679,6 @@
           "genre": "drama / romantiek / muziek van Bradley Cooper",
           "rating": 7.6,
           "showtimes": [
-            "15:30",
             "18:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
@@ -1863,10 +1689,19 @@
           "genre": "avontuur / roadmovie / drama van Cameron Crowe",
           "rating": 7.9,
           "showtimes": [
-            "12:40",
             "15:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg"
+        },
+        {
+          "title": "Birdman",
+          "year": 2014,
+          "genre": "komedie / drama van Alejandro González Iñárritu",
+          "rating": 7.7,
+          "showtimes": [
+            "16:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg"
         },
         {
           "title": "De Gaulle: Résistance",
@@ -1874,7 +1709,6 @@
           "genre": "drama / historisch / biografie van Antonin Baudry",
           "rating": 7.8,
           "showtimes": [
-            "10:15",
             "12:45",
             "10:40",
             "20:00"
@@ -1887,8 +1721,6 @@
           "genre": "drama / mystery / thriller van Asghar Farhadi",
           "rating": 6.0,
           "showtimes": [
-            "15:40",
-            "20:40",
             "15:00",
             "20:10",
             "12:15",
@@ -1906,7 +1738,6 @@
           "genre": "drama / historisch / biografie van Antoine Fuqua",
           "rating": 7.4,
           "showtimes": [
-            "18:30",
             "09:50",
             "17:50"
           ],
@@ -1918,10 +1749,20 @@
           "genre": "animatie / familie / komedie van Pierre Coffin en Patrick Delage",
           "rating": 6.3,
           "showtimes": [
-            "16:00",
-            "12:40"
+            "12:40",
+            "16:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gx71Cd7ViFClYNMkruj6h1n4j9Q.jpg"
+        },
+        {
+          "title": "Oasis: Don't Look Back in Anger",
+          "year": 2026,
+          "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
+          "rating": null,
+          "showtimes": [
+            "13:20"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
         {
           "title": "Paw Patrol: De Dinofilm",
@@ -1929,8 +1770,6 @@
           "genre": "avontuur / familie / animatie van Cal Brunker",
           "rating": 6.1,
           "showtimes": [
-            "10:25",
-            "13:45",
             "13:15",
             "12:45"
           ],
@@ -1967,30 +1806,16 @@
           "poster_url": null
         },
         {
-          "title": "Rondleiding Tuschinski (met gids)",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [
-            "10:00"
-          ],
-          "poster_url": null
-        },
-        {
           "title": "Spider-Man: Brand New Day",
           "year": 2026,
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "09:50",
-            "14:30",
-            "16:10",
-            "17:50",
-            "21:10",
             "11:30",
             "12:30",
             "14:45",
             "18:00",
+            "21:10",
             "13:15",
             "15:20",
             "10:20",
@@ -2007,7 +1832,6 @@
           "genre": "komedie / drama van George Jaques",
           "rating": 7.3,
           "showtimes": [
-            "18:20",
             "10:10",
             "18:10",
             "09:50",
@@ -2022,8 +1846,6 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "10:00",
-            "21:30",
             "15:45",
             "20:45",
             "12:45",
@@ -2040,11 +1862,9 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "15:20",
-            "18:45",
-            "21:00",
             "15:30",
             "18:20",
+            "21:00",
             "10:00",
             "18:30",
             "10:10",
@@ -2069,8 +1889,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "13:05",
-            "18:05",
             "10:00",
             "21:20",
             "09:55",
@@ -2089,9 +1907,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "10:50",
-            "12:00",
-            "20:00",
             "11:00",
             "12:50",
             "15:15",
@@ -2108,22 +1923,11 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
         },
         {
-          "title": "The Rivals of Amziah King",
-          "year": 2025,
-          "genre": "misdaad / drama / thriller van Andrew Patterson",
-          "rating": 7.3,
-          "showtimes": [
-            "21:20"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/dmxxKMl4pmsfUGRbSCtVW7KreS6.jpg"
-        },
-        {
           "title": "Toy Story 5",
           "year": 2026,
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "12:50",
             "10:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/tFoE3hYk21Qkru7WP2EMmzvxFmY.jpg"
@@ -2172,13 +1976,12 @@
           "genre": "drama / historisch / biografie van Antonin Baudry",
           "rating": 7.8,
           "showtimes": [
-            "15:15",
-            "20:15",
             "11:00",
             "13:45",
             "18:45",
             "15:00",
-            "15:10"
+            "15:10",
+            "20:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gWul6R3of23ygdwHkJIv5ZChMqj.jpg"
         },
@@ -2188,18 +1991,16 @@
           "genre": "drama / mystery / thriller van Asghar Farhadi",
           "rating": 6.0,
           "showtimes": [
-            "11:15",
-            "13:05",
-            "15:00",
-            "18:05",
-            "20:40",
             "11:00",
             "14:00",
             "19:30",
+            "11:15",
             "14:45",
             "18:00",
             "20:15",
             "20:45",
+            "13:05",
+            "15:00",
             "20:25"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/ugkNybkuW2wBdZQtT7rFutUSj2x.jpg"
@@ -2210,7 +2011,6 @@
           "genre": "avontuur / animatie / komedie van Nicolas Athane en Marco Nguyen",
           "rating": 7.6,
           "showtimes": [
-            "18:45",
             "13:40",
             "17:20",
             "18:20",
@@ -2224,8 +2024,8 @@
           "genre": "drama / romantiek van Jacques Demy",
           "rating": 7.2,
           "showtimes": [
-            "11:00",
-            "18:40"
+            "18:40",
+            "11:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/vCmQwVJ3TdS6p8qH0Y5ivBqWJej.jpg"
         },
@@ -2247,10 +2047,9 @@
           "genre": "muziek / romantiek / drama van Jacques Demy",
           "rating": 7.8,
           "showtimes": [
-            "11:00",
-            "13:05",
             "18:00",
-            "16:00"
+            "16:00",
+            "13:05"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gA1t81TgNwo4rHeZaJRfKXdazRZ.jpg"
         },
@@ -2260,7 +2059,6 @@
           "genre": "drama / romantiek van Jacques Demy",
           "rating": 7.4,
           "showtimes": [
-            "16:00",
             "11:15",
             "11:00",
             "18:10"
@@ -2283,7 +2081,8 @@
           "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
           "rating": null,
           "showtimes": [
-            "21:00"
+            "21:00",
+            "21:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
@@ -2303,7 +2102,6 @@
           "genre": "biografie / historisch / drama van Damiano Michieletto",
           "rating": 7.1,
           "showtimes": [
-            "16:00",
             "15:35",
             "13:35"
           ],
@@ -2315,7 +2113,6 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "21:00",
             "20:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/pW7Ee4eRM4ezWbev6YzYi0zWJKI.jpg"
@@ -2326,7 +2123,6 @@
           "genre": "komedie / drama / fantasy van Louis Paxton",
           "rating": 7.3,
           "showtimes": [
-            "18:00",
             "11:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
@@ -2337,7 +2133,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "21:00",
             "17:00",
             "16:00"
           ],
@@ -2349,13 +2144,11 @@
           "genre": "drama van Laura Samani",
           "rating": 7.0,
           "showtimes": [
-            "11:15",
-            "13:45",
-            "18:45",
             "20:05",
             "11:00",
             "16:00",
             "20:45",
+            "11:15",
             "18:35",
             "13:35"
           ],
@@ -2372,7 +2165,6 @@
           "genre": "documentaire / familie / biografie / historisch van Amalie Atkins",
           "rating": 7.3,
           "showtimes": [
-            "15:30",
             "10:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/2pnaYd3bpV2CfqLMfQNFIV5VOKO.jpg"
@@ -2394,9 +2186,8 @@
           "title": "De Manager",
           "year": 2026,
           "genre": null,
-          "rating": 8.0,
+          "rating": 7.9,
           "showtimes": [
-            "17:15",
             "12:30",
             "18:00",
             "21:15"
@@ -2409,7 +2200,6 @@
           "genre": null,
           "rating": 7.9,
           "showtimes": [
-            "10:30",
             "14:00",
             "15:15"
           ],
@@ -2443,7 +2233,6 @@
           "genre": null,
           "rating": 7.4,
           "showtimes": [
-            "21:00",
             "12:00",
             "10:30"
           ],
@@ -2458,16 +2247,6 @@
             "00:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/5Hu9ORLLqD0BkCNqoeDiMRvCR8R.jpg"
-        },
-        {
-          "title": "Mama'ku – Van Jakarta tot de Molukken",
-          "year": 2025,
-          "genre": null,
-          "rating": 8.2,
-          "showtimes": [
-            "14:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/wikuxkzdZGafvzvIonfZsZvb5Tv.jpg"
         },
         {
           "title": "Mariinka",
@@ -2496,7 +2275,6 @@
           "genre": null,
           "rating": 8.5,
           "showtimes": [
-            "18:45",
             "20:15",
             "15:45",
             "19:00",
@@ -2520,7 +2298,6 @@
           "genre": "drama van John Skoog",
           "rating": 7.1,
           "showtimes": [
-            "12:15",
             "18:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/uKV4szAqywROMGL0A2uqSXLL98b.jpg"
@@ -2531,22 +2308,11 @@
       "name": "Cinema De Vlugt",
       "movies": [
         {
-          "title": "Calle Málaga",
-          "year": 2025,
-          "genre": "drama / romantiek van Maryam Touzani",
-          "rating": 7.1,
-          "showtimes": [
-            "18:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/xzESrtZjDxxi7XjwEYX1bl7clOj.jpg"
-        },
-        {
           "title": "El Gawahergy",
           "year": 2026,
           "genre": "komedie van Islam Khairy",
           "rating": null,
           "showtimes": [
-            "12:30",
             "18:10",
             "15:30",
             "18:30"
@@ -2570,8 +2336,6 @@
           "genre": "komedie van Ruud Schuurman",
           "rating": 4.8,
           "showtimes": [
-            "13:15",
-            "19:00",
             "12:45",
             "18:30"
           ],
@@ -2593,7 +2357,6 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "20:50",
             "12:15",
             "19:45",
             "16:00",
@@ -2607,10 +2370,9 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "16:00",
-            "21:15",
             "15:30",
             "20:30",
+            "16:00",
             "19:30",
             "21:00",
             "16:15",
@@ -2624,8 +2386,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "12:45",
-            "18:45",
             "15:15",
             "20:15",
             "15:45",
@@ -2639,7 +2399,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "16:15",
             "18:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/zShaBZCBknqIFEzZp5BfETKV5ho.jpg"
@@ -2661,7 +2420,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "20:30",
             "19:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
@@ -2709,8 +2467,6 @@
           "genre": "drama / historisch / biografie van Antonin Baudry",
           "rating": 7.8,
           "showtimes": [
-            "16:00",
-            "19:45",
             "16:45",
             "19:15",
             "14:00"
@@ -2721,9 +2477,8 @@
           "title": "De Manager",
           "year": 2026,
           "genre": null,
-          "rating": 8.0,
+          "rating": 7.9,
           "showtimes": [
-            "16:45",
             "17:00",
             "21:45",
             "17:15",
@@ -2748,9 +2503,8 @@
           "genre": "drama / mystery / thriller van Asghar Farhadi",
           "rating": 6.0,
           "showtimes": [
-            "17:15",
-            "18:45",
             "16:15",
+            "18:45",
             "13:45",
             "20:30"
           ],
@@ -2790,16 +2544,6 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/eiUon7TtU9frtVj4GwXeEx29Eza.jpg"
         },
         {
-          "title": "Les demoiselles de Rochefort",
-          "year": 1967,
-          "genre": "muziek / drama / komedie van Jacques Demy",
-          "rating": 7.7,
-          "showtimes": [
-            "19:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/slOyuNsPyXnh4VoXJNT8F7qEXCE.jpg"
-        },
-        {
           "title": "Les enfants vont bien",
           "year": 2025,
           "genre": "drama van Nathan Ambrosioni",
@@ -2837,7 +2581,6 @@
           "genre": "familie / komedie / fantasy van Vincent Bal",
           "rating": 6.9,
           "showtimes": [
-            "14:00",
             "16:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/kZr47NX1iKdQMr6UUEMwcnMuJ9t.jpg"
@@ -2848,7 +2591,8 @@
           "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
           "rating": null,
           "showtimes": [
-            "20:30"
+            "20:30",
+            "16:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
@@ -2889,9 +2633,8 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "13:45",
-            "20:15",
             "20:00",
+            "13:45",
             "19:45",
             "14:00"
           ],
@@ -2903,7 +2646,6 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "16:20",
             "21:45",
             "21:30"
           ],
@@ -2916,10 +2658,10 @@
           "rating": 6.0,
           "showtimes": [
             "13:45",
-            "18:45",
             "19:10",
             "19:00",
-            "20:45"
+            "20:45",
+            "18:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
         },
@@ -2929,7 +2671,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "21:30",
             "16:15",
             "21:15",
             "21:00"
@@ -2942,7 +2683,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "21:20",
             "21:15",
             "21:00",
             "21:05"
@@ -2955,7 +2695,6 @@
           "genre": "komedie / drama / fantasy van Louis Paxton",
           "rating": 7.3,
           "showtimes": [
-            "21:45",
             "18:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
@@ -2976,7 +2715,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "13:45",
             "16:15",
             "19:45",
             "16:30",
@@ -2990,7 +2728,6 @@
           "genre": "misdaad / drama / thriller van Andrew Patterson",
           "rating": 7.3,
           "showtimes": [
-            "16:15",
             "16:25",
             "16:45",
             "13:45"
@@ -3004,7 +2741,6 @@
           "rating": 7.0,
           "showtimes": [
             "13:45",
-            "19:15",
             "14:00",
             "19:00",
             "20:45",
@@ -3043,9 +2779,9 @@
           "genre": null,
           "rating": 6.9,
           "showtimes": [
+            "11:15",
             "16:15",
-            "18:50",
-            "11:15"
+            "18:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hN0Cpt1U1gSFhtVBZ0KnjyUsmRO.jpg"
         },
@@ -3075,7 +2811,6 @@
           "genre": "drama / komedie / misdaad van Wong Kar-wai",
           "rating": 7.9,
           "showtimes": [
-            "18:45",
             "19:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/fv0KUkKoEr1P6Z0lltVyWwtFg5e.jpg"
@@ -3194,7 +2929,6 @@
           "genre": "drama / historisch / biografie van Ira Sachs",
           "rating": 6.3,
           "showtimes": [
-            "11:00",
             "16:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/vhiljARozkeXiLdFKHuGroK1f9J.jpg"
@@ -3208,16 +2942,6 @@
             "11:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/nqKAtqVRDkwxpiwI3AIhDXP6tvT.jpg"
-        },
-        {
-          "title": "Pulp Fiction",
-          "year": 1994,
-          "genre": "misdaad / drama van Quentin Tarantino",
-          "rating": 8.8,
-          "showtimes": [
-            "15:30"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
         },
         {
           "title": "Spider-Man: Brand New Day",
@@ -3267,7 +2991,8 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "21:00"
+            "21:00",
+            "15:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
         },
@@ -3357,7 +3082,6 @@
           "genre": "familie / mystery / komedie van Kyle Balda",
           "rating": 7.4,
           "showtimes": [
-            "13:00",
             "13:45",
             "16:15"
           ],
@@ -3406,7 +3130,8 @@
           "genre": "animatie / fantasy / sciencefiction / actie van Katsuhiro Ôtomo",
           "rating": 8.0,
           "showtimes": [
-            "18:05"
+            "18:05",
+            "12:10"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
         },
@@ -3427,8 +3152,8 @@
           "genre": "drama van Carlos Saura",
           "rating": 7.9,
           "showtimes": [
-            "21:00",
-            "14:45"
+            "14:45",
+            "21:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/watLjWkpoQiFH4FMxwetnVqf6iw.jpg"
         },
@@ -3464,15 +3189,44 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/8ueRp1xACnhWCc9pmgimugBsSTc.jpg"
         },
         {
+          "title": "Offret",
+          "year": 1986,
+          "genre": "drama van Andrei Tarkovsky",
+          "rating": 7.8,
+          "showtimes": [
+            "21:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/gNscrLaRH0xqIMQX4ur2dIlq3Zq.jpg"
+        },
+        {
+          "title": "Ostre sledované vlaky",
+          "year": 1966,
+          "genre": "drama / komedie / oorlog van Jiří Menzel",
+          "rating": 7.6,
+          "showtimes": [
+            "19:10"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/26lAYYdGpqfbbp5fQnuruKHTU91.jpg"
+        },
+        {
           "title": "Playtime",
           "year": 1967,
           "genre": "komedie van Jacques Tati",
           "rating": 7.8,
           "showtimes": [
-            "14:20",
             "12:25"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/4P4pBRNV3vAgOXIw6T9z7FlcLHM.jpg"
+        },
+        {
+          "title": "Reprise",
+          "year": 2006,
+          "genre": "drama van Joachim Trier",
+          "rating": 7.3,
+          "showtimes": [
+            "17:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/k8QA9slvDGkcN0bGzxebx6LURyq.jpg"
         },
         {
           "title": "Uitkijk x Simulacrum: HyperNormalisation",
@@ -3490,21 +3244,11 @@
           "genre": "drama / misdaad van Martin Scorsese",
           "rating": 8.2,
           "showtimes": [
-            "16:55",
             "16:50",
-            "16:45"
+            "16:45",
+            "14:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
-        },
-        {
-          "title": "The Loves of a Blonde",
-          "year": 1965,
-          "genre": "drama / romantiek / komedie / romantische komedie van Miloš Forman",
-          "rating": 7.4,
-          "showtimes": [
-            "19:10"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/6f9wKxDg6SxpSQ33wXkX2UNslRm.jpg"
         },
         {
           "title": "The Shop on Main Street",
@@ -3522,7 +3266,6 @@
           "genre": "misdaad / drama van Danny Boyle",
           "rating": 8.1,
           "showtimes": [
-            "12:20",
             "19:05",
             "19:00",
             "17:00",
@@ -3542,7 +3285,8 @@
           "genre": "animatie / fantasy / sciencefiction / actie van Katsuhiro Ôtomo",
           "rating": 8.0,
           "showtimes": [
-            "18:45"
+            "18:45",
+            "16:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
         },
@@ -3552,7 +3296,6 @@
           "genre": "drama / romantiek van Martin Scorsese",
           "rating": 7.3,
           "showtimes": [
-            "12:00",
             "12:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg"
@@ -3563,9 +3306,9 @@
           "genre": null,
           "rating": null,
           "showtimes": [
-            "10:30",
             "10:45",
-            "18:15"
+            "18:15",
+            "10:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/sn2CciFJlN2Xzckmpf6D8ym9WRR.jpg"
         },
@@ -3575,7 +3318,6 @@
           "genre": null,
           "rating": 6.9,
           "showtimes": [
-            "18:45",
             "13:30",
             "15:30",
             "17:30"
@@ -3589,7 +3331,8 @@
           "rating": 7.9,
           "showtimes": [
             "18:15",
-            "14:30"
+            "14:30",
+            "14:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/watLjWkpoQiFH4FMxwetnVqf6iw.jpg"
         },
@@ -3599,8 +3342,8 @@
           "genre": "komedie / drama van Paul Ruven , Pim de la Parra en Wik Becker",
           "rating": 5.5,
           "showtimes": [
-            "16:30",
-            "10:30"
+            "10:30",
+            "16:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/1GJwQ4MDLndsbgGoP5kwNT5ETpb.jpg"
         },
@@ -3608,9 +3351,8 @@
           "title": "De Manager",
           "year": 2026,
           "genre": null,
-          "rating": 8.0,
+          "rating": 7.9,
           "showtimes": [
-            "14:45",
             "16:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/ng8HpSyhIcbxEfpdyJwTU6jfs7j.jpg"
@@ -3632,10 +3374,10 @@
           "genre": "drama van Marijana Jankovic",
           "rating": 7.3,
           "showtimes": [
-            "18:30",
             "16:00",
             "20:45",
-            "21:15"
+            "21:15",
+            "18:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/3HRQp3HyLs7xiETvpMDB8Ckullt.jpg"
         },
@@ -3645,7 +3387,6 @@
           "genre": "komedie / actie / avontuur van Mike Cheslik",
           "rating": 7.5,
           "showtimes": [
-            "20:45",
             "17:15",
             "18:30"
           ],
@@ -3678,7 +3419,6 @@
           "genre": "komedie / drama van Radu Jude",
           "rating": 6.7,
           "showtimes": [
-            "11:30",
             "11:00",
             "18:45",
             "10:30",
@@ -3747,8 +3487,8 @@
           "genre": "drama / romantiek van Jacques Demy",
           "rating": 7.4,
           "showtimes": [
-            "17:00",
-            "21:00"
+            "21:00",
+            "17:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/eSM8yCUGhE5YUBIfQSK72YIFCkC.jpg"
         },
@@ -3788,7 +3528,6 @@
           "genre": "familie / komedie / fantasy van Vincent Bal",
           "rating": 6.9,
           "showtimes": [
-            "10:30",
             "15:15",
             "15:30"
           ],
@@ -3820,7 +3559,6 @@
           "genre": "komedie / drama / muziek van Isabel Hagen",
           "rating": 6.6,
           "showtimes": [
-            "14:00",
             "20:30",
             "21:00",
             "18:00",
@@ -3883,14 +3621,24 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/irMnVA1MyhwaOGcVJwSKpo0iKqb.jpg"
         },
         {
-          "title": "Turang",
+          "title": "L'evenement le plus important depuis que l'homme a marche sur la lune",
           "year": null,
           "genre": null,
           "rating": null,
           "showtimes": [
-            "14:45"
+            "16:45"
           ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/fTd8gYyQ4ikkpLwBA9WEY1tZfA.jpg"
+          "poster_url": "https://image.tmdb.org/t/p/w342/f9YI9FeTVNvsZOETKdcbt0JEi6T.jpg"
+        },
+        {
+          "title": "Le joueur de flute",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [
+            "19:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/yC6jaPoD7Udo9HXpCXpzj3t7hP1.jpg"
         },
         {
           "title": "Teenage Sex and Death at Camp Miasma",
@@ -3909,20 +3657,9 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "16:00",
             "20:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
-        },
-        {
-          "title": "The Magic Faraway Tree",
-          "year": 2026,
-          "genre": "familie / avontuur / fantasy van Ben Gregor",
-          "rating": 6.2,
-          "showtimes": [
-            "12:30"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/usvQtQEat62R47V8dDcHHTghFu5.jpg"
         },
         {
           "title": "The Odyssey",
@@ -3934,9 +3671,21 @@
             "16:15",
             "20:15",
             "20:00",
-            "20:30"
+            "20:30",
+            "11:00",
+            "15:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
+        },
+        {
+          "title": "The Rocky Horror Picture Show",
+          "year": 1975,
+          "genre": "komedie / horror / muziek van Jim Sharman",
+          "rating": 7.4,
+          "showtimes": [
+            "21:15"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg"
         },
         {
           "title": "The Watermelon Woman",
@@ -3944,8 +3693,8 @@
           "genre": "komedie / drama / romantiek / romantische komedie van Cheryl Dunye",
           "rating": 7.1,
           "showtimes": [
-            "10:15",
-            "19:30"
+            "19:30",
+            "10:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/qPAemsH3iu5dJgwzz2RZJNRD1Fa.jpg"
         },
@@ -3955,13 +3704,22 @@
           "genre": "drama van Laura Samani",
           "rating": 7.0,
           "showtimes": [
-            "21:15",
             "13:00",
             "18:30",
             "21:00",
             "18:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/AsfUWYo96Q7l4oU1ZISkZ3rJAiS.jpg"
+        },
+        {
+          "title": "Une Chambre en Ville",
+          "year": 1982,
+          "genre": "drama / muziek / romantiek van Jacques Demy",
+          "rating": 6.7,
+          "showtimes": [
+            "21:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/tiJavXjxZfIF2xHmbbFXO9zrkhj.jpg"
         }
       ]
     },
@@ -3974,7 +3732,6 @@
           "genre": "animatie / familie / avontuur van Joost Van Den Bosch en Erik Verkerk",
           "rating": 7.2,
           "showtimes": [
-            "12:10",
             "11:40"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/8GwSPOX2GZroJdE6y7BQU2njFwd.jpg"
@@ -3985,7 +3742,6 @@
           "genre": "komedie / actie / avontuur van Mike Cheslik",
           "rating": 7.5,
           "showtimes": [
-            "21:30",
             "21:00",
             "16:45",
             "14:30",
@@ -3999,7 +3755,6 @@
           "genre": "drama van Sang-il Lee",
           "rating": 7.5,
           "showtimes": [
-            "15:50",
             "15:40",
             "20:50"
           ],
@@ -4024,8 +3779,6 @@
           "genre": "horror / romantiek / sciencefiction van Adrian Chiarella",
           "rating": 6.4,
           "showtimes": [
-            "12:20",
-            "21:15",
             "13:50",
             "21:20",
             "21:30",
@@ -4042,7 +3795,6 @@
           "genre": "misdaad / thriller van Alberto Rodríguez",
           "rating": 6.4,
           "showtimes": [
-            "13:40",
             "11:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/cD5QvzTOk13jV3ZroL8hYgqX18r.jpg"
@@ -4065,7 +3817,6 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "16:45",
             "16:15",
             "21:20",
             "16:40"
@@ -4078,7 +3829,6 @@
           "genre": "komedie / drama / fantasy van Louis Paxton",
           "rating": 7.3,
           "showtimes": [
-            "19:10",
             "19:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
@@ -4101,8 +3851,6 @@
           "genre": "misdaad / drama / thriller van Andrew Patterson",
           "rating": 7.3,
           "showtimes": [
-            "14:10",
-            "19:00",
             "18:30",
             "14:15",
             "11:30",
@@ -4137,14 +3885,14 @@
           "poster_url": null
         },
         {
-          "title": "Politics, Poetry & Anti-colonialism",
+          "title": "Cactus Pears",
           "year": null,
           "genre": null,
           "rating": null,
           "showtimes": [
-            "21:00"
+            "20:30"
           ],
-          "poster_url": null
+          "poster_url": "https://image.tmdb.org/t/p/w342/wCDX0A5NkJJl2cviHX3N4QoRVc0.jpg"
         },
         {
           "title": "Wolfwalkers",
@@ -4257,7 +4005,6 @@
           "genre": "drama van Marijana Jankovic",
           "rating": 7.3,
           "showtimes": [
-            "13:15",
             "18:30",
             "16:00",
             "15:45",
@@ -4271,8 +4018,8 @@
           "genre": "avontuur / animatie / komedie van Nicolas Athane en Marco Nguyen",
           "rating": 7.6,
           "showtimes": [
-            "18:30",
             "13:30",
+            "18:30",
             "21:15",
             "13:15",
             "18:45"
@@ -4335,16 +4082,6 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/kZr47NX1iKdQMr6UUEMwcnMuJ9t.jpg"
         },
         {
-          "title": "Paw Patrol: De Dinofilm",
-          "year": 2026,
-          "genre": "avontuur / familie / animatie van Cal Brunker",
-          "rating": 6.1,
-          "showtimes": [
-            "10:30"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/jNKlgmgryNGOhGLSseam3t55jLp.jpg"
-        },
-        {
           "title": "Peter Hujar's Day",
           "year": 2025,
           "genre": "drama / historisch / biografie van Ira Sachs",
@@ -4373,7 +4110,6 @@
           "genre": "komedie / drama van George Jaques",
           "rating": 7.3,
           "showtimes": [
-            "10:45",
             "13:15",
             "10:30"
           ],
@@ -4383,7 +4119,7 @@
           "title": "Ted & De Magische Lamp",
           "year": 2026,
           "genre": "animatie / familie / avontuur van Enrique Gato",
-          "rating": 6.6,
+          "rating": 6.5,
           "showtimes": [
             "12:30",
             "14:30"
@@ -4440,9 +4176,8 @@
           "genre": "drama van Laura Samani",
           "rating": 7.0,
           "showtimes": [
-            "13:00",
-            "18:30",
             "13:15",
+            "18:30",
             "10:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/AsfUWYo96Q7l4oU1ZISkZ3rJAiS.jpg"
@@ -4478,7 +4213,6 @@
           "genre": "drama van Carlos Saura",
           "rating": 7.9,
           "showtimes": [
-            "17:10",
             "12:25",
             "16:50",
             "13:05"
@@ -4486,23 +4220,11 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/watLjWkpoQiFH4FMxwetnVqf6iw.jpg"
         },
         {
-          "title": "El espíritu de la colmena",
-          "year": 1973,
-          "genre": "drama / fantasy van Víctor Erice",
-          "rating": 7.7,
-          "showtimes": [
-            "19:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/ueefcFKn9qoAQqjSWY6H9xjjLU2.jpg"
-        },
-        {
           "title": "Home",
           "year": 2026,
           "genre": "drama van Marijana Jankovic",
           "rating": 7.3,
           "showtimes": [
-            "13:30",
-            "21:00",
             "14:40",
             "19:00",
             "21:35",
@@ -4517,9 +4239,8 @@
           "genre": "komedie / actie / avontuur van Mike Cheslik",
           "rating": 7.5,
           "showtimes": [
-            "12:25",
-            "19:20",
             "21:40",
+            "19:20",
             "18:40",
             "21:45"
           ],
@@ -4541,7 +4262,6 @@
           "genre": "avontuur / animatie / komedie van Nicolas Athane en Marco Nguyen",
           "rating": 7.6,
           "showtimes": [
-            "21:40",
             "16:45",
             "16:35",
             "15:20"
@@ -4564,7 +4284,6 @@
           "genre": "muziek / drama / komedie van Jacques Demy",
           "rating": 7.7,
           "showtimes": [
-            "18:30",
             "21:05",
             "16:20"
           ],
@@ -4576,7 +4295,6 @@
           "genre": "muziek / romantiek / drama van Jacques Demy",
           "rating": 7.8,
           "showtimes": [
-            "16:35",
             "17:05",
             "19:00",
             "21:40",
@@ -4613,7 +4331,6 @@
           "genre": "fantasy / komedie / muziek van Jacques Demy",
           "rating": 7.0,
           "showtimes": [
-            "14:40",
             "17:30",
             "17:00",
             "16:30",
@@ -4627,7 +4344,6 @@
           "genre": "drama / historisch / biografie van Ira Sachs",
           "rating": 6.3,
           "showtimes": [
-            "15:20",
             "18:35",
             "17:20",
             "20:00",
@@ -4666,12 +4382,21 @@
           "poster_url": null
         },
         {
+          "title": "Time of the Gypsies (1988, ENG subs)",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [
+            "19:00"
+          ],
+          "poster_url": null
+        },
+        {
           "title": "Teenage Sex and Death at Camp Miasma",
           "year": 2026,
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "21:20",
             "19:25",
             "20:30",
             "17:40",
@@ -4686,7 +4411,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "13:00",
             "15:20"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/oaOytZrLtTf8Z7llXjjKkp9XCYY.jpg"
@@ -4697,7 +4421,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "15:40",
             "20:15",
             "12:25"
           ],
@@ -4734,7 +4457,8 @@
           "genre": "drama / film noir van Billy Wilder",
           "rating": 8.0,
           "showtimes": [
-            "11:55"
+            "11:55",
+            "10:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg"
         },
@@ -4748,7 +4472,8 @@
             "21:30",
             "10:05",
             "16:15",
-            "19:00"
+            "19:00",
+            "12:05"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
         },
@@ -4759,9 +4484,20 @@
           "rating": 7.9,
           "showtimes": [
             "16:00",
-            "18:40"
+            "18:40",
+            "10:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg"
+        },
+        {
+          "title": "Black Hawk Down",
+          "year": 2001,
+          "genre": "drama / actie / historisch van Ridley Scott",
+          "rating": 7.7,
+          "showtimes": [
+            "20:35"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg"
         },
         {
           "title": "Cría cuervos",
@@ -4769,14 +4505,13 @@
           "genre": "drama van Carlos Saura",
           "rating": 7.9,
           "showtimes": [
-            "12:10",
-            "14:50",
             "12:30",
             "19:20",
             "16:25",
             "14:00",
             "12:35",
-            "17:05"
+            "17:05",
+            "14:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/watLjWkpoQiFH4FMxwetnVqf6iw.jpg"
         },
@@ -4786,7 +4521,6 @@
           "genre": "komedie / oorlog van Stanley Kubrick",
           "rating": 8.3,
           "showtimes": [
-            "17:00",
             "10:00",
             "12:15"
           ],
@@ -4798,11 +4532,12 @@
           "genre": "actie / drama van Nicolas Winding Refn",
           "rating": 7.8,
           "showtimes": [
-            "12:30",
             "12:25",
             "16:30",
             "16:35",
-            "12:40"
+            "12:40",
+            "10:05",
+            "14:35"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg"
         },
@@ -4818,24 +4553,14 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/cZ7M343iuiMDc36fSeSm699XQFv.jpg"
         },
         {
-          "title": "Four Lions",
-          "year": 2010,
-          "genre": "komedie / drama / misdaad van Christopher Morris",
-          "rating": 7.3,
-          "showtimes": [
-            "14:20"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/x4JzaRPXBs9wiHCe3e3ymXWuwfd.jpg"
-        },
-        {
           "title": "Hundreds of Beavers",
           "year": 2022,
           "genre": "komedie / actie / avontuur van Mike Cheslik",
           "rating": 7.5,
           "showtimes": [
-            "17:00",
             "21:00",
-            "21:15"
+            "21:15",
+            "16:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/tBuCcQoZZy4c5QrWmHEWeJZpPwf.jpg"
         },
@@ -4845,7 +4570,6 @@
           "genre": "komedie van Jacques Tati",
           "rating": 7.2,
           "showtimes": [
-            "10:20",
             "12:05"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/rQYg0lELKoB9VEgYZr10NE3WW6X.jpg"
@@ -4856,7 +4580,6 @@
           "genre": "avontuur / sciencefiction van Steven Spielberg",
           "rating": 8.2,
           "showtimes": [
-            "12:20",
             "21:20",
             "21:15",
             "14:00"
@@ -4869,7 +4592,6 @@
           "genre": "drama / romantiek van Jacques Demy",
           "rating": 7.2,
           "showtimes": [
-            "18:50",
             "14:50",
             "10:10",
             "16:55"
@@ -4894,8 +4616,8 @@
           "genre": "muziek / romantiek / drama van Jacques Demy",
           "rating": 7.8,
           "showtimes": [
-            "10:25",
-            "18:50"
+            "18:50",
+            "11:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gA1t81TgNwo4rHeZaJRfKXdazRZ.jpg"
         },
@@ -4922,16 +4644,6 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/eSM8yCUGhE5YUBIfQSK72YIFCkC.jpg"
         },
         {
-          "title": "Medium Cool",
-          "year": 1969,
-          "genre": "drama / thriller van Haskell Wexler",
-          "rating": 7.2,
-          "showtimes": [
-            "21:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg"
-        },
-        {
           "title": "Mon Oncle",
           "year": 1958,
           "genre": "komedie van Jacques Tati",
@@ -4947,10 +4659,10 @@
           "genre": "drama van Sidney Lumet",
           "rating": 8.0,
           "showtimes": [
-            "10:00",
             "18:45",
             "16:15",
-            "21:15"
+            "21:15",
+            "18:35"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg"
         },
@@ -4983,9 +4695,9 @@
           "genre": "fantasy / komedie / muziek van Jacques Demy",
           "rating": 7.0,
           "showtimes": [
-            "14:55",
             "10:15",
-            "12:05"
+            "12:05",
+            "10:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mYlWFbBEc3A09hRp38vGdoRpmrl.jpg"
         },
@@ -4998,16 +4710,6 @@
             "10:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/4P4pBRNV3vAgOXIw6T9z7FlcLHM.jpg"
-        },
-        {
-          "title": "Possession",
-          "year": 1981,
-          "genre": "horror / drama van Andrzej Zulawski",
-          "rating": 7.2,
-          "showtimes": [
-            "21:35"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/A9bnRn05riOKWftvQlLKa2gl51n.jpg"
         },
         {
           "title": "Punishment Park",
@@ -5040,6 +4742,16 @@
             "18:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/p9miBtbnwLCsPNeACHhAZgqEknq.jpg"
+        },
+        {
+          "title": "Film & Drink: The Big Lebowski (incl. cocktail)",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [
+            "15:00"
+          ],
+          "poster_url": null
         },
         {
           "title": "IDEAAL: Film, Collaboratie & Verzet",
@@ -5096,13 +4808,13 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "16:20",
             "14:40",
             "21:30",
             "21:35",
             "16:10",
             "14:50",
-            "21:45"
+            "21:45",
+            "21:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/pW7Ee4eRM4ezWbev6YzYi0zWJKI.jpg"
         },
@@ -5112,9 +4824,9 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "20:45",
             "12:10",
-            "21:00"
+            "21:00",
+            "20:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hTeJELWxlFJIcOLazr2xoRjSIV9.jpg"
         },
@@ -5147,7 +4859,6 @@
           "genre": "drama / oorlog van Gillo Pontecorvo",
           "rating": 8.1,
           "showtimes": [
-            "12:25",
             "18:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/ohqf21dJ8PBFmNLXwNCGAajJ1Tv.jpg"
@@ -5158,14 +4869,13 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "14:30",
-            "21:15",
             "16:35",
             "14:00",
             "20:45",
             "14:05",
             "21:00",
-            "19:15"
+            "19:15",
+            "18:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/8vkd4mqNDRf5g5O6JrsS25fLFc0.jpg"
         },
@@ -5187,12 +4897,12 @@
           "genre": "komedie / drama / oorlog van Charles Chaplin",
           "rating": 8.4,
           "showtimes": [
-            "18:30",
             "16:50",
             "13:55",
             "16:05",
             "10:10",
-            "21:00"
+            "21:00",
+            "12:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/nhMXB8GTdswYMCL9nepDZymJCOr.jpg"
         },
@@ -5206,19 +4916,11 @@
             "13:55",
             "18:35",
             "14:40",
-            "18:50"
+            "18:50",
+            "13:45",
+            "18:25"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
-        },
-        {
-          "title": "Thelma & Louise",
-          "year": 1991,
-          "genre": "avontuur / roadmovie / drama van Ridley Scott",
-          "rating": 7.6,
-          "showtimes": [
-            "10:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/7D2DqmIKpPlkCU0RLVdlKLKR7XZ.jpg"
         },
         {
           "title": "They Live",
@@ -5237,11 +4939,11 @@
           "genre": "misdaad / drama van Danny Boyle",
           "rating": 8.1,
           "showtimes": [
-            "16:50",
             "16:45",
             "14:35",
             "14:45",
-            "16:30"
+            "16:30",
+            "16:35"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/1jUC02qsqS2NxBMFarbIhcQtazV.jpg"
         },
@@ -5251,10 +4953,9 @@
           "genre": "komedie / drama van Barry Levinson",
           "rating": 7.1,
           "showtimes": [
-            "19:15",
             "10:05",
             "12:05",
-            "19:00"
+            "21:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/kAwOj7t8ZeaniTFtLWVSKO79JxX.jpg"
         },
@@ -5305,6 +5006,16 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
         {
+          "title": "CineCarib #3: Beach Inna Bondage",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [
+            "18:45"
+          ],
+          "poster_url": null
+        },
+        {
           "title": "Melkweg test",
           "year": null,
           "genre": null,
@@ -5335,7 +5046,6 @@
           "genre": null,
           "rating": 6.9,
           "showtimes": [
-            "18:45",
             "16:15",
             "18:30",
             "18:15"
@@ -5348,8 +5058,8 @@
           "genre": "drama van Ousmane Sembene",
           "rating": 7.4,
           "showtimes": [
-            "11:30",
-            "16:45"
+            "16:45",
+            "11:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/85uppg0EGkCdwZSK241qGBW3liU.jpg"
         },
@@ -5378,9 +5088,8 @@
           "title": "De Manager",
           "year": 2026,
           "genre": null,
-          "rating": 8.0,
+          "rating": 7.9,
           "showtimes": [
-            "16:45",
             "13:00",
             "14:45",
             "11:45"
@@ -5414,10 +5123,9 @@
           "genre": "drama / mystery / thriller van Asghar Farhadi",
           "rating": 6.0,
           "showtimes": [
-            "16:00",
-            "21:00",
             "14:30",
             "11:45",
+            "21:00",
             "12:15",
             "20:45",
             "15:45"
@@ -5430,7 +5138,6 @@
           "genre": "drama van Marijana Jankovic",
           "rating": 7.3,
           "showtimes": [
-            "19:15",
             "14:45",
             "20:45",
             "17:00",
@@ -5444,7 +5151,6 @@
           "genre": "drama van Sang-il Lee",
           "rating": 7.5,
           "showtimes": [
-            "20:45",
             "19:30",
             "20:30"
           ],
@@ -5456,7 +5162,6 @@
           "genre": "komedie / drama van Radu Jude",
           "rating": 6.7,
           "showtimes": [
-            "15:00",
             "13:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/bsrC9c7ZUPC8GmTQtt1j3JPjMZE.jpg"
@@ -5487,7 +5192,6 @@
           "genre": "drama van Nathan Ambrosioni",
           "rating": 6.9,
           "showtimes": [
-            "14:30",
             "15:55",
             "21:15"
           ],
@@ -5499,7 +5203,6 @@
           "genre": "muziek / romantiek / drama van Jacques Demy",
           "rating": 7.8,
           "showtimes": [
-            "17:15",
             "19:15",
             "16:30"
           ],
@@ -5511,7 +5214,6 @@
           "genre": "misdaad / thriller van Alberto Rodríguez",
           "rating": 6.4,
           "showtimes": [
-            "12:00",
             "21:15",
             "12:30"
           ],
@@ -5544,7 +5246,6 @@
           "genre": "drama / historisch / biografie van Ira Sachs",
           "rating": 6.3,
           "showtimes": [
-            "14:15",
             "18:45",
             "13:00",
             "19:15",
@@ -5578,11 +5279,10 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "11:45",
-            "18:30",
             "17:15",
             "16:15",
             "14:30",
+            "18:30",
             "13:30",
             "18:15"
           ],
@@ -5604,8 +5304,6 @@
           "genre": "drama van Laura Samani",
           "rating": 7.0,
           "showtimes": [
-            "13:00",
-            "21:30",
             "17:00",
             "18:15",
             "21:00",
@@ -5645,11 +5343,10 @@
           "genre": null,
           "rating": 6.9,
           "showtimes": [
-            "14:30",
-            "18:30",
             "14:00",
             "20:30",
-            "20:00"
+            "20:00",
+            "18:30"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hN0Cpt1U1gSFhtVBZ0KnjyUsmRO.jpg"
         },
@@ -5668,9 +5365,8 @@
           "title": "De Manager",
           "year": 2026,
           "genre": null,
-          "rating": 8.0,
+          "rating": 7.9,
           "showtimes": [
-            "17:00",
             "16:30",
             "18:30"
           ],
@@ -5698,16 +5394,6 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/vuSGeFN8exbFbJqS1stmYaYaLgO.jpg"
         },
         {
-          "title": "Kontinental '25",
-          "year": 2025,
-          "genre": "komedie / drama van Radu Jude",
-          "rating": 6.7,
-          "showtimes": [
-            "16:15"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/bsrC9c7ZUPC8GmTQtt1j3JPjMZE.jpg"
-        },
-        {
           "title": "La baie des anges",
           "year": 1963,
           "genre": "drama / romantiek van Jacques Demy",
@@ -5716,16 +5402,6 @@
             "16:15"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/vCmQwVJ3TdS6p8qH0Y5ivBqWJej.jpg"
-        },
-        {
-          "title": "Les demoiselles de Rochefort",
-          "year": 1967,
-          "genre": "muziek / drama / komedie van Jacques Demy",
-          "rating": 7.7,
-          "showtimes": [
-            "14:15"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/slOyuNsPyXnh4VoXJNT8F7qEXCE.jpg"
         },
         {
           "title": "Les Parapluies de Cherbourg",
@@ -5743,7 +5419,6 @@
           "genre": "horror / romantiek / sciencefiction van Adrian Chiarella",
           "rating": 6.4,
           "showtimes": [
-            "21:15",
             "18:45",
             "16:30",
             "18:15",
@@ -5767,7 +5442,8 @@
           "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
           "rating": null,
           "showtimes": [
-            "18:30"
+            "18:30",
+            "20:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
@@ -5777,7 +5453,6 @@
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "18:45",
             "18:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/kYAKhRyRcoijGoUUETVTQm8xqzj.jpg"
@@ -5809,9 +5484,9 @@
           "genre": "drama / historisch / biografie van Ira Sachs",
           "rating": 6.3,
           "showtimes": [
-            "18:15",
             "17:00",
             "18:00",
+            "18:15",
             "16:45"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/vhiljARozkeXiLdFKHuGroK1f9J.jpg"
@@ -5873,7 +5548,6 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "20:45",
             "18:00",
             "20:15"
           ],
@@ -5906,23 +5580,11 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "14:00",
-            "21:00",
             "14:15",
-            "20:30"
+            "20:30",
+            "21:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/oaOytZrLtTf8Z7llXjjKkp9XCYY.jpg"
-        },
-        {
-          "title": "The Odyssey",
-          "year": 2026,
-          "genre": "avontuur / actie / fantasy van Christopher Nolan",
-          "rating": 8.4,
-          "showtimes": [
-            "14:45",
-            "20:15"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
         },
         {
           "title": "The Rivals of Amziah King",
@@ -5941,28 +5603,27 @@
       "name": "Studio K",
       "movies": [
         {
+          "title": "Anomalisa",
+          "year": 2015,
+          "genre": "animatie / drama / komedie / romantiek / romantische komedie van Duke Johnson en Charlie Kaufman",
+          "rating": 7.2,
+          "showtimes": [
+            "17:00"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg"
+        },
+        {
           "title": "Below the Clouds",
           "year": 2025,
           "genre": null,
           "rating": 6.9,
           "showtimes": [
-            "12:15",
-            "18:30",
             "11:50",
+            "18:30",
             "11:55",
             "11:35"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hN0Cpt1U1gSFhtVBZ0KnjyUsmRO.jpg"
-        },
-        {
-          "title": "Fantastic Mr. Fox",
-          "year": 2009,
-          "genre": "animatie / familie / avontuur / komedie / misdaad van Wes Anderson",
-          "rating": 7.9,
-          "showtimes": [
-            "17:00"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg"
         },
         {
           "title": "Hundreds of Beavers",
@@ -5996,7 +5657,6 @@
           "rating": 6.4,
           "showtimes": [
             "16:30",
-            "21:20",
             "21:25",
             "16:35",
             "21:30"
@@ -6009,7 +5669,6 @@
           "genre": "animatie / familie / komedie van Pierre Coffin en Patrick Delage",
           "rating": 6.3,
           "showtimes": [
-            "13:55",
             "14:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/gx71Cd7ViFClYNMkruj6h1n4j9Q.jpg"
@@ -6050,8 +5709,6 @@
           "genre": "romantiek / drama / horror van Jane Schoenbrun",
           "rating": 7.2,
           "showtimes": [
-            "14:05",
-            "19:10",
             "14:15",
             "19:00",
             "13:30",
@@ -6065,8 +5722,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "14:40",
-            "19:00",
             "14:10",
             "19:15",
             "11:15",
@@ -6082,9 +5737,8 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "15:45",
-            "20:55",
-            "15:50"
+            "15:50",
+            "20:55"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/sQIeePyAP3uUKIcLT5LqfDuRKo8.jpg"
         },
@@ -6094,9 +5748,8 @@
           "genre": "misdaad / drama / thriller van Andrew Patterson",
           "rating": 7.3,
           "showtimes": [
-            "11:25",
-            "21:30",
             "11:30",
+            "21:30",
             "13:55",
             "13:50"
           ],
@@ -6157,16 +5810,6 @@
             "11:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/crFLEhXlLPVFKmm1pEAgb4WBqaU.jpg"
-        },
-        {
-          "title": "Les Parapluies de Cherbourg",
-          "year": 1964,
-          "genre": "muziek / romantiek / drama van Jacques Demy",
-          "rating": 7.8,
-          "showtimes": [
-            "18:30"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/gA1t81TgNwo4rHeZaJRfKXdazRZ.jpg"
         },
         {
           "title": "Lola",
@@ -6315,10 +5958,6 @@
           "genre": "komedie / drama / romantiek / romantische komedie van Girish A. D.",
           "rating": 8.4,
           "showtimes": [
-            "10:30",
-            "15:40",
-            "18:10",
-            "20:30",
             "11:30",
             "15:50",
             "19:30",
@@ -6332,24 +5971,13 @@
           "title": "By Any Means",
           "year": 2026,
           "genre": "misdaad / actie / thriller van Elegance Bratton",
-          "rating": 6.9,
+          "rating": 6.8,
           "showtimes": [
-            "15:10",
-            "21:20",
             "17:40",
-            "21:10"
+            "21:10",
+            "15:10"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/hZHGPzE64S3K0Qk0SUWAdn6NMvq.jpg"
-        },
-        {
-          "title": "De Film van Rutger, Thomas en Paco 2",
-          "year": 2026,
-          "genre": null,
-          "rating": 5.4,
-          "showtimes": [
-            "10:00"
-          ],
-          "poster_url": null
         },
         {
           "title": "Dikkie Dik en de verdwenen knuffel",
@@ -6357,7 +5985,6 @@
           "genre": "animatie / familie / avontuur van Joost Van Den Bosch en Erik Verkerk",
           "rating": 7.2,
           "showtimes": [
-            "10:10",
             "10:00",
             "12:20"
           ],
@@ -6367,10 +5994,8 @@
           "title": "F*ck de Familie",
           "year": 2026,
           "genre": "komedie van David Cocheret",
-          "rating": 4.9,
+          "rating": 4.5,
           "showtimes": [
-            "16:30",
-            "19:20",
             "18:40",
             "15:50",
             "18:50",
@@ -6405,9 +6030,6 @@
           "genre": "horror / mystery / thriller van Jacob Chase",
           "rating": 6.2,
           "showtimes": [
-            "15:50",
-            "18:40",
-            "21:30",
             "15:10",
             "18:30",
             "21:20",
@@ -6422,14 +6044,14 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/lHgP5lHHm2ZgqYAt9PcVgm6YLXS.jpg"
         },
         {
-          "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+          "title": "Kuzma",
           "year": 2026,
-          "genre": "documentaire / muziek van Paul Dugdale",
-          "rating": 6.8,
+          "genre": null,
+          "rating": 8.8,
           "showtimes": [
-            "13:30"
+            "16:20"
           ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/ulsXx67XgRupN53gZHCuzwBEA7O.jpg"
+          "poster_url": "https://image.tmdb.org/t/p/w342/eqAOgQuFIwjgkB20aehngaF35CF.jpg"
         },
         {
           "title": "Minions & Monsters",
@@ -6437,8 +6059,6 @@
           "genre": "animatie / familie / komedie van Pierre Coffin en Patrick Delage",
           "rating": 6.3,
           "showtimes": [
-            "11:00",
-            "14:00",
             "10:10",
             "12:45",
             "15:20",
@@ -6454,14 +6074,23 @@
           "genre": "thriller / actie / misdaad van Jean-François Richet",
           "rating": 5.7,
           "showtimes": [
-            "18:00",
-            "21:40",
             "10:00",
             "21:30",
             "13:00",
+            "18:00",
             "21:50"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/nH01jQO5bZX9z5NUKDShIDdT7Nd.jpg"
+        },
+        {
+          "title": "Oasis: Don't Look Back in Anger",
+          "year": 2026,
+          "genre": "documentaire / muziek van Will Lovelace en Dylan Southern",
+          "rating": null,
+          "showtimes": [
+            "19:30"
+          ],
+          "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
         },
         {
           "title": "Obsession",
@@ -6469,7 +6098,6 @@
           "genre": "horror / thriller / romantiek van Curry Barker",
           "rating": 7.8,
           "showtimes": [
-            "22:00",
             "21:40",
             "21:20"
           ],
@@ -6481,9 +6109,8 @@
           "genre": "avontuur / familie / animatie van Cal Brunker",
           "rating": 6.1,
           "showtimes": [
-            "10:50",
-            "13:20",
             "10:40",
+            "13:20",
             "15:10",
             "12:40",
             "14:30"
@@ -6514,19 +6141,9 @@
           "poster_url": "https://image.tmdb.org/t/p/w342/lRaGqArL1PKqS4jvFH1LTOho1Rp.jpg"
         },
         {
-          "title": "Red Rue Express",
-          "year": 2026,
-          "genre": "komedie van Oleksii Yesakov",
-          "rating": 7.0,
-          "showtimes": [
-            "10:40"
-          ],
-          "poster_url": "https://image.tmdb.org/t/p/w342/5Xg9XaF8RNKSsSVItPWffEZ2wFJ.jpg"
-        },
-        {
           "title": "Rosebush Pruning",
           "year": 2026,
-          "genre": "drama / thriller / komedie van Karim Aïnouz",
+          "genre": "komedie / drama / thriller van Karim Aïnouz",
           "rating": 5.1,
           "showtimes": [
             "18:40"
@@ -6549,8 +6166,6 @@
           "genre": "komedie van Jon Lucas en Scott Moore",
           "rating": 5.4,
           "showtimes": [
-            "12:20",
-            "19:00",
             "12:50",
             "18:10",
             "12:10",
@@ -6564,32 +6179,27 @@
           "genre": "actie / avontuur / sciencefiction van Destin Daniel Cretton",
           "rating": 8.0,
           "showtimes": [
-            "10:20",
-            "12:10",
-            "13:10",
-            "14:00",
-            "15:00",
-            "16:40",
-            "17:30",
-            "18:00",
-            "20:00",
-            "20:10",
-            "21:30",
             "10:30",
             "10:50",
+            "12:10",
             "14:30",
+            "15:00",
             "15:40",
+            "18:00",
             "19:10",
             "20:30",
             "12:30",
             "13:40",
             "14:40",
             "16:00",
+            "16:40",
             "19:30",
             "20:20",
             "12:00",
             "15:30",
-            "18:20"
+            "18:20",
+            "20:00",
+            "10:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/aYBkFizFivFLorXIOoQTNis2rZi.jpg"
         },
@@ -6597,7 +6207,7 @@
           "title": "Ted & De Magische Lamp",
           "year": 2026,
           "genre": "animatie / familie / avontuur van Enrique Gato",
-          "rating": 6.6,
+          "rating": 6.5,
           "showtimes": [
             "10:00",
             "12:40",
@@ -6611,7 +6221,6 @@
           "genre": "actie / avontuur van James Cameron",
           "rating": 8.6,
           "showtimes": [
-            "17:10",
             "20:40",
             "12:20",
             "15:30",
@@ -6638,8 +6247,6 @@
           "genre": "drama / actie / avontuur van Michael Sarnoski",
           "rating": 6.0,
           "showtimes": [
-            "10:50",
-            "20:50",
             "11:40",
             "19:30",
             "14:20",
@@ -6654,10 +6261,8 @@
           "genre": "avontuur / sciencefiction / drama van Ridley Scott",
           "rating": 6.5,
           "showtimes": [
-            "14:10",
-            "18:20",
-            "21:10",
             "15:30",
+            "18:20",
             "20:50",
             "12:30",
             "15:40",
@@ -6675,8 +6280,6 @@
           "genre": "avontuur / actie / mystery van David Robert Mitchell",
           "rating": 6.6,
           "showtimes": [
-            "18:30",
-            "21:50",
             "10:00",
             "17:40",
             "21:20",
@@ -6692,7 +6295,6 @@
           "genre": "komedie / drama / fantasy van Louis Paxton",
           "rating": 7.3,
           "showtimes": [
-            "16:40",
             "17:50",
             "20:10",
             "20:30"
@@ -6705,7 +6307,6 @@
           "genre": "komedie / romantiek / drama / romantische komedie van Olivia Wilde",
           "rating": 7.5,
           "showtimes": [
-            "20:40",
             "14:00",
             "20:50",
             "15:00"
@@ -6729,17 +6330,6 @@
           "genre": "avontuur / actie / fantasy van Christopher Nolan",
           "rating": 8.4,
           "showtimes": [
-            "10:00",
-            "11:20",
-            "11:40",
-            "12:00",
-            "14:00",
-            "15:40",
-            "16:00",
-            "17:00",
-            "19:20",
-            "19:40",
-            "21:00",
             "10:20",
             "11:00",
             "11:50",
@@ -6754,6 +6344,8 @@
             "12:30",
             "13:30",
             "16:30",
+            "19:20",
+            "12:00",
             "19:10",
             "20:10"
           ],
@@ -6765,13 +6357,11 @@
           "genre": "animatie / familie / avontuur / komedie / drama van McKenna Harris en Andrew Stanton",
           "rating": 7.4,
           "showtimes": [
-            "10:00",
-            "12:45",
-            "15:30",
             "10:30",
             "13:20",
             "18:40",
             "12:50",
+            "15:30",
             "17:00"
           ],
           "poster_url": "https://image.tmdb.org/t/p/w342/tFoE3hYk21Qkru7WP2EMmzvxFmY.jpg"
@@ -6782,8 +6372,6 @@
           "genre": "familie / avontuur / fantasy / komedie van Thomas Kail",
           "rating": 5.8,
           "showtimes": [
-            "14:00",
-            "15:20",
             "10:10",
             "13:10",
             "15:40",
@@ -6832,62 +6420,6 @@
           "poster_url": null
         },
         {
-          "title": "Florence Pugh als beruchte antiheldin in trailer 'East of Eden' van Netflix",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Netflix onthult eerste beelden van Lupin seizoen 4: bekijk ze hier",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "De 10 beste nieuwe films op Netflix (week 36, 2026)",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Brute historische Netflix-thriller maakt indruk: 'Een van mijn favoriete films'",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Goedkoper streamen? HBO Max lanceert nieuwe abonnementen samen met Videoland",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Splinternieuwe documentaire schiet hoog de Netflix Top 10 binnen: 'Heel verdrietig'",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
-          "title": "Creepy horrorfilm van Mike Flanagan maakt veel los bij Netflix-abonnees: 'Heel intens en eng'",
-          "year": null,
-          "genre": null,
-          "rating": null,
-          "showtimes": [],
-          "poster_url": null
-        },
-        {
           "title": "'Fauda' seizoen 5 volgende week op Netflix: alles over de nieuwe afleveringen",
           "year": null,
           "genre": null,
@@ -6896,7 +6428,31 @@
           "poster_url": null
         },
         {
-          "title": "Netflix komt met Spaanse miniserie: spannende trailer nu te zien",
+          "title": "Abonnees lyrisch over Zweedse Netflix Original: 'Eén van de beste series die ik in jaren heb gezien'",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "De beste nieuwe films & series op Netflix, Disney+, HBO Max, Videoland en Prime Video (week 36)",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Mysterieuze oppas zet het leven van een gezin volledig op zijn kop in Netflix-serie 'I Know You'",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Abonnees in de ban van misdaadserie na release van seizoen 2: 'Een van de beste titels op Netflix'",
           "year": null,
           "genre": null,
           "rating": null,
@@ -6905,6 +6461,38 @@
         },
         {
           "title": "Familielid onthult aangrijpende details over laatste dagen Dolly Parton",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Netflix-kijkers ondersteboven van schokkende horrorfilm: 'Een van de meest bizarre films ooit'",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Hoge beoordelingen en positieve reacties voor Britse Netflix-serie: 'Uitstekend'",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Komt er een seizoen 4 van 'Beauty in Black' op Netflix?",
+          "year": null,
+          "genre": null,
+          "rating": null,
+          "showtimes": [],
+          "poster_url": null
+        },
+        {
+          "title": "Netflix komt met Spaanse miniserie: spannende trailer nu te zien",
           "year": null,
           "genre": null,
           "rating": null,
@@ -6923,12 +6511,12 @@
           "title": "Films op tv",
           "year": null,
           "genre": null,
-          "rating": 7.9,
+          "rating": 8.5,
           "showtimes": [
-            "21:00",
             "20:00",
             "20:30",
-            "20:25"
+            "20:25",
+            "22:30"
           ],
           "poster_url": null
         },
