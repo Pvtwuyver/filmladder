@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:55:59.100828+00:00",
+  "generated_at": "2026-09-08T10:12:57.871740+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -234,7 +234,7 @@
       "title": "Verity",
       "year": 2026,
       "release_date": "2026-10-01",
-      "poster_url": "https://image.tmdb.org/t/p/w342/d4nhnyzauV6j4IcCJvd6rbzN4b4.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg"
     },
     {
       "title": "Digger",
@@ -414,7 +414,7 @@
       "title": "The Beloved",
       "year": 2026,
       "release_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg"
     },
     {
       "title": "L'Inconnue",
@@ -594,7 +594,7 @@
       "title": "George Michael: The Faith Tour",
       "year": 2026,
       "release_date": "2026-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ljlmEFINSWawI7KpIFbPyZIWVzM.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/sMksgsvrU6h0dmTILD8x5dUlXrt.jpg"
     },
     {
       "title": "Blue Lights",
@@ -744,7 +744,7 @@
       "title": "Meet the Parents: Focker-In-Law",
       "year": 2026,
       "release_date": "2026-11-26",
-      "poster_url": "https://image.tmdb.org/t/p/w342/bZhYdECsSuCrmbfYhKAc2bgsNz.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg"
     },
     {
       "title": "Heysel 85",
@@ -937,6 +937,12 @@
       "year": 2026,
       "release_date": "2026-12-17",
       "poster_url": "https://image.tmdb.org/t/p/w342/AqrKWeE8Gio5IdStANJQY8Bm15g.jpg"
+    },
+    {
+      "title": "Chateau Moordland",
+      "year": 2026,
+      "release_date": "2026-12-17",
+      "poster_url": null
     },
     {
       "title": "Camembert (Family Quiz)",
@@ -1377,19 +1383,37 @@
       "poster_url": null
     },
     {
-      "title": "Zweedse misdaadserie houdt Netflix-kijkers op het puntje van hun stoel: '10/10'",
+      "title": "Familielid onthult aangrijpende details over laatste dagen Dolly Parton",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Mysterieuze oppas zet het leven van een gezin volledig op zijn kop in Netflix-serie 'I Know You'",
+      "title": "Vijfde plaats van 'Wednesday' in historische Netflix-top 10 onder druk door spannende serie",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "IJslands mysterie houdt Netflix-kijkers flink bezig: 'Echt een aanrader'",
+      "title": "Netflix toont eerste beeld van opvolger Tom Hanks als Robert Langdon in Dan Brown-project",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix-kijkers omarmen onlangs toegevoegde Oscarwinnende film met Sandra Bullock over ware gebeurtenissen",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Mislukte blockbuster met Tom Cruise en Russell Crowe plots razend populair: 'Eigenlijk toch best wel degelijk'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Abonnees in de ban van misdaadserie na release van seizoen 2: 'Een van de beste titels op Netflix'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1401,37 +1425,19 @@
       "poster_url": null
     },
     {
-      "title": "De beste nieuwe films & series op Netflix, Disney+, HBO Max, Videoland en Prime Video (week 36)",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Familielid onthult aangrijpende details over laatste dagen Dolly Parton",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers tippen komische misdaadfilm: 'Ik vind dit geweldig!'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "De 10 beste nieuwe films op Netflix (week 36, 2026)",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
       "title": "Geprezen misdaadserie met Tom Hardy wordt verlengd met derde seizoen",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Romantische Netflix-serie nog steeds grote favoriet bij kijkers: 'Zo leuk'",
+      "title": "Netflix-kijkers genieten van politieke thrillerserie: 'Perfect!'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Abonnees lyrisch over Zweedse Netflix Original: 'Eén van de beste series die ik in jaren heb gezien'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1445,7 +1451,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-09",
+      "release_date": "2026-09-10",
       "poster_url": null
     },
     {
