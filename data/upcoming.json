@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-08T10:12:57.871740+00:00",
+  "generated_at": "2026-09-09T10:17:35.379739+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
       "title": "Films binnenkort in de bioscoop",
       "year": null,
-      "release_date": "2026-09-10",
+      "release_date": "2026-09-17",
       "poster_url": null
     },
     {
       "title": "Akira",
       "year": 1988,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
     },
     {
       "title": "Pressure",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/lRaGqArL1PKqS4jvFH1LTOho1Rp.jpg"
     },
     {
       "title": "Rosebush Pruning",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/a54YwgUQpdSH1jR2pmDULuujaQU.jpg"
     },
     {
       "title": "Practical Magic 2",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/2eN0UkWEJzo8WV0lo0TCcMB817L.jpg"
     },
     {
       "title": "Love-22-Love",
       "year": 2025,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/5Hu9ORLLqD0BkCNqoeDiMRvCR8R.jpg"
     },
     {
       "title": "Pour le plaisir",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/khaJlB6LGjTtGjbxthU4MJzjrx5.jpg"
     },
     {
       "title": "Runner",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
     },
     {
       "title": "The Incomer",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
     },
     {
       "title": "Oasis: Don't Look Back in Anger",
       "year": 2026,
-      "release_date": "2026-09-10",
+      "release_date": null,
       "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
     },
     {
@@ -441,6 +441,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/wCYFTJpRkGhn47e9iXr4dQlTgSF.jpg"
     },
     {
+      "title": "Buddha's Lost Children",
+      "year": 2006,
+      "release_date": "2026-10-22",
+      "poster_url": "https://image.tmdb.org/t/p/w342/mZ6MxyyOy5ZgpVEjGH6b3eaiQnF.jpg"
+    },
+    {
       "title": "The Weight",
       "year": 2026,
       "release_date": "2026-10-22",
@@ -702,7 +708,7 @@
       "title": "I Play Rocky",
       "year": 2026,
       "release_date": "2026-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w342/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg"
     },
     {
       "title": "Spinoza",
@@ -927,6 +933,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/rQp1QOZJaHq6sV0eF5Z475Vc6nl.jpg"
     },
     {
+      "title": "Tin Castle",
+      "year": 2026,
+      "release_date": "2026-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w342/uj6ZqXFCBTKqPiUacFDTq3y9EA3.jpg"
+    },
+    {
       "title": "Racing Johnny",
       "year": 2026,
       "release_date": "2026-12-17",
@@ -942,7 +954,7 @@
       "title": "Chateau Moordland",
       "year": 2026,
       "release_date": "2026-12-17",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/lx8okAFVDV93RiPHy50VNoAbvAd.jpg"
     },
     {
       "title": "Camembert (Family Quiz)",
@@ -973,6 +985,12 @@
       "year": 2026,
       "release_date": "2026-12-24",
       "poster_url": "https://image.tmdb.org/t/p/w342/m3ZR0dcDwpO7JdAs6sc12ks3Th9.jpg"
+    },
+    {
+      "title": "Everybody Digs Bill Evans",
+      "year": 2026,
+      "release_date": "2026-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w342/zXZel9xntywX8PV7GgeP5fRYH33.jpg"
     },
     {
       "title": "The Seventh Seal",
@@ -1050,7 +1068,7 @@
       "title": "The Riders",
       "year": null,
       "release_date": "2027-01-14",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1Dk9dieSkZeiEVarZFsPJdF9Qel.jpg"
+      "poster_url": null
     },
     {
       "title": "Les amants du Pont-Neuf",
@@ -1098,7 +1116,7 @@
       "title": "Remain",
       "year": 2027,
       "release_date": "2027-02-04",
-      "poster_url": "https://image.tmdb.org/t/p/w342/ayaZ9kKsmdk1EaH99qxpp6SEpIU.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/5hPNq5h2y8Ux6nPBRMEwZ8npVTp.jpg"
     },
     {
       "title": "Elsinore",
@@ -1111,6 +1129,12 @@
       "year": 2025,
       "release_date": "2027-02-10",
       "poster_url": "https://image.tmdb.org/t/p/w342/yIDPrKCgiG49cULhITKxeZywISe.jpg"
+    },
+    {
+      "title": "Iron Boy",
+      "year": 2026,
+      "release_date": "2027-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w342/h4YDklaLjbgdu9yUr6vNybnrnzX.jpg"
     },
     {
       "title": "De bovenburen",
@@ -1251,6 +1275,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/4gSgzVw59vhegejEh1yMMfStXsU.jpg"
     },
     {
+      "title": "The Legend of Zelda",
+      "year": 2027,
+      "release_date": "2027-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg"
+    },
+    {
       "title": "Moulin",
       "year": 2026,
       "release_date": "2027-04-29",
@@ -1379,11 +1409,23 @@
     {
       "title": "🔥 Meest gelezen",
       "year": null,
+      "release_date": "2026-09-13",
+      "poster_url": null
+    },
+    {
+      "title": "Kijkers onder de indruk van aangrijpende mysteryfilm op Netflix: 'Zo verdrietig'",
+      "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Familielid onthult aangrijpende details over laatste dagen Dolly Parton",
+      "title": "Toekomst van 'Ransom Canyon' onzeker na stilte van Netflix",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Nieuwe komedie weet te verrassen op Netflix en verovert Top 10",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1395,49 +1437,37 @@
       "poster_url": null
     },
     {
-      "title": "Netflix toont eerste beeld van opvolger Tom Hanks als Robert Langdon in Dan Brown-project",
+      "title": "Netflix-kijkers gaan los op verbazingwekkende docu: 'Ik ben zelden zo kwaad geweest!'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Netflix-kijkers omarmen onlangs toegevoegde Oscarwinnende film met Sandra Bullock over ware gebeurtenissen",
+      "title": "Abonnees raden elkaar Spaanse Netflix-thriller aan: 'Geweldige serie'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Mislukte blockbuster met Tom Cruise en Russell Crowe plots razend populair: 'Eigenlijk toch best wel degelijk'",
+      "title": "Deze week nieuw op Netflix (7 t/m 13 september, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Abonnees in de ban van misdaadserie na release van seizoen 2: 'Een van de beste titels op Netflix'",
+      "title": "Dit zijn de 4 beste nieuwe series op Netflix (week 36, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Oorlogsserie van 'Peaky Blinders'-bedenker maakt indruk op Netflix: 'Prachtig'",
+      "title": "Romantische Netflix-serie nog steeds grote favoriet bij kijkers: 'Zo leuk'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Geprezen misdaadserie met Tom Hardy wordt verlengd met derde seizoen",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers genieten van politieke thrillerserie: 'Perfect!'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Abonnees lyrisch over Zweedse Netflix Original: 'Eén van de beste series die ik in jaren heb gezien'",
+      "title": "Recensie 'The Gentlemen' seizoen 2 • 3.5",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1451,7 +1481,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-10",
+      "release_date": "2026-09-11",
       "poster_url": null
     },
     {
