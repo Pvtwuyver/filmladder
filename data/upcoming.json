@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:17:35.379739+00:00",
+  "generated_at": "2026-09-10T10:11:10.347911+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -7,60 +7,6 @@
       "year": null,
       "release_date": "2026-09-17",
       "poster_url": null
-    },
-    {
-      "title": "Akira",
-      "year": 1988,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/o8FizN9aqs5GuKghdlrwzjfyADM.jpg"
-    },
-    {
-      "title": "Pressure",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/lRaGqArL1PKqS4jvFH1LTOho1Rp.jpg"
-    },
-    {
-      "title": "Rosebush Pruning",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/a54YwgUQpdSH1jR2pmDULuujaQU.jpg"
-    },
-    {
-      "title": "Practical Magic 2",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/2eN0UkWEJzo8WV0lo0TCcMB817L.jpg"
-    },
-    {
-      "title": "Love-22-Love",
-      "year": 2025,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/5Hu9ORLLqD0BkCNqoeDiMRvCR8R.jpg"
-    },
-    {
-      "title": "Pour le plaisir",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/khaJlB6LGjTtGjbxthU4MJzjrx5.jpg"
-    },
-    {
-      "title": "Runner",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
-    },
-    {
-      "title": "The Incomer",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/73fN76zuFEQ9DgVVTqifkaLnPbx.jpg"
-    },
-    {
-      "title": "Oasis: Don't Look Back in Anger",
-      "year": 2026,
-      "release_date": null,
-      "poster_url": "https://image.tmdb.org/t/p/w342/mcSniZ5VxNLSq3Y4a0Dl7yn0VqY.jpg"
     },
     {
       "title": "Arrietty",
@@ -252,7 +198,7 @@
       "title": "Forgotten Island",
       "year": 2026,
       "release_date": "2026-10-01",
-      "poster_url": "https://image.tmdb.org/t/p/w342/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg"
     },
     {
       "title": "De Club van Sinterklaas film: Paniek in het Pietendorp",
@@ -570,7 +516,7 @@
       "title": "Godzilla Minus Zero",
       "year": 2026,
       "release_date": "2026-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w342/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/zlZeAIoHiIYiTNOk8H9j2l4sW02.jpg"
     },
     {
       "title": "Wild Horse Nine",
@@ -583,12 +529,6 @@
       "year": 2026,
       "release_date": "2026-11-05",
       "poster_url": "https://image.tmdb.org/t/p/w342/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg"
-    },
-    {
-      "title": "Club Kid",
-      "year": 2026,
-      "release_date": "2026-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w342/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg"
     },
     {
       "title": "Vier minus drei",
@@ -607,6 +547,12 @@
       "year": 2024,
       "release_date": "2026-11-05",
       "poster_url": "https://image.tmdb.org/t/p/w342/lTWipBA5S6Lp4tlQMfd38GfR68Z.jpg"
+    },
+    {
+      "title": "Ramayana",
+      "year": 2026,
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/f3yZZw7zIsWo6m9xJStfjDauIZX.jpg"
     },
     {
       "title": "CARNAVAL",
@@ -657,16 +603,16 @@
       "poster_url": null
     },
     {
-      "title": "Colony",
-      "year": 2026,
-      "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w342/o4hrXJseY8bsdsmpSb0lskDuKDg.jpg"
-    },
-    {
       "title": "Hope",
       "year": 2026,
       "release_date": "2026-11-12",
       "poster_url": "https://image.tmdb.org/t/p/w342/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg"
+    },
+    {
+      "title": "Club Kid",
+      "year": 2026,
+      "release_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w342/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg"
     },
     {
       "title": "Salvation",
@@ -693,10 +639,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/2xYwKUCmnO6Z7EJ6cS2oxTQzJfi.jpg"
     },
     {
+      "title": "Time and Water",
+      "year": 2026,
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/1hksIYHtsHCG70nZKbnrYBPk600.jpg"
+    },
+    {
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
       "release_date": "2026-11-19",
       "poster_url": "https://image.tmdb.org/t/p/w342/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg"
+    },
+    {
+      "title": "Colony",
+      "year": 2026,
+      "release_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w342/o4hrXJseY8bsdsmpSb0lskDuKDg.jpg"
     },
     {
       "title": "Fatherland",
@@ -1017,16 +975,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/qPVzFugyxCo92RwNJsk7by9WdUD.jpg"
     },
     {
+      "title": "Billy Preston: That's the Way God Planned It",
+      "year": 2024,
+      "release_date": "2026-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w342/yFqXOi6WIMiXZMvSFvpmQmCZ32t.jpg"
+    },
+    {
       "title": "Pan's Labyrinth",
       "year": 2006,
       "release_date": "2027-01-07",
       "poster_url": "https://image.tmdb.org/t/p/w342/qx0ROTFkMSbnR6g0zGDRE4cGuWY.jpg"
-    },
-    {
-      "title": "Time and Water",
-      "year": 2026,
-      "release_date": "2027-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/1hksIYHtsHCG70nZKbnrYBPk600.jpg"
     },
     {
       "title": "Werwulf",
@@ -1071,6 +1029,12 @@
       "poster_url": null
     },
     {
+      "title": "Rehearsals for A Revolution",
+      "year": 2026,
+      "release_date": "2027-01-14",
+      "poster_url": "https://image.tmdb.org/t/p/w342/gwXHaUMsAa3qUakJxETGEDY3TRY.jpg"
+    },
+    {
       "title": "Les amants du Pont-Neuf",
       "year": 1991,
       "release_date": "2027-01-21",
@@ -1093,12 +1057,6 @@
       "year": 2026,
       "release_date": "2027-01-21",
       "poster_url": "https://image.tmdb.org/t/p/w342/qia4SpH0shPlNboorBgbFnfIhKf.jpg"
-    },
-    {
-      "title": "Rehearsals for A Revolution",
-      "year": 2026,
-      "release_date": "2027-01-28",
-      "poster_url": "https://image.tmdb.org/t/p/w342/gwXHaUMsAa3qUakJxETGEDY3TRY.jpg"
     },
     {
       "title": "Ice Age: Boiling Point",
@@ -1143,7 +1101,7 @@
       "poster_url": null
     },
     {
-      "title": "Wife and Dog",
+      "title": "Wife & Dog",
       "year": 2026,
       "release_date": "2027-02-18",
       "poster_url": "https://image.tmdb.org/t/p/w342/eoyLMVeP1cuQRTU74W5NAFJBvsu.jpg"
@@ -1413,25 +1371,31 @@
       "poster_url": null
     },
     {
-      "title": "Kijkers onder de indruk van aangrijpende mysteryfilm op Netflix: 'Zo verdrietig'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
       "title": "Toekomst van 'Ransom Canyon' onzeker na stilte van Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Nieuwe komedie weet te verrassen op Netflix en verovert Top 10",
+      "title": "Langverwacht vijfde seizoen van bejubelde serie 'Fauda' nu te streamen op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Vijfde plaats van 'Wednesday' in historische Netflix-top 10 onder druk door spannende serie",
+      "title": "Komt er een seizoen 3 van hitserie 'The Gentlemen' op Netflix?",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix deelt eerste teaser van waargebeurde oorlogsfilm met Bill Skarsgård",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Nieuwe Mexicaanse dramaserie trekt veel bekijks op Netflix: 'Perfect om te bingen'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1443,7 +1407,13 @@
       "poster_url": null
     },
     {
-      "title": "Abonnees raden elkaar Spaanse Netflix-thriller aan: 'Geweldige serie'",
+      "title": "Nieuwe komedie weet te verrassen op Netflix en verovert Top 10",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Recensie 'The Gentlemen' seizoen 2 • 3.5",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1455,19 +1425,7 @@
       "poster_url": null
     },
     {
-      "title": "Dit zijn de 4 beste nieuwe series op Netflix (week 36, 2026)",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Romantische Netflix-serie nog steeds grote favoriet bij kijkers: 'Zo leuk'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Recensie 'The Gentlemen' seizoen 2 • 3.5",
+      "title": "Tweede seizoen van 'Yellowstone'-spin-off voorzien van eerste trailer en releasedatum",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1481,7 +1439,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-11",
+      "release_date": "2026-09-12",
       "poster_url": null
     },
     {
