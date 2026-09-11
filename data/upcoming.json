@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:11:10.347911+00:00",
+  "generated_at": "2026-09-11T10:08:17.348515+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -189,6 +189,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
     },
     {
+      "title": "De Grote Sinterklaasfilm en de vliegende Pieten",
+      "year": 2026,
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/jtMDWY0y8RyG46UcFHt6Tk7pRQZ.jpg"
+    },
+    {
       "title": "Downtown",
       "year": 2026,
       "release_date": "2026-10-01",
@@ -288,7 +294,7 @@
       "title": "The Social Reckoning",
       "year": 2026,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/qZr5bxGXE1t2A9pNSikb9fQKzov.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg"
     },
     {
       "title": "Yellow Letters",
@@ -486,13 +492,13 @@
       "title": "All of a Sudden",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/b9crZAqRKtxY9N3iHRJ4wpCHcXt.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg"
     },
     {
       "title": "Primetime",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
     },
     {
       "title": "9 lunas",
@@ -795,10 +801,10 @@
       "poster_url": null
     },
     {
-      "title": "Mouse Hunt",
+      "title": "Missie Muizenjacht",
       "year": 2025,
       "release_date": "2026-12-09",
-      "poster_url": "https://image.tmdb.org/t/p/w342/6YyG8iqdc7FZfdZcpy0cDsKJiNw.jpg"
+      "poster_url": null
     },
     {
       "title": "Golden State Killer",
@@ -1057,6 +1063,12 @@
       "year": 2026,
       "release_date": "2027-01-21",
       "poster_url": "https://image.tmdb.org/t/p/w342/qia4SpH0shPlNboorBgbFnfIhKf.jpg"
+    },
+    {
+      "title": "Witch On The Holy Night",
+      "year": 2026,
+      "release_date": "2027-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w342/cCujIxpgUxGg0X1X2ItSXCso9ws.jpg"
     },
     {
       "title": "Ice Age: Boiling Point",
@@ -1371,37 +1383,19 @@
       "poster_url": null
     },
     {
-      "title": "Toekomst van 'Ransom Canyon' onzeker na stilte van Netflix",
+      "title": "Tweede seizoen van 'Yellowstone'-spin-off voorzien van eerste trailer en releasedatum",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Langverwacht vijfde seizoen van bejubelde serie 'Fauda' nu te streamen op Netflix",
+      "title": "Netflix-kijkers genieten van politieke thrillerserie: 'Perfect!'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Komt er een seizoen 3 van hitserie 'The Gentlemen' op Netflix?",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix deelt eerste teaser van waargebeurde oorlogsfilm met Bill Skarsgård",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Nieuwe Mexicaanse dramaserie trekt veel bekijks op Netflix: 'Perfect om te bingen'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-kijkers gaan los op verbazingwekkende docu: 'Ik ben zelden zo kwaad geweest!'",
+      "title": "Heftige misdaadserie verovert Netflix Top 10 met nieuw seizoen: 'Eindelijk terug'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1413,19 +1407,37 @@
       "poster_url": null
     },
     {
-      "title": "Recensie 'The Gentlemen' seizoen 2 • 3.5",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
       "title": "Deze week nieuw op Netflix (7 t/m 13 september, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Tweede seizoen van 'Yellowstone'-spin-off voorzien van eerste trailer en releasedatum",
+      "title": "De top 10 populairste films & series nu op Netflix (week 37, 2026)",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix-abonnees helemaal weg van fantasyserie: 'Enorm goed'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Genoten van 'The Gentlemen'? Bekijk ook deze 3 series op Netflix",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Kijkers in de ban van spannende Harlan Coben-serie op Netflix: 'Verslavend'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix verwijdert binnenkort 'The Negotiator' en 50+ andere films en series",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1439,7 +1451,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-12",
+      "release_date": "2026-09-13",
       "poster_url": null
     },
     {
