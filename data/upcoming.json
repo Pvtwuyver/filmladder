@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:44:36.609264+00:00",
+  "generated_at": "2026-09-14T11:08:37.087441+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -229,6 +229,12 @@
       "year": 2026,
       "release_date": "2026-10-01",
       "poster_url": "https://image.tmdb.org/t/p/w342/vEDmzu9LhxPIJSsQr4g8H0JCYQN.jpg"
+    },
+    {
+      "title": "Naza",
+      "year": 2026,
+      "release_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w342/aXlTjDmbYVNjGWt256MWeYVKFN.jpg"
     },
     {
       "title": "Monster Mia",
@@ -723,7 +729,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/hTEN2A1Kw8hH8CuaGXIUPcSzv9V.jpg"
     },
     {
-      "title": "Becomin",
+      "title": "Becoming",
       "year": 2025,
       "release_date": "2026-11-26",
       "poster_url": "https://image.tmdb.org/t/p/w342/cAxteOtjaeQN045qNNbSEwu78c4.jpg"
@@ -858,7 +864,7 @@
       "title": "Avengers: Doomsday",
       "year": 2026,
       "release_date": "2026-12-16",
-      "poster_url": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
     },
     {
       "title": "Dune: Part Three",
@@ -1383,13 +1389,13 @@
       "poster_url": null
     },
     {
-      "title": "Kijkers in de ban van spannende Harlan Coben-serie op Netflix: 'Verslavend'",
+      "title": "Eerste beelden onthuld: opnames gestart van nieuwe 'Prison Break'-serie",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Netflix-kijkers tippen bloedstollende Britse thriller: 'Bijna twee uur in spanning gezeten'",
+      "title": "Kijkers in de ban van 'misselijkmakende' Netflix-film: 'Zo goed'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1407,37 +1413,37 @@
       "poster_url": null
     },
     {
+      "title": "Splinternieuwe Netflix Original verovert in één klap de Top 10: 'Echt goed'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix-kijkers tippen bloedstollende Britse thriller: 'Bijna twee uur in spanning gezeten'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
       "title": "Recensie 'De Eetclub' • 3",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Nieuwe Mexicaanse dramaserie trekt veel bekijks op Netflix: 'Perfect om te bingen'",
+      "title": "Netflix trekt officieel stekker uit westernserie 'Ransom Canyon' na twee seizoenen",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Heftige misdaadserie verovert Netflix Top 10 met nieuw seizoen: 'Eindelijk terug'",
+      "title": "Dit zijn de 5 beste nieuwe series op Netflix (week 37, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Bovennatuurlijke Colombiaanse dramaserie vanaf vandaag te zien op Netflix",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix-abonnees vol lof over Noorse thrillerserie: 'In drie avonden uitgekeken'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Prime Video gaat opnieuw aan de haal met populair boek voor nieuwe serie",
+      "title": "Kijkcijfers van Netflix-thriller stijgen binnen één week met maar liefst 70 procent",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1451,7 +1457,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-15",
+      "release_date": "2026-09-16",
       "poster_url": null
     },
     {
