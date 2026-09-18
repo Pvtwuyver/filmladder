@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:35:31.887483+00:00",
+  "generated_at": "2026-09-18T10:11:02.234597+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -244,7 +244,7 @@
     },
     {
       "title": "Sacrifice",
-      "year": 2026,
+      "year": 2025,
       "release_date": "2026-10-15",
       "poster_url": "https://image.tmdb.org/t/p/w342/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg"
     },
@@ -342,7 +342,7 @@
       "title": "Wicker",
       "year": 2026,
       "release_date": "2026-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w342/eOYkNDalgt1v6UGjw3AoFR5qo9D.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/rnoD8w0SUetL3S4Uje8HgSxDXzK.jpg"
     },
     {
       "title": "Coward",
@@ -396,13 +396,13 @@
       "title": "Other Mommy",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/fAoMFiyXynePb9HpDM6PNEcESlD.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
     },
     {
       "title": "All of a Sudden",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/b9crZAqRKtxY9N3iHRJ4wpCHcXt.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg"
     },
     {
       "title": "Primetime",
@@ -480,7 +480,7 @@
       "title": "How to Rob a Bank",
       "year": 2026,
       "release_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w342/nmB0dUFEBHkXgJYnkybzxyRtpvI.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg"
     },
     {
       "title": "Ebenezer: A Christmas Carol",
@@ -594,7 +594,7 @@
       "title": "Forêt ivre",
       "year": 2026,
       "release_date": "2026-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wqvFC6WWp34YhxZxcTSYdg413Ps.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/fP4LynPVpSnBKljRpupSSS2qL3N.jpg"
     },
     {
       "title": "Disney's Hexed",
@@ -798,19 +798,19 @@
       "title": "In Alaska",
       "year": 2026,
       "release_date": "2026-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w342/co5Agb5OqF69Qj8l1Jqyc8KVv0C.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/wKfOFuRt16BAH3oRARHsTfNoqIf.jpg"
     },
     {
       "title": "To Hold a Mountain",
       "year": 2026,
       "release_date": "2026-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w342/aQZIVIjqmxUe4nYP0BVEjlcfNXt.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/8xFJmF0AnPZZvdAuFimak7KuerN.jpg"
     },
     {
       "title": "La vie d'une femme",
       "year": 2026,
       "release_date": "2026-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w342/hakvR1eAbMI4xGFfElR6LZQyq8P.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/9xAYLvWZGASDKJZjt5XgvD7ugsn.jpg"
     },
     {
       "title": "Aquí",
@@ -1014,7 +1014,7 @@
       "title": "Remain",
       "year": 2027,
       "release_date": "2027-02-04",
-      "poster_url": "https://image.tmdb.org/t/p/w342/m27Ilxouc2ilQL1nojCs7OxWUVI.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/9wiIiYB24Lg0KawvZhukFUCmJ17.jpg"
     },
     {
       "title": "Elsinore",
@@ -1206,7 +1206,7 @@
       "title": "Demain je tombe amoureux",
       "year": 2026,
       "release_date": "2027-05-06",
-      "poster_url": "https://image.tmdb.org/t/p/w342/q0CefWHHoYHR5dBTY9n6Jm9LIAN.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/pAXDKVr5qErSlyv9WB3lJ8cdPip.jpg"
     },
     {
       "title": "John Rambo",
@@ -1307,6 +1307,24 @@
     {
       "title": "🔥 Meest gelezen",
       "year": null,
+      "release_date": "2026-09-20",
+      "poster_url": null
+    },
+    {
+      "title": "Sydney Sweeney opnieuw onder vuur na gedurfde advertentie: 'Erg schadelijk'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "'De Eetclub'-actrice Loes Haverkort geopereerd aan hersentumor",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Deel 4 van Netflix-hit 'Lupin' heeft zijn trailer te pakken",
+      "year": null,
       "release_date": null,
       "poster_url": null
     },
@@ -1317,37 +1335,19 @@
       "poster_url": null
     },
     {
-      "title": "Onheilspellende thriller met Jake Gyllenhaal vanaf nu te streamen op Netflix",
+      "title": "Gloednieuwe lugubere thrillerserie vanaf nu te zien op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Heftige Britse miniserie maakt Netflix-kijkers boos: 'Moet je zien'",
+      "title": "Romantische Netflix-serie verovert harten van kijkers: 'Echt zo schattig'",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "'Lalka' volgende week op Netflix: alles over het nieuwe kostuumdrama",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Nederlandse psychologische thriller wordt massaal bekeken op Netflix: 'Heel erg goed!'",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix deelt volledige trailer van nieuwe thriller van Ben Affleck",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Netflix onthult trailer van Duitse psychologische thrillerserie 'Die Falle'",
+      "title": "Internationaal succes: Nederlandse Netflix-serie al meer dan 4 miljoen keer bekeken",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1359,13 +1359,13 @@
       "poster_url": null
     },
     {
-      "title": "'Jurassic World' na elf jaar onttroond als grootste Universal-film ooit door nieuw spektakel",
+      "title": "Deze week nieuw op Netflix (14 t/m 20 september, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Taylor Sheridan krijgt grotere rol bij tweede seizoen van 'Yellowstone'-spin-off",
+      "title": "Abonnees weg van Britse Netflix-serie: 'Zo, zo goed'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1379,7 +1379,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-19",
+      "release_date": "2026-09-20",
       "poster_url": null
     },
     {
