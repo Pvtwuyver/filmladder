@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:11:02.234597+00:00",
+  "generated_at": "2026-09-19T09:52:09.333232+00:00",
   "source": "https://www.filmvandaag.nl/nieuwefilms",
   "films": [
     {
@@ -150,31 +150,31 @@
       "title": "Monster Mia",
       "year": 2026,
       "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/wgYZL3ltYDn5Bhi7XFjTOpfQIln.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/nNijgBBHN9EIquzzC5EijFNXuKc.jpg"
     },
     {
       "title": "Moppervis",
       "year": 2026,
       "release_date": "2026-10-07",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/tM0h1ywr5VqNVaml7lUAfz932aZ.jpg"
     },
     {
       "title": "Verhalen uit de Magische tuin",
       "year": 2025,
       "release_date": "2026-10-07",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/zmyCh95cyOKGv44ONNwC9hfLmp2.jpg"
     },
     {
       "title": "Shaun het Schaap: Het Beest van de Boerderij",
       "year": 2026,
       "release_date": "2026-10-07",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/alPkAyvCJkhC9K5E7CDUIWqtTjW.jpg"
     },
     {
       "title": "Yugly",
       "year": 2026,
       "release_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/v0k03CaQh6uFc5Ot8Jjhvr5BMYu.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/crbJ7GNWKj5JEfgsAZ3KUyIM3rS.jpg"
     },
     {
       "title": "Shall We Dance?",
@@ -186,7 +186,7 @@
       "title": "The Uprising",
       "year": 2026,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/fiFdny17lnjrwH6TmuxrhNy1Ol2.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
     },
     {
       "title": "Fuze",
@@ -204,7 +204,7 @@
       "title": "Franz",
       "year": 2025,
       "release_date": "2026-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w342/3RZGhKT6aDskjkOzF4vBmLzqxhM.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/mofVvj8tgreAAoAw00DHt1KUOKN.jpg"
     },
     {
       "title": "The Social Reckoning",
@@ -258,7 +258,7 @@
       "title": "Street Fighter",
       "year": 2026,
       "release_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w342/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg"
     },
     {
       "title": "Sense and Sensibility",
@@ -402,7 +402,7 @@
       "title": "All of a Sudden",
       "year": 2026,
       "release_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w342/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/wsWJ5144ZNaH9KJm2Fu3sMfAp78.jpg"
     },
     {
       "title": "Primetime",
@@ -426,7 +426,7 @@
       "title": "Ghost Soldier",
       "year": 2026,
       "release_date": "2026-11-05",
-      "poster_url": "https://image.tmdb.org/t/p/w342/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg"
     },
     {
       "title": "Godzilla Minus Zero",
@@ -439,6 +439,12 @@
       "year": 2026,
       "release_date": "2026-11-05",
       "poster_url": "https://image.tmdb.org/t/p/w342/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg"
+    },
+    {
+      "title": "I Love Boosters",
+      "year": 2026,
+      "release_date": "2026-11-05",
+      "poster_url": "https://image.tmdb.org/t/p/w342/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg"
     },
     {
       "title": "Amarga Navidad",
@@ -474,7 +480,7 @@
       "title": "CARNAVAL",
       "year": 2026,
       "release_date": "2026-11-11",
-      "poster_url": null
+      "poster_url": "https://image.tmdb.org/t/p/w342/9gNOI0AVXC5dj4O8H749mcikiTP.jpg"
     },
     {
       "title": "How to Rob a Bank",
@@ -586,7 +592,7 @@
     },
     {
       "title": "Spinoza",
-      "year": null,
+      "year": 2026,
       "release_date": "2026-11-19",
       "poster_url": null
     },
@@ -699,10 +705,16 @@
       "poster_url": null
     },
     {
+      "title": "Whispers in May",
+      "year": 2026,
+      "release_date": "2026-12-03",
+      "poster_url": "https://image.tmdb.org/t/p/w342/d1GN2LBqmtzMOmuF9QlU4poEm02.jpg"
+    },
+    {
       "title": "On the Sea",
       "year": 2025,
       "release_date": "2026-12-04",
-      "poster_url": "https://image.tmdb.org/t/p/w342/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w342/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg"
     },
     {
       "title": "Asterix: Het Koninkrijk van Nubië",
@@ -757,12 +769,6 @@
       "year": 2026,
       "release_date": "2026-12-10",
       "poster_url": "https://image.tmdb.org/t/p/w342/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg"
-    },
-    {
-      "title": "Whispers in May",
-      "year": 2026,
-      "release_date": "2026-12-10",
-      "poster_url": "https://image.tmdb.org/t/p/w342/d1GN2LBqmtzMOmuF9QlU4poEm02.jpg"
     },
     {
       "title": "The Devils",
@@ -915,12 +921,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg"
     },
     {
-      "title": "Paradis",
-      "year": 2026,
-      "release_date": "2027-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w342/l6V0wgEVeSBlDnB0OHX05ZRtnPR.jpg"
-    },
-    {
       "title": "Tristan Forever",
       "year": 2026,
       "release_date": "2027-01-07",
@@ -987,10 +987,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w342/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg"
     },
     {
+      "title": "Rose",
+      "year": 2026,
+      "release_date": "2027-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w342/9xxcGE5NOtiC5qnNuWwqKqE3iIQ.jpg"
+    },
+    {
       "title": "The Meltdown",
       "year": 2026,
       "release_date": "2027-01-21",
       "poster_url": "https://image.tmdb.org/t/p/w342/qia4SpH0shPlNboorBgbFnfIhKf.jpg"
+    },
+    {
+      "title": "Paradis",
+      "year": 2026,
+      "release_date": "2027-01-28",
+      "poster_url": "https://image.tmdb.org/t/p/w342/l6V0wgEVeSBlDnB0OHX05ZRtnPR.jpg"
     },
     {
       "title": "Witch On The Holy Night",
@@ -1307,41 +1319,17 @@
     {
       "title": "🔥 Meest gelezen",
       "year": null,
-      "release_date": "2026-09-20",
+      "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Sydney Sweeney opnieuw onder vuur na gedurfde advertentie: 'Erg schadelijk'",
+      "title": "Langverwachte 'Pride and Prejudice'-serie heeft releasedatum te pakken op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "'De Eetclub'-actrice Loes Haverkort geopereerd aan hersentumor",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Deel 4 van Netflix-hit 'Lupin' heeft zijn trailer te pakken",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Ontroerende hondenfilm vanaf nu weer te streamen op Netflix",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Gloednieuwe lugubere thrillerserie vanaf nu te zien op Netflix",
-      "year": null,
-      "release_date": null,
-      "poster_url": null
-    },
-    {
-      "title": "Romantische Netflix-serie verovert harten van kijkers: 'Echt zo schattig'",
+      "title": "'De Eetclub'-schrijvers onthullen: seizoen 2 al in de maak bij Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1353,19 +1341,43 @@
       "poster_url": null
     },
     {
+      "title": "Netflix-abonnees vol lof over Italiaanse dramaserie: 'Dit raad ik iedereen aan'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Netflix onthult trailer van Duitse psychologische thrillerserie 'Die Falle'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Een verjaardagsdiner loopt volledig uit de hand in trailer van Zweedse Netflix-film 'The Storm'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
+      "title": "Heftige Britse miniserie maakt Netflix-kijkers boos: 'Moet je zien'",
+      "year": null,
+      "release_date": null,
+      "poster_url": null
+    },
+    {
       "title": "De top 10 populairste films & series nu op Netflix (week 38, 2026)",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Deze week nieuw op Netflix (14 t/m 20 september, 2026)",
+      "title": "Ontroerende hondenfilm vanaf nu weer te streamen op Netflix",
       "year": null,
       "release_date": null,
       "poster_url": null
     },
     {
-      "title": "Abonnees weg van Britse Netflix-serie: 'Zo, zo goed'",
+      "title": "Netflix-kijkers verliefd op stijlvolle boekverfilming: 'Meesterwerk'",
       "year": null,
       "release_date": null,
       "poster_url": null
@@ -1379,7 +1391,7 @@
     {
       "title": "Films op tv",
       "year": null,
-      "release_date": "2026-09-20",
+      "release_date": "2026-09-21",
       "poster_url": null
     },
     {
