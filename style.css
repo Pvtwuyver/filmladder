@@ -97,6 +97,28 @@ body {
 
 #search-input { flex: 1; min-width: 180px; }
 
+.day-filters {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.day-filter {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 0.5rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.day-filter.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-contrast);
+}
+
 main {
   max-width: 900px;
   margin: 1.25rem auto 3rem;
@@ -122,31 +144,11 @@ main {
 }
 
 .movie-row {
-  display: flex;
-  gap: 0.75rem;
-  align-items: flex-start;
   padding: 0.55rem 0;
   border-top: 1px solid var(--border);
 }
 
 .movie-row:first-of-type { border-top: none; }
-
-.movie-text { flex: 1; min-width: 0; }
-
-.poster-thumb {
-  flex: none;
-  width: 46px;
-  height: 68px;
-  object-fit: cover;
-  border-radius: 6px;
-  background: var(--bg);
-  border: 1px solid var(--border);
-}
-
-.poster-thumb-large {
-  width: 64px;
-  height: 94px;
-}
 
 .movie-title {
   font-weight: 600;
@@ -157,6 +159,25 @@ main {
   color: var(--text-muted);
   font-size: 0.85rem;
   margin: 0.15rem 0 0.4rem;
+}
+
+.showtimes-by-day {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.showtime-day-group {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.showtime-day-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  min-width: 5.5rem;
 }
 
 .showtimes {
@@ -181,19 +202,12 @@ main {
   padding: 0.9rem 1.1rem;
   margin-bottom: 0.7rem;
   display: flex;
-  gap: 1rem;
-  align-items: flex-start;
-}
-
-.upcoming-card .movie-text {
-  display: flex;
   justify-content: space-between;
-  align-items: baseline;
   gap: 1rem;
-  flex: 1;
+  align-items: baseline;
 }
 
-.upcoming-card .movie-title { flex: 1; margin: 0; }
+.upcoming-card .movie-title { flex: 1; }
 
 .release-date {
   color: var(--accent);

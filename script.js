@@ -1,12 +1,15 @@
 (function () {
   "use strict";
 
+  const EVENING_HOUR = 18; // vanaf dit uur telt een speeltijd als "vanavond"
+
   const state = {
     now: { generated_at: null, cinemas: [] },
     upcoming: { generated_at: null, films: [] },
     activeTab: "now",
     search: "",
     cinemaFilter: "",
+    dayFilter: "all", // "all" | "today" | "weekend"
   };
 
   const el = {
@@ -18,6 +21,7 @@
     nowControls: document.getElementById("now-controls"),
     search: document.getElementById("search-input"),
     cinemaFilter: document.getElementById("cinema-filter"),
+    dayFilterButtons: document.querySelectorAll(".day-filter"),
   };
 
   function fmtDateTime(iso) {
@@ -47,6 +51,59 @@
     } catch {
       return null;
     }
+  }
+
+  // --- Datumhelpers voor de "vanavond" / "dit weekend" filters ---
+  // Gebaseerd op de kloktijd van de bezoeker (client-side), niet op
+  // generated_at van de data.
+
+  function todayDate() {
+    const d = new Date();
+    d.setHours(0, 0, 0, 0);
+    return d;
+  }
+
+  function toISODate(d) {
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, "0");
+    const day = String(d.getDate()).padStart(2, "0");
+    return `${y}-${m}-${day}`;
+  }
+
+  function addDays(d, n) {
+    const copy = new Date(d);
+    copy.setDate(copy.getDate() + n);
+    return copy;
+  }
+
+  // Geeft [zaterdag-iso, zondag-iso] voor het eerstvolgende (of lopende) weekend.
+  // Op een zondag is het "verstreken" zaterdag niet meer bruikbaar (die data
+  // hebben we niet), dus dan telt alleen de zondag zelf.
+  function weekendISORange(today) {
+    const day = today.getDay(); // 0 = zondag ... 6 = zaterdag
+    if (day === 0) return [toISODate(today)];
+    const satOffset = 6 - day;
+    const sat = addDays(today, satOffset);
+    const sun = addDays(sat, 1);
+    return [toISODate(sat), toISODate(sun)];
+  }
+
+  function dayLabelForISO(iso, todayISO, tomorrowISO) {
+    if (iso === todayISO) return "Vandaag";
+    if (iso === tomorrowISO) return "Morgen";
+    try {
+      const d = new Date(iso + "T00:00:00");
+      const label = d.toLocaleDateString("nl-NL", { weekday: "long" });
+      return label.charAt(0).toUpperCase() + label.slice(1);
+    } catch {
+      return iso;
+    }
+  }
+
+  function showtimeMatchesFilter(showtime, filter, todayISO, weekendISOs) {
+    if (filter === "today") return showtime.date === todayISO && showtime.time >= `${String(EVENING_HOUR).padStart(2, "0")}:00`;
+    if (filter === "weekend") return weekendISOs.includes(showtime.date);
+    return true;
   }
 
   async function loadData() {
@@ -95,13 +152,24 @@
 
   function renderNow() {
     const term = state.search.trim().toLowerCase();
+    const today = todayDate();
+    const todayISO = toISODate(today);
+    const tomorrowISO = toISODate(addDays(today, 1));
+    const weekendISOs = weekendISORange(today);
+
     const cinemas = state.now.cinemas
       .filter((c) => !state.cinemaFilter || c.name === state.cinemaFilter)
       .map((c) => ({
         ...c,
-        movies: c.movies.filter(
-          (m) => !term || m.title.toLowerCase().includes(term)
-        ),
+        movies: c.movies
+          .filter((m) => !term || m.title.toLowerCase().includes(term))
+          .map((m) => ({
+            ...m,
+            matchingShowtimes: (m.showtimes || []).filter((s) =>
+              showtimeMatchesFilter(s, state.dayFilter, todayISO, weekendISOs)
+            ),
+          }))
+          .filter((m) => state.dayFilter === "all" || m.matchingShowtimes.length > 0),
       }))
       .filter((c) => c.movies.length > 0);
 
@@ -113,7 +181,10 @@
       return;
     }
     if (cinemas.length === 0) {
-      el.status.textContent = "Geen films gevonden voor deze zoekopdracht/filter.";
+      el.status.textContent =
+        state.dayFilter === "all"
+          ? "Geen films gevonden voor deze zoekopdracht/filter."
+          : "Geen films gevonden voor deze zoekopdracht/filter in de geselecteerde periode.";
       return;
     }
     el.status.textContent = "";
@@ -130,23 +201,10 @@
         const row = document.createElement("div");
         row.className = "movie-row";
 
-        if (movie.poster_url) {
-          const img = document.createElement("img");
-          img.className = "poster-thumb";
-          img.src = movie.poster_url;
-          img.alt = "";
-          img.loading = "lazy";
-          img.addEventListener("error", () => img.remove());
-          row.appendChild(img);
-        }
-
-        const text = document.createElement("div");
-        text.className = "movie-text";
-
         const title = document.createElement("p");
         title.className = "movie-title";
         title.textContent = movie.year ? `${movie.title} (${movie.year})` : movie.title;
-        text.appendChild(title);
+        row.appendChild(title);
 
         if (movie.genre || movie.rating) {
           const meta = document.createElement("p");
@@ -155,27 +213,59 @@
           if (movie.genre) parts.push(movie.genre);
           if (movie.rating) parts.push(`${movie.rating}/10`);
           meta.textContent = parts.join(" · ");
-          text.appendChild(meta);
+          row.appendChild(meta);
         }
 
-        if (movie.showtimes && movie.showtimes.length) {
-          const times = document.createElement("div");
-          times.className = "showtimes";
-          for (const t of movie.showtimes) {
-            const span = document.createElement("span");
-            span.className = "showtime";
-            span.textContent = t;
-            times.appendChild(span);
-          }
-          text.appendChild(times);
+        const showtimesToRender =
+          state.dayFilter === "all" ? movie.showtimes || [] : movie.matchingShowtimes;
+
+        if (showtimesToRender.length) {
+          row.appendChild(renderShowtimesByDay(showtimesToRender, todayISO, tomorrowISO));
         }
 
-        row.appendChild(text);
         card.appendChild(row);
       }
 
       el.nowView.appendChild(card);
     }
+  }
+
+  // Groepeert een lijst {date, time} showtimes per dag en rendert per dag
+  // een label ("Vandaag", "Morgen", "Woensdag", ...) met de bijbehorende tijden.
+  function renderShowtimesByDay(showtimes, todayISO, tomorrowISO) {
+    const byDate = new Map();
+    for (const s of showtimes) {
+      if (!byDate.has(s.date)) byDate.set(s.date, []);
+      byDate.get(s.date).push(s.time);
+    }
+    const dates = [...byDate.keys()].sort();
+
+    const wrap = document.createElement("div");
+    wrap.className = "showtimes-by-day";
+
+    for (const date of dates) {
+      const group = document.createElement("div");
+      group.className = "showtime-day-group";
+
+      const label = document.createElement("span");
+      label.className = "showtime-day-label";
+      label.textContent = dayLabelForISO(date, todayISO, tomorrowISO);
+      group.appendChild(label);
+
+      const times = document.createElement("div");
+      times.className = "showtimes";
+      for (const t of byDate.get(date).sort()) {
+        const span = document.createElement("span");
+        span.className = "showtime";
+        span.textContent = t;
+        times.appendChild(span);
+      }
+      group.appendChild(times);
+
+      wrap.appendChild(group);
+    }
+
+    return wrap;
   }
 
   function renderUpcoming() {
@@ -201,30 +291,16 @@
       const card = document.createElement("article");
       card.className = "upcoming-card";
 
-      if (film.poster_url) {
-        const img = document.createElement("img");
-        img.className = "poster-thumb poster-thumb-large";
-        img.src = film.poster_url;
-        img.alt = "";
-        img.loading = "lazy";
-        img.addEventListener("error", () => img.remove());
-        card.appendChild(img);
-      }
-
-      const text = document.createElement("div");
-      text.className = "movie-text";
-
       const title = document.createElement("p");
       title.className = "movie-title";
       title.textContent = film.year ? `${film.title} (${film.year})` : film.title;
-      text.appendChild(title);
+      card.appendChild(title);
 
       const date = document.createElement("span");
       date.className = "release-date";
       date.textContent = fmtDate(film.release_date) || "datum onbekend";
-      text.appendChild(date);
+      card.appendChild(date);
 
-      card.appendChild(text);
       el.upcomingView.appendChild(card);
     }
   }
@@ -238,7 +314,16 @@
     });
     el.nowView.hidden = tab !== "now";
     el.upcomingView.hidden = tab !== "upcoming";
-    el.nowControls.querySelector("#cinema-filter").hidden = tab !== "now";
+    el.cinemaFilter.hidden = tab !== "now";
+    document.querySelector(".day-filters").hidden = tab !== "now";
+    render();
+  }
+
+  function setDayFilter(filter) {
+    state.dayFilter = filter;
+    el.dayFilterButtons.forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.dayFilter === filter);
+    });
     render();
   }
 
@@ -252,6 +337,9 @@
   el.cinemaFilter.addEventListener("change", (e) => {
     state.cinemaFilter = e.target.value;
     render();
+  });
+  el.dayFilterButtons.forEach((btn) => {
+    btn.addEventListener("click", () => setDayFilter(btn.dataset.dayFilter));
   });
 
   loadData();

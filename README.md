@@ -4,7 +4,8 @@ Statische pagina met films die nu draaien en binnenkort uitkomen in de
 bioscopen en filmhuizen van Amsterdam (Pathé-vestigingen en filmhuizen zoals
 EYE, Kriterion, FilmHallen, Studio K). Data wordt dagelijks automatisch
 ververst via GitHub Actions en gehost via GitHub Pages — geen eigen server
-nodig.
+nodig. Op het tabblad "Nu draait" kun je filteren op titel, bioscoop, en op
+periode ("Alle dagen" / "Vanavond" / "Dit weekend").
 
 ## Belangrijke kanttekening
 
@@ -21,6 +22,31 @@ op geverifieerde CSS-selectors. Voordat je de automatische update aanzet:
    → Weergeven paginabron) en pas de functies aan. `scripts/test_fixture.py`
    bevat een lokale test die niet van internet afhankelijk is, handig om je
    aanpassingen snel te checken.
+
+### Extra kanttekening: datums bij speeltijden ("Vanavond" / "Dit weekend")
+
+Om op "vanavond" en "dit weekend" te kunnen filteren, moet elke speeltijd een
+datum hebben. filmvandaag.nl toont per film een 7-daagse grid (Vandaag,
+Morgen, en 5 weekdagen bij naam); de functie `_find_day_grid_texts` in
+`scripts/scrape.py` probeert die grid te vinden en er datums uit af te
+leiden. **Dit is nog niet geverifieerd tegen de echte site** — hij is
+geschreven op basis van platte, via een tekst-extractie opgehaalde pagina,
+niet op basis van de ruwe HTML-tags. Controleer dit dus specifiek bij de
+eerste `--debug`-run:
+
+- Vergelijk voor een paar films de datums in `data/now_playing.json` met de
+  speeltijden zoals ze op filmvandaag.nl zelf staan.
+- Als een film geen dag-grid wordt gevonden, krijgen de speeltijden
+  `"date": null` in plaats van een (mogelijk foutieve) datum — die film
+  verschijnt dan altijd onder "Alle dagen", maar nooit onder "Vanavond" of
+  "Dit weekend". Kijk in de `--debug`-uitvoer hoe vaak dat gebeurt.
+- Klopt de datum-toewijzing niet, pas dan `_find_day_grid_texts` aan op basis
+  van de echte HTML rond één film met meerdere speeldata (rechtermuisknop →
+  Weergeven paginabron, zoek op de filmtitel).
+
+`scripts/test_fixture.py` test alleen dat de parselogica correct werkt
+gegeven HTML die aan de aanname voldoet — niet of die aanname klopt voor de
+echte site.
 
 ## Installatie
 
@@ -60,11 +86,42 @@ data/upcoming.json                 "Binnenkort" landelijk, met releasedatum
 .github/workflows/update-data.yml  Dagelijkse automatische update
 ```
 
+### Schema `data/now_playing.json`
+
+```json
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-21T06:00:00+00:00",
+  "source": "https://www.filmvandaag.nl/filmladder/stad/13-amsterdam",
+  "cinemas": [
+    {
+      "name": "Kriterion",
+      "movies": [
+        {
+          "title": "The Odyssey",
+          "year": 2026,
+          "genre": "avontuur / fantasy",
+          "rating": 8.4,
+          "showtimes": [
+            {"date": "2026-09-21", "time": "18:20"},
+            {"date": "2026-09-22", "time": "18:20"}
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+`showtimes[].date` is `null` wanneer de scraper voor die film geen dag-grid
+kon vinden (zie kanttekening hierboven) — zo'n speeltijd telt niet mee voor
+de "Vanavond"/"Dit weekend"-filters, maar blijft wel zichtbaar onder "Alle
+dagen".
+
 ## Uitbreidingsideeën
 
 - Filmposters toevoegen (bijvoorbeeld via de TMDB API, met de titel als
   zoekterm).
-- Extra filters, zoals "vanavond" of "dit weekend".
 - Losse bioscoop-pagina's genereren.
 - Meldingen (bijv. via een RSS-feed die je zelf genereert uit
   `upcoming.json`) wanneer een specifieke film wordt aangekondigd.
