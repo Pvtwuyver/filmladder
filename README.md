@@ -19,6 +19,12 @@ Statische zoekmachine die films matcht op een vrije-tekstomschrijving. Geen serv
 
 De workflow draait daarna automatisch elke maandag; pas de cron-regel in `build-data.yml` aan voor een andere frequentie. Het aantal opgehaalde films is instelbaar via de omgevingsvariabele `TMDB_PAGES` in dat bestand (standaard 50 pagina's × 20 films ≈ 1000 films).
 
+## Kernwoorden
+
+Naast de plotomschrijving haalt `build-data.js` per film ook de TMDb-kernwoorden op (bijvoorbeeld "snake", "world war ii") en telt die mee bij het genereren van de embedding. TMDb's `overview` is vaak een korte marketingtekst zonder dat soort specifieke details, dus dit verbetert de match op omschrijvingen die op zulke details leunen. De kernwoorden worden ook getoond op elke resultaatkaart, zodat zichtbaar is waarom een film is gematcht.
+
+Dit voegt één extra TMDb-aanroep per film toe, dus de workflow duurt merkbaar langer dan voorheen (bij 5 gelijktijdige aanvragen en ongeveer 1000 films reken je op enkele minuten extra). Voer de workflow na deze update opnieuw handmatig uit, anders blijft de bestaande dataset zonder kernwoorden staan.
+
 ## Let op
 
 - De eerste zoekopdracht op de site duurt langer: de browser downloadt dan het taalmodel (ongeveer 100–150 MB, eenmalig, wordt daarna lokaal gecached).
