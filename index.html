@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Filmzoeker — zoek op omschrijving</title>
+<meta name="description" content="Zoek films op wat er gebeurt in het verhaal, niet op titel. Werkt volledig in de browser, zonder server." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #12141c;
+    --bg-raised: #1a1d28;
+    --border: #2b2f3d;
+    --text: #f1efe8;
+    --text-muted: #8b90a0;
+    --accent: #e7b24a;
+    --accent-soft: rgba(231, 178, 74, 0.15);
+    --font-display: "Oswald", sans-serif;
+    --font-body: "IBM Plex Sans", sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    line-height: 1.5;
+  }
+
+  .page {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 4rem;
+  }
+
+  header.hero {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .brand {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin: 0 0 0.6rem;
+    display: inline-block;
+    padding: 0 0.75rem 0.6rem;
+    border-bottom: 3px solid var(--accent);
+  }
+
+  .tagline {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    margin: 0;
+  }
+
+  .search-bar {
+    display: flex;
+    gap: 0.5rem;
+    max-width: 640px;
+    margin: 2rem auto 0.75rem;
+    background: var(--bg-raised);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .search-bar:focus-within {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+
+  .search-bar input {
+    flex: 1;
+    min-width: 0;
+    background: transparent;
+    border: none;
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    padding: 0.6rem 0.75rem;
+    outline: none;
+  }
+
+  .search-bar input::placeholder { color: var(--text-muted); }
+
+  .search-bar button {
+    background: var(--accent);
+    color: #1a1508;
+    border: none;
+    border-radius: 4px;
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.6rem 1.25rem;
+    cursor: pointer;
+    transition: filter 0.15s;
+    white-space: nowrap;
+  }
+
+  .search-bar button:hover:not(:disabled) { filter: brightness(1.08); }
+  .search-bar button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .example-chip {
+    display: block;
+    margin: 0 auto 1rem;
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .example-chip:hover { border-color: var(--accent); color: var(--text); }
+
+  button:focus-visible,
+  input:focus-visible,
+  .example-chip:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .status {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    min-height: 1.4em;
+    margin: 0 0 2rem;
+  }
+
+  .results {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1.5rem 1.25rem;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    overflow: hidden;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+
+  .card:hover { transform: translateY(-4px); border-color: var(--accent); }
+
+  .poster {
+    aspect-ratio: 2 / 3;
+    width: 100%;
+    object-fit: cover;
+    background: var(--bg-raised);
+    display: block;
+  }
+
+  .poster-fallback {
+    aspect-ratio: 2 / 3;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-raised);
+    color: var(--text-muted);
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .card-body { padding: 0.6rem 0.1rem 0; }
+
+  .card-title {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.25;
+  }
+
+  .card-year { color: var(--text-muted); font-size: 0.8rem; margin: 0.15rem 0 0.4rem; }
+
+  .card-overview {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  footer.note {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin-top: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1.5rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card, .search-bar, .example-chip, .search-bar button { transition: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <h1 class="brand">Filmzoeker</h1>
+      <p class="tagline">Zoek films op wat er gebeurt, niet op titel.</p>
+    </header>
+
+    <form id="search-form" class="search-bar">
+      <label for="query" class="visually-hidden" style="position:absolute;left:-9999px;">Omschrijving van de film</label>
+      <input
+        type="search"
+        id="query"
+        name="query"
+        placeholder="Bijvoorbeeld: een film die zich afspeelt in WW2, met slangen"
+        autocomplete="off"
+      />
+      <button type="submit">Zoek films</button>
+    </form>
+    <button type="button" id="example-btn" class="example-chip">Probeer: WW2-film met slangen</button>
+
+    <p id="status" class="status" role="status" aria-live="polite">Films laden…</p>
+
+    <section id="results" class="results" aria-live="polite"></section>
+
+    <footer class="note">
+      Zoekt semantisch met een taalmodel dat volledig in je browser draait. Er wordt niets naar een server gestuurd.
+    </footer>
+  </div>
+
+  <script type="module">
+    const MODEL_ID = "Xenova/paraphrase-multilingual-MiniLM-L12-v2";
+    const RESULT_LIMIT = 24;
+
+    const statusEl = document.getElementById("status");
+    const resultsEl = document.getElementById("results");
+    const formEl = document.getElementById("search-form");
+    const inputEl = document.getElementById("query");
+    const exampleBtn = document.getElementById("example-btn");
+    const submitBtn = formEl.querySelector('button[type="submit"]');
+
+    let movies = [];
+    let embedder = null;
+
+    function setStatus(text) {
+      statusEl.textContent = text;
+    }
+
+    function cosineSim(a, b) {
+      let dot = 0;
+      for (let i = 0; i < a.length; i++) dot += a[i] * b[i];
+      return dot; // vectoren zijn genormaliseerd, dus dot product = cosine similarity
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement("div");
+      div.textContent = str ?? "";
+      return div.innerHTML;
+    }
+
+    function renderResults(list) {
+      resultsEl.innerHTML = "";
+      for (const movie of list) {
+        const card = document.createElement("article");
+        card.className = "card";
+
+        if (movie.poster) {
+          const img = document.createElement("img");
+          img.className = "poster";
+          img.src = movie.poster;
+          img.alt = `Poster van ${movie.title}`;
+          img.loading = "lazy";
+          card.appendChild(img);
+        } else {
+          const fallback = document.createElement("div");
+          fallback.className = "poster-fallback";
+          fallback.textContent = movie.title;
+          card.appendChild(fallback);
+        }
+
+        const body = document.createElement("div");
+        body.className = "card-body";
+        body.innerHTML = `
+          <p class="card-title">${escapeHtml(movie.title)}</p>
+          <p class="card-year">${movie.year ?? ""}</p>
+          <p class="card-overview">${escapeHtml(movie.overview)}</p>
+        `;
+        card.appendChild(body);
+        resultsEl.appendChild(card);
+      }
+    }
+
+    async function loadMovies() {
+      try {
+        const res = await fetch("data/movies.json");
+        if (!res.ok) throw new Error(res.statusText);
+        movies = await res.json();
+      } catch (err) {
+        console.error(err);
+        movies = [];
+      }
+      if (movies.length === 0) {
+        setStatus("Nog geen filmdata beschikbaar. Voer eerst de build-workflow uit (zie README).");
+        submitBtn.disabled = true;
+      } else {
+        setStatus(`${movies.length} films beschikbaar. Typ een omschrijving en klik op Zoek films.`);
+      }
+    }
+
+    async function getEmbedder() {
+      if (!embedder) {
+        setStatus("Zoekmodel laden (eenmalig, wordt daarna in de browser gecached)…");
+        const { pipeline } = await import("https://cdn.jsdelivr.net/npm/@huggingface/transformers@3/+esm");
+        embedder = await pipeline("feature-extraction", MODEL_ID, { dtype: "q8" });
+      }
+      return embedder;
+    }
+
+    async function runSearch(query) {
+      if (!movies.length) return;
+      submitBtn.disabled = true;
+      setStatus("Bezig met zoeken…");
+      try {
+        const extractor = await getEmbedder();
+        const output = await extractor(query, { pooling: "mean", normalize: true });
+        const queryVec = Array.from(output.data);
+        const scored = movies
+          .map((m) => ({ ...m, score: cosineSim(queryVec, m.embedding) }))
+          .sort((a, b) => b.score - a.score)
+          .slice(0, RESULT_LIMIT);
+        renderResults(scored);
+        setStatus(`${scored.length} films getoond, gesorteerd op relevantie voor "${query}".`);
+      } catch (err) {
+        console.error(err);
+        setStatus("Er ging iets mis tijdens het zoeken. Probeer het opnieuw.");
+      } finally {
+        submitBtn.disabled = false;
+      }
+    }
+
+    formEl.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const query = inputEl.value.trim();
+      if (query) runSearch(query);
+    });
+
+    exampleBtn.addEventListener("click", () => {
+      inputEl.value = "De film speelt zich af tijdens WW2 en er komen slangen in voor";
+      runSearch(inputEl.value);
+    });
+
+    loadMovies();
+  </script>
+</body>
+</html>
