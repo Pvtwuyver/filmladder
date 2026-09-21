@@ -20,6 +20,9 @@ const PAGES = Number(process.env.TMDB_PAGES || 50);
 const IMAGE_BASE = "https://image.tmdb.org/t/p/w342";
 const OUTPUT_PATH = new URL("../data/movies.json", import.meta.url);
 
+// Gelijktijdige aanvragen bij het ophalen van keywords per film.
+const KEYWORD_CONCURRENCY = 5;
+
 async function fetchPopularMovies() {
   const movies = [];
   for (let page = 1; page <= PAGES; page++) {
@@ -44,12 +47,52 @@ async function fetchPopularMovies() {
   return movies;
 }
 
+async function fetchKeywords(movieId) {
+  const url = `https://api.themoviedb.org/3/movie/${movieId}/keywords?api_key=${TMDB_API_KEY}`;
+  const res = await fetch(url);
+  if (!res.ok) {
+    console.warn(`Kon kernwoorden niet ophalen voor film ${movieId}: ${res.status}`);
+    return [];
+  }
+  const data = await res.json();
+  return (data.keywords || []).map((k) => k.name);
+}
+
+// TMDb's overview is vaak een korte marketingtekst zonder specifieke plotdetails
+// (dieren, voorwerpen, tijdsperiode). De keywords-endpoint geeft die details wel,
+// en verbetert daarmee de match op specifieke omschrijvingen zoals "met slangen".
+async function enrichWithKeywords(movies) {
+  const queue = [...movies];
+  const enriched = [];
+  let done = 0;
+
+  async function worker() {
+    while (queue.length) {
+      const movie = queue.shift();
+      const keywords = await fetchKeywords(movie.id);
+      enriched.push({ ...movie, keywords });
+      done++;
+      if (done % 50 === 0) {
+        console.log(`${done}/${movies.length} films van kernwoorden voorzien.`);
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: KEYWORD_CONCURRENCY }, worker));
+  return enriched;
+}
+
+function buildEmbeddingText(movie) {
+  const keywordsText = movie.keywords && movie.keywords.length ? ` Kernwoorden: ${movie.keywords.join(", ")}.` : "";
+  return `${movie.overview}${keywordsText}`;
+}
+
 async function embedMovies(movies) {
   console.log("Embedding-model laden…");
   const extractor = await pipeline("feature-extraction", MODEL_ID, { dtype: "q8" });
   const results = [];
   for (const [i, movie] of movies.entries()) {
-    const output = await extractor(movie.overview, { pooling: "mean", normalize: true });
+    const output = await extractor(buildEmbeddingText(movie), { pooling: "mean", normalize: true });
     // Afronden op 5 decimalen om het uiteindelijke JSON-bestand kleiner te houden.
     const embedding = Array.from(output.data).map((v) => Math.round(v * 1e5) / 1e5);
     results.push({ ...movie, embedding });
@@ -63,7 +106,9 @@ async function embedMovies(movies) {
 async function main() {
   const rawMovies = await fetchPopularMovies();
   console.log(`${rawMovies.length} films met plot en poster gevonden.`);
-  const withEmbeddings = await embedMovies(rawMovies);
+  console.log("Kernwoorden ophalen per film…");
+  const withKeywords = await enrichWithKeywords(rawMovies);
+  const withEmbeddings = await embedMovies(withKeywords);
   await mkdir(new URL("../data", import.meta.url), { recursive: true });
   await writeFile(OUTPUT_PATH, JSON.stringify(withEmbeddings));
   console.log(`Dataset geschreven naar data/movies.json (${withEmbeddings.length} films).`);
